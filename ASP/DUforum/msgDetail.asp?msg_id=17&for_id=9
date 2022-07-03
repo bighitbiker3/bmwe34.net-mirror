@@ -1,0 +1,2232 @@
+
+<html>
+<head>
+<title>BmwE34 Network</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/default.css" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+    <td align="left" class = "bg_banner" height="62" valign="middle"> 
+      
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="157" height="11"><img src="../../Slice/Bmwe34_01.jpg" width="157" ALT="" height="20"></td>
+    <td bgcolor="#000000" width="70" height="11">&nbsp;</td>
+    <td bgcolor="#000000" width=200% colspan="2" height="11">&nbsp;</td>
+    <td width="141" bgcolor="#000000" height="11"> 
+      <div align="right"><img src="../../Slice/Bmwe34_03.jpg" ALT="" width="140" height="20"></div>
+    </td>
+    <td width="110" height="11"> 
+      <div align="right"><img src="../../Slice/Bmwe34_04.jpg" ALT="" width="110" height="20"></div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="157" height="7"><img src="../../Slice/Bmwe34_05.jpg" ALT="" width="157" height="19"></td>
+    <td bgcolor="#000000" colspan="5" height="7" rowspan="2"> 
+      <div align="left"><img src="../assets/logo.jpg" width="283" height="49"></div>
+      </td>
+  </tr>
+  <tr> 
+    <td width="157"><img src="../../Slice/Bmwe34_07.jpg" ALT="" width="157" height="31"></td>
+  </tr>
+  <tr> 
+    <td width="157"><img src="../../Slice/Bmwe34_15.jpg" ALT="" width="157" height="20"></td>
+    <td width="70"><img src="../../Slice/Bmwe34_16.jpg" ALT="" width="133" height="20"></td>
+    <td bgcolor="#FFFFFF" background="../../Slice/Bmwe34_18.jpg" colspan="4"> 
+      <div align="right"></div>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr valign="middle"> 
+    <td align="left" class = "bg_navigator" height="20"> 
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<div class = "login"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr align="left" valign="middle"> 
+      <td width="72%"> 
+        <div class = "toolbar"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#00AAFF">&nbsp;&nbsp;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#00AAFF">&nbsp;<a href="../DUhome/default.asp">HOME</a> 
+          |</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#00AAFF"> 
+          <a href="../DUregistry/default.asp"> REGISTRY</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#00AAFF">|</font></b></font><font color="#00AAFF"> 
+          </font></b></font><font color="#00AAFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="../DUregistry/Gallery.asp">GALLERY</a></b></font></font></b></font></b></font> 
+          <font color="#00AAFF">|</font></b></font><font color="#00AAFF"> </font></b></font><font color="#00AAFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="../DUclassified/default.asp">CLASSIFIEDS</a> 
+          </b></font>|</font></b></font><font color="#00AAFF"> <a href="../DUdirectory/default.asp">LINKS</a> 
+          | <a href="../DUforum/default.asp"> TECH FORUM</a> | <a href="../DUpoll/default.asp">POLLS</a></font></b></font></div>
+      </td>
+      <form name="form1" method="post" action="../DUforum/search.asp">
+        <td align="right" width="28%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#FFFF00">SEARCH 
+          FORUM</font></b> 
+          <input type="text" name="KEYWORD" size="15" class = "fields">
+          <input type="submit" name="Submit" value="Go" class = "buttons">
+          &nbsp;</font></td>
+      </form>
+    </tr>
+  </table>
+</div>
+</font>
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr align="left" valign="top"> 
+          <td width="200"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="center" valign="middle" class = "bg_banner" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#FFFFFF">WHAT'S 
+                  NEW</font></b></font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+				
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">ADS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=715">M535i Sports -> $9500</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=714">FS: 1991 525i for parts- East of Toronto CA  -> $2000 or BO</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=16&sub_id=50&ad_id=713">Need Automatic Trany for my 1994 540i-please help! -> $</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=712">Want my baby? I'm off travelling! -> £2500</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=8&sub_id=25&ad_id=711">cd changer for parts -> $30 dollars</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">REGISTRY</font></b></font></td>
+    <td align="right" valign="middle">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000" colspan="2"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" colspan="2"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1932">Albert's 1991 - 525i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1931">michael's 1989 - 535i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1930">Brad's 1990 - 535i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1929">Mical's 1993 - 525i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1928">john's 1992 - 525ix</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000" colspan="2"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<script language="JavaScript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">POLLS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"> 
+      <table border="0" cellspacing="2" cellpadding="2" width="180">
+        <TR> 
+          <FORM name="QUESTION" action="../DUpoll/pollVoting.asp" method="get">
+            <TD align="left" valign="top"> 
+              <TABLE border="0" cellspacing="1" cellpadding="1">
+                <TR> 
+                  <TD align="left" valign="middle" colspan="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <i>(3313 votes)</i></font></b></TD>
+                </TR>
+                <TR> 
+                  <TD align="left" valign="middle" colspan="2"> 
+                    <div class = "links"> 
+                      <INPUT type="hidden" name="QUEST_ID" value="16">
+                      <font face="Verdana, Arial, Helvetica, sans-serif" size="1">Do you drive your E34 during winter?</font> <a href="../DUpoll/pollResult.asp?id=16"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">(View 
+                      Result)</font></a></div>
+                  </TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="45" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>No</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="46" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>Sometimes</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="44" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>Yes</I></FONT></TD>
+                </TR>
+                
+                <TR align="right"> 
+                  <TD valign="middle" align="center">&nbsp; </TD>
+                  <TD valign="middle"> 
+                    <input type="submit" name="Submit" value="Vote" class = "buttons">
+                  </TD>
+                </TR>
+              </TABLE>
+            </TD>
+          </form>
+        </TR>
+      </TABLE>
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+							
+				</td>
+              </tr>
+			  <tr>
+                <td align="center" valign="middle" class = "bg_banner" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#FFFFFF">WHAT'S 
+                  HOT</font></b></font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+				
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">ADS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=7&sub_id=21&ad_id=632">BMW e34 BODY KIT!!!! -> $800</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=625">410hp Supercharged 540i Sport--SOLD $7500 -> $11,000</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=639">M5 "AS NEW" 1991 -> $17900</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=620">1990 BMW 525i 5 speed 162k Detroit -> $3000</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../duClassified/adDetail.asp?cat_id=2&sub_id=1&ad_id=613">1989 535i 5-speed -> $6000</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">REGISTRY</font></b></font></td>
+    <td align="right" valign="middle">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000" colspan="2"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" colspan="2"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1340">graeme's 1991 - 525i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=735">Ruud    (Rudolf)'s 1992 - 520i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=20">Ivan's 1991 - M5 3.6</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=1265">James's 1994 - 525tds</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DURegistry/REGDetail.asp?id=984">FOR SALE's 1994 - Dinan 540i</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000" colspan="2"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">POLLS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUpoll/pollDetail.asp?id=13">What model of E34 do you drive?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUpoll/pollDetail.asp?id=16">Do you drive your E34 during winter?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUpoll/pollDetail.asp?id=15">How much do you spend?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+							
+				</td>
+              </tr>			  
+            </table>
+          
+          </td>
+          <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif"></td>
+          <td> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="left" valign="top" class = "bg_login" height="30"> 
+                  
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') {
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (val<min || max<val) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="30">
+  <tr align="left" valign="middle"> 
+    <td> 
+      <div class = "links"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2"> 
+        
+        &nbsp;Welcome, visitor! <a href="../DUhome/register.asp">Please register</a> 
+        - <font size="1"><a href="../DUhome/forgotpass.asp">Lost password?</a> 
+        </font> 
+        
+        </font></b></font></div>
+    </td>
+    <form name="LOGIN" method="post" action="/ASP/DUforum/msgDetail.asp?msg_id=17&for_id=9">
+      <td align="right"> 
+        <div class = "log"> 
+		
+          <input type="text" name="Username" size="10" class="fields" value="">
+          <input type="password" name="Password" size="10" class="fields" value="">
+          <input type="submit" name="Submit" value="Login" class = "buttons" onClick="MM_validateForm('Username','','R','Password','','R');return document.MM_returnValue">
+          &nbsp; 
+          
+        </div>
+      </td>
+    </form>
+  </tr>
+</table>
+
+                </td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td align="left" valign="middle"  height="20"> 
+                        <div class = "links">&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="default.asp">MESSAGES 
+                          BOARDS</a> &gt; <a href="messages.asp?for_id=9">E34 UPGRADE</a> &gt; E34 SERVICE MANUAL FROM INTERNET? </font></b></div>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="middle" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="middle" class = "bg_navigator" height="20"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+                        &nbsp;</font></b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"><b><font color="#00AAFF">TOPIC 
+                        DETAIL </font></b></font></font></td>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                    </tr>
+                    <tr valign="top" align="center"> 
+                      <td align="left"> 
+                        <div class = "links"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td align="left" valign="top"> 
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:paschalisg@yahoo.com">paschalisg</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">10 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Posted 
+                                            by paschalisg on 04/04/2002 with 45 replies</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">IS THERE ANY POSIBILITY TO DOWNLOAD THE E34 SERVICE MANUAL FROM THE NET?</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top">&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top"> 
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:johnwright21@hotmail.com">doncastere</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by doncastere on 10/04/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i would like to which site i can go to download a manual</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:cerdman1@cox.net">cerdman</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">3 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by cerdman on 08/07/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">There are some CD based manuals circulating on ebay.  I've bought one, but have not received yet.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:mrkeith@gofree.indigo.ie">vespidar</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by vespidar on 24/07/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">There you go, I spent ages trying to find these<br>They cover the 3&5 series models including the E34<br>let me know how you get on<br><br><A HREF="http://www.wheels.kiev.ua/cars/bmw3.html" TARGET="_new">http://www.wheels.kiev.ua/cars/bmw3.html</A><br><br>keith.hughes@softco.com</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:nieuwding@zeelandnet.nl">anita</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by anita on 25/07/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Damn, i just wanted to find out if i needed some special tools for cluch replacement of my manual gearbox!<br>I spent ours on the internet looking for some guide, but no luck sofar.... Who can tell me about this repair or has a good website to look for this??? </font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto: @ ">marko</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by marko on 26/07/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">This link that you, vespidar, gave us, is quite OK. Better than nothing anyway. Thanks!</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:cata_catana@yahoo.com">catalin</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by catalin on 03/03/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hi there<br>Does enyone has the repair manual for bmw 525 tds 1992 ( diesel)? Can y send it to me? I have problems with panel board, i have to repair it and i need the diagram.<br>Thanks in advance</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:mcosta@cox.net">mcosta</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by mcosta on 05/03/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><A HREF="http://dl.bmworg.ru/book/haynes/" TARGET="_new">http://dl.bmworg.ru/book/haynes/</A><br><br>this is the correct address to download all the pdf files for the complete Haynes manual in english. There are 13 seperate pdf files and they cover 3& 5 series from 1981 to 1991.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:chiq@jvlnet.com">chiquoine</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by chiquoine on 04/05/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">just purchased a 1993 M%..previously had a 750il so all new to me...an suggestions for good manual(s) and where to find them?</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:aoraha@hotmail.com">aoraha</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by aoraha on 06/05/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I am a proud recent owner of a 91 535i that does not work.  I am in search of an owners manual and would greatly appreciate it if you have it to send me an e-copy.<br>I am troubleshooting an electrical problem that causes the engine to rotate, but not start.  The cap was bad, I replaced it but still no start.  I checked for spark from the coil but none was coming.  I just ordered the coil and expect it to arrive tomorrow.  It is a Motronic system Ignition coil that I am hoping will solve the problem.  If not, then off to the MCU for a possible shorted driver transistor.  I have to locate the MCU first and I think the user's manual will show that.<br></font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:leonmassey@hotmail.com">Tadpole</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by Tadpole on 25/08/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">There is a manual on wheels.kiev.ua but unfortunately it doesnt cover the 520i sorry </font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:tordaip@mn.com">paul</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by paul on 22/09/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">dgfagf</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:tordaip@mn.com">paul</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by paul on 22/09/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">pleae help me to found E34 manuals</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:shans@mailbox.riga.lv">memegeris</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by memegeris on 25/09/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">pleae help me to found E34 manuals</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:dinesh@lanmetrix.co.za">MadDoG</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">3 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by MadDoG on 12/11/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">thx for the link, i'm gonna read thru' to find out why i'm lacking power (esp. up hills) after having replaced pistons,etc.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:earni5@hotmail.com">Mr Flynn</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by Mr Flynn on 22/11/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hello there to everyone in e34 land. I've been on to Haynes, the manual people and they have not, or have no intention to produce a manual for the e34 1995 on. There theory is to get the m43 engine from the 3series manual, and then buy the 5series manual for the body, suspention ect. This will still leave you with some grey areas regarding the electrics. hope this is a little bit of help:-)</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:yoyomonkey1000@hotmail.com">marshad</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by marshad on 04/12/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hi everyone. I am brand new to BMW and i don't know that much so i hope from coming here a little genius can rub off on me! <br><br>I do have Owners Handbook which covers models :<br>520i<br>525i<br>530i<br>535i<br>524td<br><br>The book is divided into 6 Sections<br>Operating Instructions<br>Practical hints<br>Care of the Car<br>Technical Data<br>Index<br><br>If anyone needs a copy i don't mind scanning it page for page and sending them a PDF copy if it so just drop me a small line and i will get to it <br><br></font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:dcave@optimalonline.com">j_dcave</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by j_dcave on 24/12/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">You can download the Haynes workshop manual for the 3 and 5 series (European models) from this site:<br>dl.bmworg.ru/book/haynes/3&5_00.pdf<br>Hope that helps.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:f_kaisi@yahoo.com">faisal</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by faisal on 26/12/2002</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i would like to which site i can go to download a manual</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:miroudoukine@hotmail.com">MikeeMax</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by MikeeMax on 02/01/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I seek an original handbook  of my car in remote loading, in<br>English or French.<br><br>Thank you by advance</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:agastu@airtel.net">agastu</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by agastu on 04/01/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hi, my level of english is poor. I´m spanish. Go to page:<br><A HREF="http://dl.bmworg.ru/book/haynes/3&5_00.pdf" TARGET="_new">http://dl.bmworg.ru/book/haynes/3&5_00.pdf</A><br>The manual is for 3 & 5 Series in format pdf (you needed Acrobat Reader for reading).<br>Happy new Year (FELIZ AÑO NUEVO DESDE ESPAÑA)<br></font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:janiss@amberses.eunet.lv">LATJES</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by LATJES on 18/05/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Can somone please  sell copy or scan or show where to download E34 Owners Manual1990 edition (that covers 520i,525i,530i,535i,524td). TJ fom Oz was kind enogh to help but it was the 1988 edition which  unfortunately is different -janiss@ambersea.eunet.lv</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:shaun.wilson3@btopenworld.com">rumboy</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by rumboy on 01/07/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">My steering wheel is locked and i cannot get the car to start. anyone have any suggestions?</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:pepler@telus.net">92535</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">3 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by 92535 on 08/07/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">your better off with out the haynes manual it will not help with anything</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:firoazm@yahoo.com">FIRO...AZM</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by FIRO...AZM on 14/07/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I couldn't find 2 or 3 section, they are:<br>Transmission<br>Manual transmission<br>Automatic transmission<br>Clutch and driveline<br><br>can any body help? or can scan it send it to my email<br>firoazm@yahoo.com</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:provo@sci.fi">provo</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by provo on 01/08/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I'm looking for 5 series owners manual, which includes 525 tds touring year  model 1996 (E34). Does anyone have it for example in PDF -format? I would priciate, because mine is german language.<br><br>-provo</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:vivitw@bridgesone.co.th">016361505</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by 016361505 on 04/10/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I'm looking for manual of e34 520 m50 24v. pls send to my mail www.vivitw@bridgestone.co.th many thanks.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:catfish@mcn.org">cacatfish</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by cacatfish on 18/10/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Folks, the only good manual for these cars is the Bentley manual.  A search on the internet will show some retailers.  Bimmerzone sells it for $45.  The Haynes is garbage, you are better off without it,  The Chilton is no better.<br>Bentley manuals are awesome and well worth the extra few dollars over the cheapies if you work on your own car.<br>Colin</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:showbiz@dizariomusic.com">showbiz</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by showbiz on 23/11/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Haynes book sucks! I need to see how to take the heater controls out, to replace the bulbs, and theres nothing in it at all about stuff like that. Also, I would like a more detailed diagram of the wireing under the hood, i.e (sensors) etc. I was recently trying to track an oil leak, on the drivers side(lower) and I think I unpluged somthing under the manafold or something, cause now it cranks but won't start, does anyone know what I may have done wrong?????</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:ezilaptop@hotmail.com">EZi525</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">5 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by EZi525 on 23/12/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">if anyone gets one of the repair manuals on cd and wants to send it to me i can duplicate it and everyone can have one for the price of the postage</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:gary_mason@caradonplumbing.com">K Reg BMW</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by K Reg BMW on 23/12/2003</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I have an issue with my 520i (E34), could someone point me in the right direction for a schematic diagram? The only one ia can find is from a Russian site, but some it doesn't include my car!</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:ruudkist@schrijftgeschiedenis.nl">Rodolfo</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by Rodolfo on 12/01/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">You can try the URL  <A HREF="http://home.deds.nl/~boxo/" TARGET="_new">http://home.deds.nl/~boxo/</A>  There is a "manual"  and an " eletrical troubleshooting" </font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:ah_altaie@yahoo.com">ahm77</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">8 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">17 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by ahm77 on 03/03/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Go to www.e34.de <br>Its a site in german, but trust me it has the manual (in english).<br>Follow the link (Schrauberecke)<br>Then (Tips and Tricks)<br>Then scroll down to the end of the page.<br>Enjoy.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:dave@south.cx">davesouth</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by davesouth on 29/03/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Has anyone seen the Bently Workshop Manual anywhere in PDF, or has anyone seen it for less than £60.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:shaylee@shaw.ca">Sparrow</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by Sparrow on 12/04/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">$77 CDN from Chapters (<A HREF="http://www.chapters.indigo.ca)" TARGET="_new">http://www.chapters.indigo.ca)</A>  for the Bentley manual.<br>~55 US<br>~32 Pounds Sterling<br>Being able to read a comprehensive manual while working on your 5er.  <br>Priceless.<br></font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:Chris_tracey.Souness@xtra.co.nz">csouness</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by csouness on 04/05/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hi, looking for a W/shop manual specifically for a 540i E34. 1993.  Have tried the links given above however nothing has the 540i included.  Have a problem with drive train shake, hoping the manual will help troubleshooting.  Any assistance appreciated</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:jsarangapani@hotmail.com">jagannath</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">5 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by jagannath on 13/05/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I am looking for a service manual which covers the BMW 518i 1993 model can any one help and point me in the right direction? any help will be much appreciated</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:barabas@antwerpen.be">Roland</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by Roland on 06/06/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Via eBay, searching with 'E34' you receive a few links to buy an electronic manual on CD. These CD's contain a lot of data and ways to repair your car.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:sweduk@yahoo.com">sweduk</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by sweduk on 08/07/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Where can I download  the manual for a `93  -316 touring ?</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:skeletaz@yahoo.com">malcolmX</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">8 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by malcolmX on 06/08/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Any idea where to get `94 540 Manual?</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:tcdoe@kolumbus.fi">Tcdoe</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">3 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by Tcdoe on 30/08/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Here's a link to a owner's manual for a 1989 E32 (in english ofcourse).  <A HREF="http://bmwe32.student.utwente.nl/manual.html" TARGET="_new">http://bmwe32.student.utwente.nl/manual.html</A><br><br>Most of it applies to the E34 as well. But if anyone has a link to a E34 (specifically 535i '91)  owner's manual in english, feel free to share it. </font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:ddsmwilliams@xtra.co.nz">donw</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by donw on 19/09/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I have just bought my first bimma and love it<br><br>does anyone know where I can get a specific service manual for a 94 E34 540 3998cc V8 4 speed Auto?<br><br>does anyone you know any web sites where I can down load an english version thats not Haynes? which doesnt cover my model and the content sucks as it covers too many models and does not have enough tech details, the sites mentioned so far either dont work for me or dont cover my model<br><br>or has anyone got a cd I could copy or I send you a post paid blank to copy for me?<br></font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:info@apobae.com">J2000</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by J2000 on 03/11/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hello..<br>Anybody have USER MANUAL for 520i 1990 English Language ?<br>I really need it..<br><br>Regards<br><br>J2000</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:seal11@aol.com">seal11</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by seal11 on 15/11/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I have the Factory Repair Manual, Construction Group Repair Manual, Specifications Manual and Nominal Vlues on CD-rom for ALL E34 models.  E-mail me (seal11@aol.com) if interested.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:parvelleon@avjets.net">parvel</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by parvel on 29/11/2004</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I am having problems with my 1994 530I v-8 .First of all my <br>trans program light came on and what ive been doing is just <br>shutting it off to reset it .I let my wife take it to a dealer and they told her <br>we need a new tranny but we could still drive it a few more months.<br> i would like to know if there is something else i could try before replacing my tranny that might take up my whole <br>life savings<br>And also my vehicle feels like its not getting any steady amount of fuel to the injectors . there is a fuel line that is near the drivers side firewall that has fuel pumping out of it<br>but when i press on the gas pedal it shutters<br></font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr align="left" valign="top"> 
+                                    <td width="150"> 
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:kcfry@att.net">kcfry</a></font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">0 topics</font></li>
+                                      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1 replies</font></li>
+                                    </td>
+                                    <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+                                    <td> 
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><i>&nbsp;Replied 
+                                            by kcfry on 03/07/2005</i></font></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"> 
+                                            <table width="98%" border="0" cellspacing="3" cellpadding="3">
+                                              <tr> 
+                                                <td align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">I agree that the Bentley Manual is the best; however, it is not entirely well written/organized. The sequence in the E30 (325i with M20 engine) for assembling the head is incorrect. You must place valve stems into valve guides and then install the valve stem oil seals over protective sleeves followed by the installation of valve springs. Have occasionally found other errors not so major.</font></td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr align="left" valign="top" bgcolor="#000000"> 
+                                    <td colspan="3"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                                  </tr>
+                                </table>
+                                
+                              </td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top">&nbsp;</td>
+                            </tr>
+                          </table>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="middle" class = "bg_navigator" height="20"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;<font color="#00AAFF">REPLY 
+                        THIS TOPIC</font></font></b></td>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                    </tr>
+                    <tr> 
+                      <form name="POST" method="get" action="msgAdding.asp">
+                        <td align="left" valign="top"> 
+                          <table width="100%" border="0" cellspacing="5" cellpadding="5">
+                            <tr align="left" valign="middle"> 
+                              <td align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Replier:</font></b></td>
+                              <td> <b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+                                
+                                <font color = "ff0000"> To reply, please 
+                                login or register first.</font> 
+                                
+                                </font></b> </td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Forum:</font></b></td>
+                              <td> 
+                                <div class = "links"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+                                  <a href="messages.asp?for_id=9">E34 Upgrade</a></font></b></div>
+                              </td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Re:</font></b></td>
+                              <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">E34 SERVICE MANUAL FROM INTERNET? </font></b></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td align="right" valign="top" rowspan="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Message:</font></b></td>
+                              <td valign="top"><font size="1"><i><font face="Verdana, Arial, Helvetica, sans-serif">If 
+                                your message contains HTML or ASP codes, please 
+                                replace &lt; with [ and &gt; with ]. If not, your 
+                                codes won't display correctly. </font> </i> </font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td> 
+                                <textarea name="REP_BODY" cols="60" rows="10" class = "fields"></textarea>
+                              </td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+                                <input type="hidden" name="MSG_ID" value="17">
+								<input type="hidden" name="FOR_ID" value="9">
+                                </font></b></td>
+                              <td> 
+                                
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </form>
+                    </tr>
+                    <tr> 
+                      <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="40"> 
+      
+<table width="100%" border="0" cellspacing="3" cellpadding="0">
+  <tr> 
+    <td align="center" valign="middle"> 
+      <div class = "links"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="../../E34main.htm">Home</a>| <a href="../DUhome/privacystat.asp">Privacy Policy</a> | <a href="../../Disclaimer.htm">Disclaimer</a> 
+        | Bookmark Us | <a 	href="mailto:Webmaster@bmwe34.net">Contact Us</a> 
+        | Link To Us | Powered By <a href="http://www.duresources.com">DUportal</a> 
+        &copy; 2002 All right reserved</font></div> 
+		
+      </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+</body>
+</html>
