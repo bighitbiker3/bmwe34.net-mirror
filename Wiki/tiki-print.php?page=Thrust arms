@@ -1,0 +1,253 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Thrust arms 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Thrust+arms">Thrust arms</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="THRUST_ARMS">THRUST ARMS</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Suspension/Data/Upper_ctrl_arm.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$200 OEM</td></tr></table><br />
+<br />
+<span style="text-decoration:underline;">BMA: 2 OEM BMW Lemforder arms + 750 bushings pressed: $200 US</span><br />
+<br />
+On the BMW E34, E28 and E32, upper control arms, also called thrust arms are attached to the subframe through bushings and to the steering arms by ball joints. The bushings are well known for failure because they take most of the load in the front end under braking and may cause the car to shimmy if worn.Shaking of the front end is often cause by worn thrust arm bushings.<br />
+<span style="text-decoration:underline;">Please if you love your BMW use Lemforder (OEM) parts only!!!! Else you will change your arms every year...</span><br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+- The 50-60 Mph shimmy.<br />
+- Severely enhanced brake shimmy.<br />
+- Clunk noise (cause by defective ball joint).<br />
+- Bushings torn or with small cracks.<br />
+<br />
+<br />
+Note from Rjwilson5:<br />
+I had difficulty on a 1995 540 - I assume since it has the lowered Sport suspension.  The backing nut on the through bolt on the bushing was NOT accessible until I loosened the wishbone cross member (1 bolt) and the front stabilizer mounting plate where it ties to t he frame (2 bolts).  Just loosen the bolts - do not take them out.  You will be able to work a 22mm box wrench over the nut and remove the through bolt as outlines above.  Please note:  on my car, the through bolt was a 21mm head! but it still had a 22mm nut.  All other specifics worked as outlined above.<br />
+<br />
+<br />
+You might want to change the whole arm instead of just changing the bushing if the ball joints are worn. Bushings must be pressed into the arm.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+    * 22mm wrench, socket and ratchet.<br />
+    * Pickle fork (can be loaned from Pep Boys free) and hammer or tie-rod puller.<br />
+    * WD 40.<br />
+    * Ramps to tighten the bushings.<br />
+    * New self locking nuts.<br />
+<br />
+1. Raise the front of the BMW E34, support with jacks and remove the wheel.<br />
+2. Break the two 22mm nut on the ball joint and on the bushing side.<br />
+<br />
+<strong>I change the whole arm (I can damage the rubber boot):</strong><br />
+3. Use a pickle fork (it works fine) to remove the ball joint. Or use a tie-rod puller.<br />
+<br />
+<strong>I keep my thrust arm (I cannot damage the rubber boot):</strong><br />
+3. This is a little bit harder, you will need to put the nut back (not all the way) to protect the threads in case of a bad blow. Use a hammer to tap the ball joint carrier while applying upward pressure to the control arm. Sounds tricky but you are not hitting the thrust rod or the ball joint but the metal were the ball joint goes through. Applying in the mean time a lot of upward pressure with a pry bar causing the ball joint to pop out. Or use a tie-rod puller. It can be done with a pickle fork, but it is hard not to damage the boot.<br />
+<br />
+4. Undo the 22mm nut and bolt attaching the thrust arm to the frame. Remove the thrust arm.<br />
+5. If the ball joint turns while tightening the nut, use vice grips or pliers to hold the bottom of the ball joint to the steering plate.<br />
+Installation is reverse of removal but don't tighten the 22mm nut holding the arm to the frame all the way. You will need to lower the car to the ground to tighten the thrust arm bushing nut under load (127 Nm, 90 ft-lb). If you have ramps it is time to use them.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/BMWpuller.gif" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="E32_750il_bushings">E32 750il bushings</h3>
+    * <strong>BMA: 2 Lemforder arms + 750 bushings pressed: $200 US</strong><br />
+    * Bavauto: 2 arms with performance bushings: $300.<br />
+    * BMW: 2 arms no bushings: over $400 (always makes me laugh...)<br />
+<br />
+Thrust arm bushings should always be changed in pairs. You will need a press or find a shop with a press if you are not changing the whole arm.<br />
+<br />
+The BMW 750il and 850i have a stronger heavier bushing designed for the greater weight of the BMW 750 and 850 front end and engine. They give a firmer tighter suspension feel and steering response. I would not change them until you have problems with your existing bushing.If you have a fair number of miles on your car when you do change them you may as well do the arm and the bushing, since half the time the ball joint is worn also.<br />
+<br />
+<h3 class="showhide_heading" id="Note_from_Dan_Pitts:">Note from Dan Pitts:</h3>
+Thanks for the information concerning how to replace thrust arms. One thing that may be helpful in the procedure is jack up the wheel to take some load off of the ball joint before trying to separate the ball joint from the wheel assembly. I had two pickle forks completely wedged under the ball joint with no movement. I reluctantly put the wheels back on (but not the 22mm nut) and backed out of the garage to prepare for a disgraced drive to the mechanic, when the ball joint popped out. I then replaced the left thrust arm and resumed work on the right side after this moment of joy, but this time I placed the jack under the control arm ball joint and took the load off of the thrust arm ball joint. This time, the ball joint came right off using the pickle fork (actually I used two due to the thickness of the boot). Anyway, thanks for the procedure and the tip on replacement parts.<br />
+<br />
+<h3 class="showhide_heading" id="Note_from_Dan_Trevor_D:">Note from Dan Trevor D:</h3>
+On Friday I replaced the Sway bar link, Thrust arm and Control arm on my ’89 535iA using the sections from your troubleshooting section on the thrust and control arms as a guide.<br />
+One thing that I discovered was that to remove either the Thrust arm and/or Control arm from the suspension mounting plate, the following simplifies the procedure:<br />
+Once three bolts from suspension mounting plate are removed<br />
+<br />
+Remove bolts from Control arm and Thrust arm Bushes.<br />
+Remove nuts from ball joints of Control arm and Thrust arm.<br />
+Remove sway bar link (17mm) from mounting plate.<br />
+Remove tie-rod from mounting plate with a tie-rod puller (I bought one from Repco for $30, probably cheaper in the US)<br />
+Mounting plate with Control arm and Thrust arm can now be easily removed<br />
+On your workbench you can now gently knock/tap out the ball joint/s from the mounting plate with a pound hammer.<br />
+Reassemble.<br />
+<br />
+I had initially struggled to try and remove the ball joint ends of the Control arm and Thrust arm from the mounting plate while still attached to the underside of the car.<br />
+Using the above procedure I estimate the total time to replace Control arm, Thrust arm and sway bar links to be 1-1.5 hours each side.<br />
+P.S. I used a trolley jack and 4 x axel stands – 1 under each front jacking point and two under the cross member under the engine.<br />
+<br />
+<h3 class="showhide_heading" id="Note_from_Rustam:">Note from Rustam:</h3>
+My tip is the following: The person should use a blade to remove original ball joint boot such that no rubber of it comes in contact with the fork that is used. The reason for this is the following. If the rubber remains at any rate, the pickle fork being driven with hard blows of the hammer gets tu push right against the rubber which dissipates the shock thereby cushioning the fork, precluding from break up. If the rubber does not exist, the fork is driven directly gainst the metal and the shock transfers wholly, imparting maximum energy to metal. It takes no more than 5-10 energetic blows for separation.<br />
+Consequently it is better to remove whole assembly along with both arms and steering arm to preclude the shock transferring to bushings as is already suggested by someone else.<br />
+<br />
+Note from DonJ<br />
+I had a little difficulty seperating the ball joint.  Dan Trevor's method of lifting up under the sterring plate really helped.  I replaced the entire arm so I did not care about the ball joint.  So I beat on the bottom of the ball joint stud untill it popped out.  When I was tightening it up, the ball joint was spinning and I couldn't torque it all the way.  So I put wheels back on, ran it up on the ramps and then I was able to torque the ball joints.<br />
+This is a helpful web site - thanks for all the tips.<br />
+<br />
+<h3 class="showhide_heading" id="Note_from_Rjwilson5:">Note from Rjwilson5:</h3>
+I had difficulty on a 1995 540 - I assume since it has the lowered Sport suspension.  The backing nut on the through bolt on the bushing was NOT accessible until I loosened the wishbone cross member (1 bolt) and the front stabilizer mounting plate where it ties to the frame (2 bolts).  Just loosen the bolts - do not take them out.  You will be able to work a 22mm box wrench over the nut and remove the through bolt as outlines above.  Please note:  on my car, the through bolt was a 21mm head! but it still had a 22mm nut.  All other specifics worked as outlined above.<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Part_numbers:">Part numbers:</h3>
+<strong>All BMW E34s</strong><br />
+<ul><li>BMW Thrust arm Left/Right: 31 12 1 141 097/098
+</li><li>BMW 750i bushings: 31 12 1 136 607
+</li></ul>
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Thrust+arms">http://www.bmwe34.net/Wiki/tiki-index.php?page=Thrust+arms</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32542564E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

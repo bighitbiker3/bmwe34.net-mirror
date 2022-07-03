@@ -1,0 +1,213 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Pads 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Pads">Pads</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="PADS">PADS</h2>
+<br />
+<span class="img"><img alt="" src="align=center" border="0"  /></span><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >~$50</td></tr></table><br />
+<br />
+<ul><li>IMAGE
+</li></ul>
+The brakes are one thing you don't want to forget while working on your Bmw E34.<br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+Brake lining message or light.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+Front or rear pads<br />
+<br />
+    * Brake cleaner spray and WD 40<br />
+    * 19mm socket (Mike's 89 525 used 15mm in the rear and 17mm in the front. )<br />
+    * Caliper hex socket (7mm on the 535i)<br />
+    * Ratchet, extensions<br />
+    * Channel-lock pliers<br />
+    * New wear sensor<br />
+    * Anti squeak brake pad product.<br />
+<br />
+	*IMAGE*IMAGE<br />
+1. Lift the car and secure it with stands. Remove the wheel.<br />
+2. Unplug the brake wear sensor. And remove the brake hose grommet.<br />
+Spray brake cleaner to clean the brake assembly.<br />
+	*IMAGE*IMAGE<br />
+3. Remove the anti-rattle clip, prying it with a screwdriver.<br />
+4. Remove the caliper bolts (at the back of the caliper).<br />
+	*IMAGE*IMAGE<br />
+5. Before removing the caliper, push the caliper bolts all the way back. (You should also remove them and grease them lightly).<br />
+6. Don't forget to support it to the frame with strong wire.<br />
+<br />
+7. Remove some fluid from the brake reservoir if this one is topped up (pressing the piston will displace fluid back into the reservoir).<br />
+8. Remove the old pads then using a piece of wood or rag to protect the piston, clean the caliper first then compress the caliper piston with a channel-lock pliers.<br />
+Using a C--Clamp<a href="tiki-editpage.php?page=C--Clamp" title="Create page: C--Clamp" class="wiki wikinew">?</a> and a flattened tin can spreads the pressure across the entire caliper piston, reducing the chance of pressing it back in funny.<br />
+9. It is a good time to check the caliper for leaks or piston that slide roughly.<br />
+10. You may want to apply some anti-squeak brake pad product at the back of the new pads. Insert the wear sensor on the new pad.<br />
+11. Installation is reverse of removal. Don't forget to push the caliper bolts all the way to the back before installing it, else the bolts will rest on top of the caliper carrier and you will not be able to install the caliper.<br />
+12. Depress the brake pedal several times to adjust the caliper and pads.<br />
+<br />
+<ul><li>IMAGE
+</li></ul>
+<strong>Tip from Todd G.</strong>: Use a 6&quot; adjustable C-clamp to reset the piston before you remove the caliper bolts. This will make removing the caliper &amp; spring much easier, not to mention, no bleeding fingers from a slipping channel lock.<br />
+\<br />
+You can also buy a tool to reset the piston at your local auto part store.<br />
+<br />
+<h2 class="showhide_heading" id="M5_3.8_M540_Canadian_model_4_pistons_calipers">M5 3.8/ M540 (Canadian model) 4 pistons calipers</h2>
+The calipers don't need to be removed to change the pads. There are 2 pins going through the pads that you have to remove.<br />
+Pressing the calipers pistons is another story: pressing one causes the other to come out, the best way is to leave the old pads in, press one side until both pistons are all the way back then install one new pad. Do exactly the same thing for the other side.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Pads">http://www.bmwe34.net/Wiki/tiki-index.php?page=Pads</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325426884E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

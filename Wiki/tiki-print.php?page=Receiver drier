@@ -1,0 +1,195 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Receiver drier 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Receiver+drier">Receiver drier</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="RECEIVER_DRIER_INSTALLATION">RECEIVER DRIER INSTALLATION</h2>
+<br />
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/ACsystem/Data/receiver_drier.jpg" border="0"  /></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32?</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$50 to $100</td></tr></table><br />
+<br />
+<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
+<em>The receiver/drier acts as a filter in the A/C system. It must be changed when the A/C system is opened for repair. There is two types of driers, one with 3 switches (Bmw E34 before 2/1989) and one with one switch (Bmw E34 after 2/1989)</em><br />
+<br />
+It is located in the front right corner of the engine compartment below the headlight.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+Description of the repair<br />
+<br />
+    * System need to be discharged.<br />
+    * New O'rings.<br />
+    * Rachet, extensions.<br />
+    * New pressure switch if you have an E34 built before 2/1989<br />
+<br />
+1. Discharge the system if not already done (Don't release it on the atmosphere PLEASE).. Remove the plastic cover at the back of the headlight. Remove the air filter box.<br />
+2. Disconnect the connectors from the windshield washer and move the windshield washer to the air filter box location. (You can also remove the washer pump and leave the air box alone).<br />
+3. Disconnect the connectors from the drier pressure switch(es). Remove the 3 screws holding the drier. Remove the drier and remove the pressure switch if E34 built after 2/1989.<br />
+<br />
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/ACsystem/Data/receiver_drier2.jpg" border="0"  /></div><br />
+<strong>Up to 1/1989 E34 ONLY</strong><br />
+4. This is a picture of an old drier. You can see the separate high, low and intermediate pressure switches. The new ones use one switch.<br />
+<br />
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/ACsystem/Data/receiver_drier3.jpg" border="0"  /></div><br />
+<strong>Up to 1/1989 E34 ONLY</strong><br />
+5. Cut off the two spades, splice then wire ends and solder them together. Use shrink wrap or electrical tape to isolate the wire.<br />
+<br />
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/ACsystem/Data/receiver_drier4.jpg" border="0"  /></div><br />
+6. Install the new pressure switch (or used one in case of an after 2/1989 E34) in the drier and install the drier back to its location. Connect the two A/C lines and use new O'rings. Tighten the 3 screws and connect the two connectors (black to black and white to white). Installation is reverse of removal<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Receiver+drier">http://www.bmwe34.net/Wiki/tiki-index.php?page=Receiver+drier</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32542608E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

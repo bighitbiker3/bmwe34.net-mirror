@@ -1,0 +1,207 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Speed sensor 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Speed+sensor">Speed sensor</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="SPEED_SENSOR">SPEED SENSOR</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Electrical/Data/speedometer.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$30-50</td></tr></table><br />
+<br />
+The Speed sensor on the BMW E34 is located at the back of the differential housing in an inaccessible location... follow the only wire. You will find a lot of dirt and grease over there, so be prepared and wear protective glasses and gloves.<br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+• Erratic or no speedometer, erratic or no speed control, erratic wipers functioning.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+    * Protective glasses<br />
+    * WD 40, the screws might be rusted<br />
+    * 3/8&quot; Ratchet, extensions and u-joints<br />
+    * 10 mm socket and open wrench<br />
+<br />
+1. Place the rear of the car on jacks or use a ramp, then spray the old sensor two screws with WD40. Now that you have found where the screws are... you know that removing them is going to be tricky.<br />
+If you are not a patient person, grab your phone and call the dealer...<br />
+<br />
+2. After approximately 1 hour, you have removed the screws. Try to clean your sensor, it might work again (it didn't work for me). If cleaning it does not work, just change the sensor.<br />
+3. Tighten the screw with a 10mm open wrench then finish with the ratchet and extensions.<br />
+<br />
+Best advice : Be patient...<br />
+<br />
+<h3 class="showhide_heading" id="Addition_from:_Bob_K.">Addition from: Bob K.</h3>
+The hard part is getting to the bottom screw, IMO. Having a heckuva time getting it started after<br />
+removal, I decided to do the following:<br />
+. support the differential with a hydraulic jack<br />
+. remove the two bolts (19mm head) holding the rear of the diff to the suspension member<br />
+. drop the diff about an inch or less<br />
+<br />
+The issue is ensuring that the diff is supported. What dropping the diff does is give enough room<br />
+to get a direct angle on the bolt, both for removal and replacement. A caveat is to do the removal<br />
+and replacement of the top bolt before and after the diff drop, respectively.<br />
+<br />
+Also, I found that my 3/8&quot; drive sockets were a tad thick for the available clearance. I used 1/4&quot;<br />
+hardware with a 3/8&quot; to 1/4&quot; adaptor.<br />
+<br />
+Regardless, it certainly is a job that requires patience.<br />
+<br />
+<h3 class="showhide_heading" id="Addition_from_Ivan_C.">Addition from Ivan C.</h3>
+Thought you might want to know, I replaced my speed sensor and while it was time consuming, it was really not too difficult. Most of the time was de-greasing and cleaning area first.<br />
+I used 1/4&quot; vs 3/8&quot; tools: 10mm open wrench, 1/4&quot; 10mm socket, 1/4&quot; ratchet with 3&quot; and 5&quot; extensions and &quot;u&quot; joint. and had no problem reaching lower and upper bolts as follows:<br />
+Upper bolt: Socket drive to 5&quot; extension to U joint to 3&quot; extension with 10mm socket: between gas tank shield and suspension / diff<br />
+Lower bolt: Socket drive to 3&quot; extension to U joint with 10mm socket: between suspension and diff<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Speed+sensor">http://www.bmwe34.net/Wiki/tiki-index.php?page=Speed+sensor</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32544478E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

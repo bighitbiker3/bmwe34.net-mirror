@@ -1,0 +1,203 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Paint calipers 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Paint+calipers">Paint calipers</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="CALIPER_PAINTING_ON_YOUR_BMW">CALIPER PAINTING ON YOUR BMW</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/Calip_paint3.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Savage caliper paint</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$40</td></tr></table><br />
+<br />
+Now that we upgraded the brakes of the BMW E34 to 850i/840i brakes, it is time to show everyone how big they are. Let's paint the calipers. (Calipers can be written with one or two l)<br />
+<br />
+You can either use a two compounds product that will last, or use a spray and do it every year.<br />
+If you go for two compounds product, you will have to wait at least 12 hours to let the paint dry.<br />
+<br />
+The Savage caliper paint is available from OPMD in: Red, blue, yellow, black, gold and silver.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li>Savage caliper paint from OPMD (good for 8 calipers).
+</li><li>Brake cleaner spray.
+</li><li>Small wire brushes.
+</li><li>19mm socket, 14mm wrench and allen wrenches to remove the caliber, carrier and brake hose.
+</li><li>Clean rags, because the brake fluid will come out of the calipers and hoses.
+</li></ul>
+<br />
+1. Let's say you are like me and you want to paint the entire caliper, carrier and clip out of the car for a better result. Remove the calipers and the carriers.<br />
+2. <span style="color:#FF0000; background:">Important step:</span> use the small brush to clean entirely the different brake items. Then clean everything with some brake cleaner. Finish by spraying the cleaner included in the kit.<br />
+Step 2 will determine the quality of the final work.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Calip_paint2.jpg" border="0"  width="height=" /></div><br />
+<br />
+3. Hang the caliper and carrier somewhere safe and place a rag below.<br />
+4. Mix the two products (at 20C/68F temperature) if you plan to do all four calipers at the same time or mix half the product in a different container.<br />
+5. Using the brush provided, start painting the items. Another coat might be needed, don't worry about the product you have more than enough. Avoid painting the screws, threads and protective boots.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Calip_paint1.jpg" border="0"  width="height=" /></div><br />
+<br />
+6. Wait 30 min if you want to apply a second coat of paint.<br />
+7. Another important step: let the paint dry for at least 12 hours at a temperature above 20C (68F)<br />
+8. Reinstall everything on the car (when it is dry) then bleed your brakes. Enjoy nice looking brakes.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Calip_paint4.jpg" border="0"  width="height=" /></div><br />
+<br />
+The whole process takes quite some time, so make sure that you can leave you car on jack stands for at least two days. (I had plenty of time because I was working on my headgasket).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Calip_paint0.jpg" border="0"  width="height=" /></div><br />
+<br />
+Even after driving hard at the track, the paint didn't fade... Very good product.<br />
+(Thanks to Phil Dorsey)<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Paint+calipers">http://www.bmwe34.net/Wiki/tiki-index.php?page=Paint+calipers</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32544482E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

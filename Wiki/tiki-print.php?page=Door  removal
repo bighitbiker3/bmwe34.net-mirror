@@ -1,0 +1,204 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Door  removal 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Door++removal">Door  removal</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="DOOR_REMOVAL">DOOR REMOVAL</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Body/Data/Door6.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<em>Procedure and photos courtesy of Scott Shackelford</em><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Cheap</td></tr></table><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door1.jpg" border="0"  width="height=" /></div>1. Gently pry up the mirror controller to access the screw behind the arm rest.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door2.jpg" border="0"  width="height=" /></div><br />
+2. Simply unscrew the doorlock.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door3.jpg" border="0"  width="height=" /></div><br />
+3. Remove the small screw cover to access the speaker screw.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door4.jpg" border="0"  width="height=" /></div><br />
+4. Removal of the speaker. Just pull it out and disconnect the wires.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door5.jpg" border="0"  width="height=" /></div><br />
+5. Yet another screw behind the speaker.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door6.jpg" border="0"  width="height=" /></div><br />
+6. Starting to pry the door panel off.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door7.jpg" border="0"  width="height=" /></div><br />
+7. The panel is just about off. Note that the mirror cable was disconnected. The red cable is for the door handle. Make sure that you lift the door UP and OFF.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door8.jpg" border="0"  width="height=" /></div><br />
+8. Another shot of the cable for the door handle. It simply comes right off. No real effort is required for this.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door9.jpg" border="0"  width="height=" /></div><br />
+9. Peeling back the foam insulation to expose the power window motor, etc. This is how you gain access to the door break.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door10.jpg" border="0"  width="height=" /></div><br />
+10. The broken door brake. The screws that held it in to the door had actually ripped the metal and caved into the door.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door11.jpg" border="0"  width="height=" /></div><br />
+11. Shot of the repaired door brake. I used JB weld and a washer to provide extra support to the metal after it had caved in. I had to pry it out with needle nose pliers.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/Door12.jpg" border="0"  width="height=" /></div><br />
+12. What the inside of the door panel looks like. Check for broken clips before you start to put the panel back on.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Door++removal">http://www.bmwe34.net/Wiki/tiki-index.php?page=Door++removal</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325425726E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

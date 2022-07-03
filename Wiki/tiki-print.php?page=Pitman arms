@@ -1,0 +1,207 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Pitman arms 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Pitman+arms">Pitman arms</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="PITMAN_ARM_DOGBONES_REPLACEMENT">PITMAN ARM (DOGBONES) REPLACEMENT</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="img/wiki_up/pitman_arm.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$150 (30 min per side</td></tr></table><br />
+<br />
+<span style="color:#FF0000; background:">Procedure and photos courtesy of Robert Callaway</span><br />
+<br />
+<h3 class="showhide_heading" id="Failure_Symptomes">Failure Symptomes</h3>
+• The rear of the car feeling like it steers itself. Probably best to do the rear pitman arms first before the subframe bushings if you have a self steering rear. or, at least have them inspected. If the pitman arms are good then this means the bushings are soft. No real way to inspect the bushings visually. however, if you support the subframe, you can easily remove the arm covering the bushing and see how torn it is.<br />
+<br />
+<h3 class="showhide_heading" id="Tools_needed:">Tools needed:</h3>
+<ul><ul><li> Jack
+</li><li> Jack stands
+</li><li> 22mm sockets and/or 22mm combination wrench
+</li><li> A big, long breaker bar or an impact wrench
+</li><li> Torque wrench
+</li></ul></ul>
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+1. Chock the front wheels<br />
+2. Jack up rear of car and put it on jack stands (Don't work under the car unless it is supported by jack stands!!)<br />
+3. Remove rear wheels<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Dogbones.jpg" border="0"  width="height=" /></div><br />
+Looking at the suspension on the right side of the car, we can see the culprit. In my case, you can see that part of bushing is blown out.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Dogbones2.jpg" border="0"  width="height=" /></div><br />
+Here is another view from the bottom of the car. The front of the car is to the left<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Dogbones3.jpg" border="0"  width="height=" /></div><br />
+I then went over to the left side of the car and started to remove that arm first. I noticed that the arm is in a bit of tension as the trailing arm is hanging from the car now. I found it easiest to remove the arm without that tension, which I relieved by:<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Dogbones4.jpg" border="0"  width="height=" /></div><br />
+4. Place a bottle jack under the rear-most end of the trailing arm and lifting that arm<br />
+CAUTION: As I jacked up the trailing arm, it was now carrying all the weight on that rear corner of the car and the vehicle was now OFF that jack stand!! I extended the jack stand to make sure the car was just beginning to rest on it again. Do not work under the car unless it is supported by the jackstand!!!<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Dogbones5.jpg" border="0"  width="height=" /></div><br />
+5. Once that tension has been relieved, as can be seen in the picture, note that the two bolts are very closely aligned now, You can now remove the two bolts holding things together very easily.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Dogbones6.jpg" border="0"  width="height=" /></div><br />
+You will need to put a wrench on the top nut to remove the inboard bolt . Note that this photo was taken on the right side of the car, whereas other photos were from the left.<br />
+6. Once you have both bolts out, you can pull the pitman arm and replace it with the new one. Put the two bolts in and tighten them up.<br />
+7. Get the car back on the ground. Replace the tires and torque the lug nuts to spec.<br />
+8. Make sure to torque the two bolts of the pitman arm to 94 ft. lbs. per the manufacturer's instructions now that the suspension is bearing weight.<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Pitman+arms">http://www.bmwe34.net/Wiki/tiki-index.php?page=Pitman+arms</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325425515E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>
