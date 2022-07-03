@@ -1,0 +1,860 @@
+<table border="0" cellpadding="5"></table>
+<html>
+<head>
+<title>BmwE34 Network</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/default.css" type="text/css">
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') {
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (val<min || max<val) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+    <td align="left" class = "bg_banner" height="62" valign="middle"> 
+      
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="157" height="11"><img src="../../Slice/Bmwe34_01.jpg" width="157" ALT="" height="20"></td>
+    <td bgcolor="#000000" width="70" height="11">&nbsp;</td>
+    <td bgcolor="#000000" width=200% colspan="2" height="11">&nbsp;</td>
+    <td width="141" bgcolor="#000000" height="11"> 
+      <div align="right"><img src="../../Slice/Bmwe34_03.jpg" ALT="" width="140" height="20"></div>
+    </td>
+    <td width="110" height="11"> 
+      <div align="right"><img src="../../Slice/Bmwe34_04.jpg" ALT="" width="110" height="20"></div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="157" height="7"><img src="../../Slice/Bmwe34_05.jpg" ALT="" width="157" height="19"></td>
+    <td bgcolor="#000000" colspan="5" height="7" rowspan="2"> 
+      <div align="left"><img src="../assets/logo.jpg" width="283" height="49"></div>
+      </td>
+  </tr>
+  <tr> 
+    <td width="157"><img src="../../Slice/Bmwe34_07.jpg" ALT="" width="157" height="31"></td>
+  </tr>
+  <tr> 
+    <td width="157"><img src="../../Slice/Bmwe34_15.jpg" ALT="" width="157" height="20"></td>
+    <td width="70"><img src="../../Slice/Bmwe34_16.jpg" ALT="" width="133" height="20"></td>
+    <td bgcolor="#FFFFFF" background="../../Slice/Bmwe34_18.jpg" colspan="4"> 
+      <div align="right"></div>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr valign="middle"> 
+    <td align="left" class = "bg_navigator" height="20"> 
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<div class = "login"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr align="left" valign="middle"> 
+      <td> 
+        <div class = "toolbar"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#00AAFF">&nbsp;&nbsp;<b><a href="../DUhome/default.asp">HOME</a> 
+          | <a href="../DUClassified/default.asp">CLASSIFIEDS</a> | <a href="../DUdirectory/default.asp">LINKS</a> 
+          | <a href="../DUforum/default.asp">FORUM</a> | <a href="../DUpoll/default.asp">POLLS</a> 
+          <b>| </b><font color="#FFFF00">REGISTRY:</font> <a href="Gallery.asp">GALLERY</a> 
+          | <a href="Search.asp">SEARCH</a> | <a href="placeACar.asp"> PLACE A 
+          BMW</a>| <a href="../DUHome/myDU.asp">MANAGE YOUR BMW</a></b></font></div>
+      </td>
+      <form name="form1" method="post" action="search.asp">
+      </form>
+    </tr>
+  </table>
+</div>
+</font>
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr align="left" valign="top"> 
+          <td width="200"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                
+    <td align="center" valign="middle" class = "bg_banner" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#FFFFFF">WHAT'S 
+      NEW</font></b></font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+				
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">LINKS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=34&url=http://www.bmwclub.fi/" target="_blank" onclick="window.location.reload(true);">Bmw club Finland</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=30&url=http://www.bmwe34touring.com" target="_blank" onclick="window.location.reload(true);">Global E34 touring</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=29&url=http://www.geocities.com/showngobmw/showngo.htm" target="_blank" onclick="window.location.reload(true);">Showngo's E34</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=25&url=http://communities.msn.com/BMWE34ChatroomVersion10/homepage" target="_blank" onclick="window.location.reload(true);">BMW E34 Chatroom Version 1</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=24&url=http://www.seanh.soldigit.net" target="_blank" onclick="window.location.reload(true);">Sean Hannay's website</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">FORUM 
+      TOPICS</font></b></font> </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=36&for_id=9">Wider Grill</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=37&for_id=8">Sidemakers</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=35&for_id=7">rearaxle rattles in a small curve</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=34&for_id=9">TurboAir</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=33&for_id=8">Stressbar?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<script language="JavaScript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">POLLS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"> 
+      <table border="0" cellspacing="2" cellpadding="2" width="180">
+        <TR> 
+          <FORM name="QUESTION" action="../DUpoll/pollVoting.asp" method="get">
+            <TD align="left" valign="top"> 
+              <TABLE border="0" cellspacing="1" cellpadding="1">
+                <TR> 
+                  <TD align="left" valign="middle" colspan="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <i>(1045 votes)</i></font></b></TD>
+                </TR>
+                <TR> 
+                  <TD align="left" valign="middle" colspan="2"> 
+                    <div class = "links"> 
+                      <INPUT type="hidden" name="QUEST_ID" value="13">
+                      <font face="Verdana, Arial, Helvetica, sans-serif" size="1">What model of E34 do you drive?</font> <a href="../DUpoll/pollResult.asp?id=13"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">(View 
+                      Result)</font></a></div>
+                  </TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="26" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>518i</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="27" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>520i</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="28" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>524-525tds</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="29" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>525i</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="31" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>530i</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="30" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>535i</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="32" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>540i</I></FONT></TD>
+                </TR>
+                
+                <TR> 
+                  <TD align="left" valign="middle"> 
+                    <INPUT type="radio" name="ANS_ID" value="33" checked>
+                    <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2"><I></I></FONT> 
+                  </TD>
+                  <TD align="left" valign="middle" width = "175"><FONT size="1" face="Verdana, Arial, Helvetica, sans-serif"><I>M5</I></FONT></TD>
+                </TR>
+                
+                <TR align="right"> 
+                  <TD valign="middle" align="center">&nbsp; </TD>
+                  <TD valign="middle"> 
+                    <input type="submit" name="Submit" value="Vote" class = "buttons">
+                  </TD>
+                </TR>
+              </TABLE>
+            </TD>
+          </form>
+        </TR>
+      </TABLE>
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+							
+				</td>
+              </tr>
+			  <tr>
+                
+    <td align="center" valign="middle" class = "bg_banner" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#FFFFFF">WHAT'S 
+      HOT</font></b></font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+				
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">LINKS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=23&url=http://community.webshots.com/user/magatelov.html" target="_blank" onclick="window.location.reload(true);">The Best E34 gallery</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=22&url=http://www.bimmer.info/bmw/MishaBmw/index.html" target="_blank" onclick="window.location.reload(true);">Misha's 1990 535 5 speed</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=25&url=http://communities.msn.com/BMWE34ChatroomVersion10/homepage" target="_blank" onclick="window.location.reload(true);">BMW E34 Chatroom Version 1</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=13&url=http://www.bmwe34.net" target="_blank" onclick="window.location.reload(true);">BMW E34 Website: upgrades / repairs</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<a href="../DUdirectory/dirHitting.asp?id=24&url=http://www.seanh.soldigit.net" target="_blank" onclick="window.location.reload(true);">Sean Hannay's website</a></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">FORUM 
+      TOPICS</font></b></font> </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=6&for_id=9">Dyno 535i with Chip?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=2&for_id=9">Whell Help</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=34&for_id=9">TurboAir</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=33&for_id=8">Stressbar?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUforum/msgDetail.asp?msg_id=4&for_id=8">Selling 525i E34 m50</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr valign="middle" class = "bg_navigator"> 
+    <td align="left" height="20">&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1" color="#FFFF00">POLLS</font></b></font> 
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"> 
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUpoll/pollDetail.asp?id=13">What model of E34 do you drive?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%" border="0" cellspacing="2" cellpadding="2">
+        <tr align="left" valign="middle"> 
+          <td> 
+            <div class = "links"><img src="../assets/bullet.gif" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF0000">&nbsp;<A HREF="../DUpoll/pollDetail.asp?id=15">How much do you spend?</A></font></div>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+  </tr>
+</table>
+							
+				</td>
+              </tr>			  
+            </table>
+          
+          </td>
+          <td bgcolor="#000000" width="1"><img src="../assets/verticalBar.gif" width="1" height="5"></td>
+          <td> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="left" valign="top" class = "bg_login" height="30"> 
+                  
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') {
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (val<min || max<val) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="30">
+  <tr align="left" valign="middle"> 
+    <td> 
+      <div class = "links"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2"> 
+        
+        &nbsp;Welcome, visitor! <a href="../DUhome/register.asp">Please register</a> 
+        - <font size="1"><a href="../DUhome/forgotpass.asp">Lost password?</a> 
+        </font> 
+        
+        </font></b></font></div>
+    </td>
+    <form name="LOGIN" method="post" action="/ASP/DURegistry/REGDetail.asp?id=352">
+      <td align="right"> 
+        <div class = "log"> 
+		
+          <input type="text" name="Username" size="10" class="fields" value="">
+          <input type="password" name="Password" size="10" class="fields" value="">
+          <input type="submit" name="Submit" value="Login" class = "buttons" onClick="MM_validateForm('Username','','R','Password','','R');return document.MM_returnValue">
+          &nbsp; 
+          
+        </div>
+      </td>
+    </form>
+  </tr>
+</table>
+
+                </td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"> 
+                  <div class = "links"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td align="left" valign="middle" height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">&nbsp;<a href="../default.asp">HOME</a> 
+                          &gt; <a href="../DURegistry/default.asp">REGISTRY</a> 
+                          &gt; BMW<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1"><font face="Verdana, Arial, Helvetica, sans-serif"><b> 
+                          DETAIL</b></font></font></b></font></font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle" class = "bg_navigator"><font color="#00AAFF">&nbsp;<b><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b><font color="#00AAFF"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>euro5's </b></font></b></font>M5 3.8</b><i><font size="1"> (viewed 123 times)</font></i></font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle"> 
+                          <table width="100%" border="0" cellspacing="3" cellpadding="0">
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Model:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1993 - M5 3.8</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Owner:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="mailto:Jranty@aol.com">Randy</a></font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Type:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sedan</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Location:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Reston,Virginia </font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Transmission:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">6 speed</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Country:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">USA</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Estimated 
+                                  HP:</b></font></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">354</font></td>
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Body 
+                                  Color:</b></font></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sterlingsilber Metallic</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">Wheels:</font></b></font></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">17</font> - <font face="Verdana, Arial, Helvetica, sans-serif" size="2">Stock</font></td>
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">Interior 
+                                  Color:</font></b></font></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Black</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">Mileage:</font></b></font></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">56k</font></td>
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1"> 
+                                  
+                                  </font></b></font></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href=""></a></font></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      
+                      <tr> 
+                        <td align="left" valign="middle"><img src="../assets/horizontalBar.gif" width="100%" height="1"> 
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td align="center" valign="middle"> 
+                          <table border="0" cellspacing="5" cellpadding="5">
+                            <tr> 
+                              <td><img src="/asp/upload/352.jpg"  border="0"></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      
+                      <tr> 
+                        <td align="left" valign="middle" bgcolor="#000000"><img src="../assets/horizontalBar.gif" width="5" height="1"></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle" height="20" class = "bg_navigator">&nbsp;<b><font color="#00AAFF"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>M5 3.8</b></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#00AAFF">'s 
+                          ENGINE MODIFICATIONS</font></b> <font size="1"> <font face="Verdana, Arial, Helvetica, sans-serif"> 
+                          <b> </b></font></font><font color="#00AAFF">&nbsp;</font></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle"> 
+                          <table width="100%" border="0" cellspacing="3" cellpadding="3">
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Intake:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Stock</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Performance 
+                                  Chip:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Jim Conforti</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Header:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Stock</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Exhaust:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Stock</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">Major 
+                                  Engine mods:</font></b></font></div>
+                              </td>
+                              <td colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">None</font></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle" height="20" class = "bg_navigator"> 
+                          <p>&nbsp;<b><font color="#00AAFF"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>M5 3.8</b></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#00AAFF">'s 
+                            SUSPENSION UPGRADES</font></b> <font size="1"> <font face="Verdana, Arial, Helvetica, sans-serif"> 
+                            <b> </b></font></font><font color="#00AAFF">&nbsp;</font></p>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle"> 
+                          <table width="100%" border="0" cellspacing="3" cellpadding="3">
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Shocks:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Bilstein Sport</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Strut 
+                                  Bar:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Custom</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Springs:</font></b></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Unspecified</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Brake:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AP Racing</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="100"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">Sway 
+                                  Bars:</font></b></font></div>
+                              </td>
+                              <td width="271"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">N'burgring</font></td>
+                              <td width="100"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Tires:</font></b></div>
+                              </td>
+                              <td width="270"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">17 - BF Goodrich</font></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle" height="20" class = "bg_navigator"><b><font color="#00AAFF"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;<b>M5 3.8</b></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#00AAFF">'s 
+                          INTERIOR &amp; EXTERIOR UPGRADES</font></b> <font size="1"> 
+                          <font face="Verdana, Arial, Helvetica, sans-serif"> 
+                          <b> </b></font></font><font color="#00AAFF">&nbsp;</font></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle"> 
+                          <table width="100%" border="0" cellspacing="3" cellpadding="3">
+                            <tr align="left" valign="middle"> 
+                              <td width="99"> 
+                                <div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Bodykit:</font></b></div>
+                              </td>
+                              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Stock</font></td>
+                            </tr>
+                            <tr align="left" valign="middle"> 
+                              <td width="99"> 
+                                <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">Interior 
+                                  mods:</font></b></font></div>
+                              </td>
+                              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2">None</font></td>
+                            </tr>
+                          </table>
+                          
+                          <table width="100%" border="0">
+                            <tr> 
+                              <td width="13%"> 
+                                <div align="right"> 
+                                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Stereo 
+                                    &amp; Electronic<br>
+                                    </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Upgrades:</b></font></p>
+                                </div>
+                              </td>
+                              <td width="87%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+                                bmw cd changer in trunk</font></td>
+                            </tr>
+                          </table>
+                          
+                          <table width="100%" border="0">
+                            <tr> 
+                              <td width="13%"> 
+                                <div align="right"> 
+                                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+                                    Future Upgrades<br>
+                                    About me<br>
+                                    Other cars</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>: 
+                                    </b></font></p>
+                                </div>
+                              </td>
+                              <td width="87%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+                                For sale $34,000 jranty@aol.com</font></td>
+                            </tr>
+                          </table>
+                          
+                          <p>&nbsp;</p>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="middle"> <img src="../assets/horizontalBar.gif" width="100%" height="1"></td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="40"> 
+      
+<table width="100%" border="0" cellspacing="3" cellpadding="0">
+  <tr> 
+    <td align="center" valign="middle"> 
+      <div class = "links"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="../../E34main.htm">Home</a>| <a href="../DUhome/privacystat.asp">Privacy Policy</a> | <a href="../../Disclaimer.htm">Disclaimer</a> 
+        | Bookmark Us | <a 	href="mailto:Webmaster@bmwe34.net">Contact Us</a> 
+        | Link To Us | Powered By <a href="http://www.duresources.com">DUportal</a> 
+        &copy; 2002 All right reserved</font></div> 
+		
+      </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+</body>
+</html>

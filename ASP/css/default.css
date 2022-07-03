@@ -1,0 +1,39 @@
+<style TYPE="text/css">
+BODY {SCROLLBAR-FACE-COLOR: #5c5c5c; SCROLLBAR-HIGHLIGHT-COLOR: #a1a1a1; SCROLLBAR-SHADOW-COLOR: #303030; SCROLLBAR-ARROW-COLOR: #a3a3a3;FONT-FAMILY: Arial, Helvetica, sans-serif}
+DIV.Toolbar		A   	       	{color:	#FFFFFF; text-decoration:none}
+
+DIV.Links		A   	       	{color:	#000099; text-decoration:none}
+DIV.Links		A:link			{color:	#000099; text-decoration:none}
+DIV.Links		A:visited		{color:	#000099; text-decoration:none}
+DIV.Links		A:hover 		{color: #FF0000; text-decoration:underline}
+
+DIV.Login		A   	       	{color:	#FFFFFF; text-decoration:none}
+DIV.Login		A:link			{color:	#FFFFFF; text-decoration:none}
+DIV.Login		A:visited		{color:	#FFFFFF; text-decoration:none}
+DIV.Login		A:hover 		{color: #FF0000; text-decoration:none ; font-weight: bold}
+
+DIV.Log			A   	       	{color:	#000066; text-decoration:none}
+DIV.Log			A:link			{color:	#000066; text-decoration:none}
+DIV.Log			A:visited		{color:	#000066; text-decoration:none}
+DIV.Log			A:hover 		{color: #FF0000; text-decoration:none ; font-weight: bold}
+
+.Fields {
+border: 1px #666666 groove;
+; background-color: #DDDDDD
+; font-family: Arial, Helvetica, sans-serif; font-size: xx-small; background-position: center center
+; font-weight: bold; color: #000000
+}
+.Buttons {
+border: 1px #666666 groove;
+; background-color: #999999
+; font-family: Arial, Helvetica, sans-serif; font-size: xx-small; background-position: center center
+; font-weight: bold
+; color: #FFFF99; height: auto; width: auto
+}
+
+.bg_banner { background-color: #99CC99 }
+.bg_navigator { background-color: #333333}
+.bg_login { background-color: #CCCCCC }
+
+.S35B  {FONT-FAMILY: Arial, Helvetica, sans-serif; font-size: 19px; font-weight:bold;}
+</style>
