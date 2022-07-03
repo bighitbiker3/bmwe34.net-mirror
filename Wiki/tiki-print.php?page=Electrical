@@ -1,0 +1,230 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Electrical 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Electrical">Electrical</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="Electrical">Electrical</h2>
+<br />
+<ul><li>IMAGE
+</li></ul>
+<br />
+<ul><li><a title="Brake switch" href="tiki-index.php?page=Brake+switch" class="wiki ">Brake switch</a>
+</li><li><a title="Dashboard capacitors" href="tiki-index.php?page=Dashboard+capacitors" class="wiki ">Dashboard capacitors</a>
+</li><li><a title="Fusible link" href="tiki-index.php?page=Fusible+link" class="wiki ">Fusible link</a>
+</li><li><a title="Headlamp" href="tiki-index.php?page=Headlamp" class="wiki ">Headlamp</a>
+</li><li><a title="Headlight adjustment" href="tiki-index.php?page=Headlight+adjustment" class="wiki ">Headlight adjustment</a>
+</li><li><a title="9005 Conversion" href="tiki-index.php?page=9005+Conversion" class="wiki ">9005 Conversion</a>
+</li><li><a title="Heater valve" href="tiki-index.php?page=Heater+valve" class="wiki ">Heater valve</a>
+</li><li><a title="LKM and Relay" href="tiki-index.php?page=LKM+and+Relay" class="wiki ">LKM and Relay</a>
+</li><li><a title="Panel lights" href="tiki-index.php?page=Panel+lights" class="wiki ">Panel lights</a>
+</li><li><a title="Remote programming" href="tiki-index.php?page=Remote+programming" class="wiki ">Remote programming</a>
+</li><li><a title="Speed sensor" href="tiki-index.php?page=Speed+sensor" class="wiki ">Speed sensor</a>
+</li><li><a title="Fan Blower and Sword" href="tiki-index.php?page=Fan+Blower+and+Sword" class="wiki ">Fan Blower and Sword</a>
+</li></ul>
+<br />
+<br />
+Problem with your Bmw E34 / E32 electrical system??? It's time to chase the Gremlins.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Electrical">http://www.bmwe34.net/Wiki/tiki-index.php?page=Electrical</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.323232092E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

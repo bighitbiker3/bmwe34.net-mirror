@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html 
 	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -9,8 +11,7 @@
 
 
 		<title>
-		Last Changes
-				: BMW E34 Website  
+					: BMW E34 Website  
 			</title>
 
 		<link rel="icon" href="favicon.png" />
@@ -83,7 +84,7 @@ IE4 = IE4 && IE && !DOM;
 
 
 	</head>
-	<body onload="" class="tiki tiki_wiki_page manage">
+	<body onload="">
 		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
 			<li><a href="#tiki-center">Jump to Content</a></li>
 		</ul>
@@ -142,42 +143,20 @@ IE4 = IE4 && IE && !DOM;
 	
 
 							<div id="tiki-center"  class="clearfix content">
-							
-
-<h1><a class="pagetitle" href="tiki-lastchanges.php?days=31">Last Changes</a>
-<a href="http://twbasics.keycontent.org/tiki-index.php?page=tikiwiki+for+smarties&bl=yUsing+Wiki+Pages#Last_Changes" target="tikihelp" class="tikihelp" title="Help page: Last Changes"><img src="pics/icons/help.png" alt="Help" width="16" height="16" border="0" title="Help" class="icon" /></a>
-</h1>
-<div class="navbar">
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=1" >Today</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=2" >Last 2 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=3" >Last 3 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=5" >Last 5 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=7" >Last week</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=14" >Last 2 weeks</a></span>
-<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
-</div>
-
-
-<br />
-
-<table class="normal">
-<tr>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc"  style='text-decoration:none;'><img src="pics/icons/resultset_down.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
-<th>Action</th>
-</tr>
-
-<tr><td class="even" colspan="7">
-<b>No records found</b>
-</td></tr>
-</table>
-
-
+																	<br />
+		<div class="cbox">
+			<div class="cbox-title"><img src="pics/icons/exclamation.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> Error</div>
+			<div class="cbox-data">
+				<br />
+															<div class="simplebox highlight">
+							You are not logged in. <a href="tiki-login_scr.php">Go to Login Page</a>
+						</div>
+						<br /><br />
+													
+												<span class="button"><a href="/Wiki/tiki-index.php">Return to home page</a></span>
+			</div>
+		</div>
+	
 
 							</div>						</div>
 					</div>
@@ -278,7 +257,7 @@ function capLock(e){
 
 
 
-<div class="option selected"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
 
 
 
@@ -290,7 +269,7 @@ function capLock(e){
 
 
 
-<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+<div class="option selected"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
 
 
 
@@ -356,7 +335,7 @@ function capLock(e){
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325402323E+12);
+jsedate.setTime(1.325397344E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

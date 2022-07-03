@@ -9,8 +9,7 @@
 
 
 		<title>
-		Last Changes
-				: BMW E34 Website  
+					: BMW E34 Website  
 			</title>
 
 		<link rel="icon" href="favicon.png" />
@@ -83,7 +82,7 @@ IE4 = IE4 && IE && !DOM;
 
 
 	</head>
-	<body onload="" class="tiki tiki_wiki_page manage">
+	<body onload="">
 		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
 			<li><a href="#tiki-center">Jump to Content</a></li>
 		</ul>
@@ -144,40 +143,90 @@ IE4 = IE4 && IE && !DOM;
 							<div id="tiki-center"  class="clearfix content">
 							
 
-<h1><a class="pagetitle" href="tiki-lastchanges.php?days=31">Last Changes</a>
-<a href="http://twbasics.keycontent.org/tiki-index.php?page=tikiwiki+for+smarties&bl=yUsing+Wiki+Pages#Last_Changes" target="tikihelp" class="tikihelp" title="Help page: Last Changes"><img src="pics/icons/help.png" alt="Help" width="16" height="16" border="0" title="Help" class="icon" /></a>
-</h1>
-<div class="navbar">
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=1" >Today</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=2" >Last 2 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=3" >Last 3 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=5" >Last 5 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=7" >Last week</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=14" >Last 2 weeks</a></span>
-<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
-</div>
+
+	<script type="text/javascript">
+	<!--
+		function regCapsLock(e){
+			kc = e.keyCode?e.keyCode:e.which;
+			sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+			if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+				document.getElementById('divRegCapson').style.visibility = 'visible';
+			else
+				document.getElementById('divRegCapson').style.visibility = 'hidden';
+		}
+	// -->
+	</script>
 
 
-<br />
+<h1><a class="pagetitle" href="/Wiki/tiki-register.php">Registration</a>
+</h1>	
+	<div class="simplebox highlight" id="divRegCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
 
-<table class="normal">
+
+
+		<form action="tiki-register.php" method="post" name="RegForm">
+		<fieldset><legend>Register as a new user</legend>
+			<table class="form">
+
+				<tr>
+					<td class="formcolor"><label for="name">Email:</label></td>
+					<td class="formcolor">
+						<input type="text" name="name" id="name"  />
+																		<em>Use your email as login</em>.
+											</td>
+				</tr>
+
+	 
+				<tr>
+					<td class="formcolor"><label for="pass1">Password:</label></td>
+					<td class="formcolor">
+						<input id='pass1' type="password" name="pass" onkeypress="regCapsLock(event)" onkeyup="runPassword(this.value, 'mypassword');" />
+						<span id="mypassword_text"></span>
+						<span id="mypassword_bar" style="font-size: 5px; height: 2px; width: 0px;"></span>
+													<div class="highlight"><em>Minimum 4 characters long</em></div>																		</td>
+				</tr>
+
+				<tr>
+					<td class="formcolor" style="vertical-align:top"><label for="pass2">Repeat password:</label></td>
+					<td class="formcolor">
+						<input id='pass2' type="password" name="passAgain" onkeypress="regCapsLock(event)" />
+																	</td>
+				</tr>
+
+		
+	      
+    
+	
+	
 <tr>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc"  style='text-decoration:none;'><img src="pics/icons/resultset_down.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
-<th>Action</th>
+	<td class="formcolor">Anti-Bot verification code:</td>
+	<td class="formcolor"><img src="tiki-random_num_img.php" alt='Random Image' /></td>
+</tr>
+<tr>
+	<td class="formcolor"><label for="antibotcode">Enter the code you see above:</label></td>
+	<td class="formcolor"><input type="text" maxlength="8" size="8" name="antibotcode" id="antibotcode" /></td>
 </tr>
 
-<tr><td class="even" colspan="7">
-<b>No records found</b>
-</td></tr>
-</table>
+				<tr>
+					<td class="formcolor">&nbsp;</td>
+					<td class="formcolor"><input type="submit" name="register" value="Register" /></td>
+				</tr>
+			</table>
+			</fieldset>
+		</form>
+		
 
-
+<div class="rbox note">
+	<img src="pics/icons/close.png" alt="Close" width="16" height="16" class="rbox-close" onclick="$jq(this).parent().fadeOut();" border="0" title="Close" />
+	<div class="rbox-title">
+		<img src="pics/icons/information.png" alt="note" width="16" height="16" style="vertical-align: middle" border="0" title="note" class="icon" />
+		<span>Note</span>
+	</div>
+	<div class="rbox-data"">
+					Make sure to whitelist this domain to prevent registration emails being canned by your spam filter!
+		
+	</div>
+</div>
 
 							</div>						</div>
 					</div>
@@ -259,7 +308,7 @@ function capLock(e){
 
 
 
-<div class="separator selectedAscendant">
+<div class="separator">
 			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
 									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
 						</a>
@@ -278,7 +327,7 @@ function capLock(e){
 
 
 
-<div class="option selected"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
 
 
 
@@ -356,7 +405,7 @@ function capLock(e){
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325402323E+12);
+jsedate.setTime(1.325398383E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

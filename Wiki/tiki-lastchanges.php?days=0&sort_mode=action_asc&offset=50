@@ -63,6 +63,11 @@ IE4 = IE4 && IE && !DOM;
 
 
 		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
 <!-- cssfile 51 -->
 <link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
 <!--[if lt IE 7]>
@@ -79,11 +84,56 @@ IE4 = IE4 && IE && !DOM;
 
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
 
 
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
 
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
 	</head>
-	<body onload="" class="tiki tiki_wiki_page manage">
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page manage">
 		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
 			<li><a href="#tiki-center">Jump to Content</a></li>
 		</ul>
@@ -144,7 +194,7 @@ IE4 = IE4 && IE && !DOM;
 							<div id="tiki-center"  class="clearfix content">
 							
 
-<h1><a class="pagetitle" href="tiki-lastchanges.php?days=31">Last Changes</a>
+<h1><a class="pagetitle" href="tiki-lastchanges.php?days=0">Last Changes</a>
 <a href="http://twbasics.keycontent.org/tiki-index.php?page=tikiwiki+for+smarties&bl=yUsing+Wiki+Pages#Last_Changes" target="tikihelp" class="tikihelp" title="Help page: Last Changes"><img src="pics/icons/help.png" alt="Help" width="16" height="16" border="0" title="Help" class="icon" /></a>
 </h1>
 <div class="navbar">
@@ -154,30 +204,387 @@ IE4 = IE4 && IE && !DOM;
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=5" >Last 5 days</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=7" >Last week</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=14" >Last 2 weeks</a></span>
-<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
+<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
+<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
 </div>
 
+	
 
+
+
+<div class="clearfix">
+		<form method="post" action="/Wiki/tiki-lastchanges.php" class="findtable">
+		
+		<input type="hidden" name="days" value="0" />
+<input type="hidden" name="sort_mode" value="action_asc" />
+
+
+	<label class="findtitle">
+					Find
+				<input type="text" name="find" value="" />
+	</label>
+
+
+
+
+
+
+
+
+
+<label class="findsubmit">
+	<input type="submit" name="search" value="Go" />
+	</label>
+
+</form>
+</div>
+	
 <br />
 
 <table class="normal">
 <tr>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc"  style='text-decoration:none;'><img src="pics/icons/resultset_down.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=lastModif_asc&amp;offset=50" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=lastModif_asc&amp;offset=50"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=object_asc&amp;offset=50" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=object_asc&amp;offset=50"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=action_desc&amp;offset=50" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=action_desc&amp;offset=50"  style='text-decoration:none;'><img src="pics/icons/resultset_up.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=user_asc&amp;offset=50" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=user_asc&amp;offset=50"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=ip_asc&amp;offset=50" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=ip_asc&amp;offset=50"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=comment_asc&amp;offset=50" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=comment_asc&amp;offset=50"  style='text-decoration:none;'></a></th>
 <th>Action</th>
 </tr>
 
-<tr><td class="even" colspan="7">
-<b>No records found</b>
-</td></tr>
+<tr class="even">
+<td>Wed 06 of May, 2009 13:21 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>83.176.35.77</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Tue 24 of Nov., 2009 21:15 UTC</td>
+<td><a href="tiki-index.php?page=Coolant+replacement" class="tablename" title="Coolant replacement">Coolant replacement</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Tue 24 of Nov., 2009 22:48 UTC</td>
+<td><a href="tiki-index.php?page=Troubleshooting" class="tablename" title="Troubleshooting">Troubleshooting</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Fri 08 of May, 2009 19:44 UTC</td>
+<td><a href="tiki-index.php?page=Headrest" class="tablename" title="Headrest">Headrest</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>83.176.35.77</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Tue 16 of Feb., 2010 18:54 UTC</td>
+<td><a href="tiki-index.php?page=Thrust+arms" class="tablename" title="Thrust arms">Thrust arms</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>rjwilson5</span></td>
+<td>24.162.231.243</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Thu 07 of May, 2009 08:02 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>12.2.142.7</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Thu 07 of May, 2009 07:38 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>12.2.142.7</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Fri 20 of Aug., 2010 00:48 UTC</td>
+<td><a href="tiki-index.php?page=Headlight+adjustment" class="tablename" title="Headlight adjustment">Headlight adjustment</a> 
+</td>
+
+<td>Updated</td>
+<td><a class='link' href='tiki-user_information.php?userId=1' >admin</a></td>
+<td>74.198.28.64</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Wed 06 of May, 2009 13:18 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>83.176.35.77</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Tue 26 of May, 2009 20:16 UTC</td>
+<td><a href="tiki-index.php?page=Troubleshooting" class="tablename" title="Troubleshooting">Troubleshooting</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>shokwave</span></td>
+<td>86.142.172.204</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Tue 24 of Nov., 2009 21:16 UTC</td>
+<td><a href="tiki-index.php?page=Coolant+replacement" class="tablename" title="Coolant replacement">Coolant replacement</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Fri 07 of Nov., 2008 05:13 UTC</td>
+<td><a href="tiki-index.php?page=Exhasut" class="tablename" title="Exhasut">Exhasut</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>attackeagle</span></td>
+<td>69.91.126.84</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Tue 24 of Nov., 2009 22:19 UTC</td>
+<td><a href="tiki-index.php?page=Interior" class="tablename" title="Interior">Interior</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Thu 07 of May, 2009 07:54 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>12.2.142.7</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Thu 07 of May, 2009 07:37 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>12.2.142.7</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Fri 20 of Aug., 2010 00:46 UTC</td>
+<td><a href="tiki-index.php?page=Headlight+adjustment" class="tablename" title="Headlight adjustment">Headlight adjustment</a> 
+</td>
+
+<td>Updated</td>
+<td><a class='link' href='tiki-user_information.php?userId=1' >admin</a></td>
+<td>74.198.28.64</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Wed 06 of May, 2009 13:16 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>83.176.35.77</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Tue 24 of Nov., 2009 21:26 UTC</td>
+<td><a href="tiki-index.php?page=Upgrades" class="tablename" title="Upgrades">Upgrades</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Tue 24 of Nov., 2009 21:20 UTC</td>
+<td><a href="tiki-index.php?page=Coolant+replacement" class="tablename" title="Coolant replacement">Coolant replacement</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Sun 06 of Dec., 2009 14:43 UTC</td>
+<td><a href="tiki-index.php?page=Euro+lights" class="tablename" title="Euro lights">Euro lights</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>attackeagle</span></td>
+<td>24.233.34.138</td>
+<td>corrected bulb type for american bulbs, added  bulb type for E codes.</td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Tue 24 of Nov., 2009 21:40 UTC</td>
+<td><a href="tiki-index.php?page=Upgrades" class="tablename" title="Upgrades">Upgrades</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>Parker731</span></td>
+<td>68.0.126.97</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Thu 07 of May, 2009 07:53 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>12.2.142.7</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Wed 06 of May, 2009 14:32 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>83.176.35.77</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="odd">
+<td>Fri 20 of Aug., 2010 00:44 UTC</td>
+<td><a href="tiki-index.php?page=Headlight+adjustment" class="tablename" title="Headlight adjustment">Headlight adjustment</a> 
+</td>
+
+<td>Updated</td>
+<td><a class='link' href='tiki-user_information.php?userId=1' >admin</a></td>
+<td>74.198.28.64</td>
+<td></td>
+<td>
+</td>
+
+</tr>
+<tr class="even">
+<td>Wed 06 of May, 2009 13:06 UTC</td>
+<td><a href="tiki-index.php?page=Rear+headrests+install" class="tablename" title="Rear headrests install">Rear headrests install</a> 
+</td>
+
+<td>Updated</td>
+<td><span class='link'>gregory891</span></td>
+<td>83.176.35.77</td>
+<td></td>
+<td>
+</td>
+
+</tr>
 </table>
 
-
+<div class="mini" style="text-align: center">
+<a class="prevnext"  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=action_asc&amp;offset=0" ><img src="pics/icons/resultset_first.png" alt="First Page" width="16" height="16" border="0" style="vertical-align:middle;" title="First Page" class="icon" /></a>
+<a class="prevnext"  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=action_asc&amp;offset=25" ><img src="pics/icons/resultset_previous.png" alt="Prev Page" width="16" height="16" border="0" style="vertical-align:middle;" title="Prev Page" class="icon" /></a><span class="pagenums">Page: 3/5</span>
+<a class="prevnext"  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=action_asc&amp;offset=75" ><img src="pics/icons/resultset_next.png" alt="Next Page" width="16" height="16" border="0" style="vertical-align:middle;" title="Next Page" class="icon" /></a>
+<a class="prevnext"  href="/Wiki/tiki-lastchanges.php?days=0&amp;sort_mode=action_asc&amp;offset=100" ><img src="pics/icons/resultset_last.png" alt="Last Page" width="16" height="16" border="0" style="vertical-align:middle;" title="Last Page" class="icon" /></a>
+</div>
 
 							</div>						</div>
 					</div>
@@ -246,7 +653,12 @@ function capLock(e){
 	<div class="box box-ApplicationMenu">
 			<h3 class="box-title clearfix">
 						<span class="moduletitle">Menu</span>
-						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+							<span class="moduleflip" id="moduleflip-ApplicationMenur2">
+				<a title="Toggle module contents" class="flipmodtitle" href="javascript:icntoggle('mod-ApplicationMenur2','module.png');">
+										<img src="pics/icons/module.png" alt="[toggle]" width="16" height="16" name="icnmod-ApplicationMenur2" class="flipmodimage" border="0" title="[toggle]" />
+				</a>
+			</span>
+							<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
 			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
 
 <div id="Application Menu" style="display:block;">
@@ -356,7 +768,7 @@ function capLock(e){
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325402323E+12);
+jsedate.setTime(1.323260867E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

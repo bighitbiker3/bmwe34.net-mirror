@@ -1,0 +1,283 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Touring suspension 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Touring+suspension">Touring suspension</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="LOWERING_YOUR_TOURING">LOWERING YOUR TOURING</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/E34Touring/Data/loweredtouring.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Procedure courtesy of Micah O'C</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34 Touring</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$600+ 4-6 hours</td></tr></table><br />
+<br />
+<h3 class="showhide_heading" id="Touring_Lowering_Information:">Touring Lowering Information:</h3>
+Spurred on by Roger Neef’s arrangement of the group purchase of Sachs Sports Suspensions from Bekkers, a few of us Touring owners went looking for complete information on how to get our Wagons closer to the ground. As it happened, we were unable to get in on the Sachs purchase. Since those kits are built around Eibach springs, and Ebiach makes NO springs for the Touring wagon, we were out of luck. Other options were found, one rather mild, one a bit more wild.<br />
+<br />
+On the mild side, BMW makes a Sport suspension for the E34 Touring, in the spring table, they refer to it as the &quot;Low Slung Sport Suspension.&quot; These are conservative sport springs with a .5 - .75 inch drop, matched to our cars and tuned by BMW. These springs will give a drop similar to the drop seen on the factory MTechnic suspension, or on the Dinan stage I suspension kits. I have not worked out yet whether there are BMW factory shocks that go along with these springs. There are many aftermarket shocks available in different firmness that should match your desired manner of driving. Paul at Maximillian Imports can get any and all of these springs for us, and his current prices are $279 for a set of 4 springs.<br />
+<br />
+Part numbers below are from the E34 Spring table. In the notes that follow, numbers used are the last 3 digits of a spring part number. Things to consider when dealing with BMW spring part numbers –<br />
+<br />
+<ul><li>All BMW spring part numbers fall into a range. For example, the Touring Sport Front springs fall into the range of 31 33 1 138 809-814.
+</li><li>Each single digit increment in the spring part number represents approximately a 3% increase in load rating for that spring, i.e. the 810 spring is rated for about 3% more weight than the 809 spring.
+</li><li>The base Sport spring for the stripper 525iT is the 809 spring, the base Sport spring for the 530iT is the 810 spring. Add A/C and other options normally installed for the US market, and the Sport 525iT spring is usually the 810, the Sport 530iT spring is usually the 812.
+</li><li>The spring table does not increment much for the rear springs on cars with Self Level – the Self Level kit does the lifting for you.
+</li></ul>
+<br />
+<h3 class="showhide_heading" id="BMW_Sport_Springs_Part_numbers_from_ETK_Spring_Table:">BMW Sport Springs, Part numbers from ETK Spring Table:</h3>
+(All with description Low Slung Sport Suspension, AC, CD Changer, Dual Sunroof, power seats, cargo cover &amp; nets, roof rack, +50KG rear load)<br />
+<br />
+Here I list the &quot;Low Slung Sports Suspension&quot; spring part numbers for our Tourings. The part number listed is the part number returned from the spring table, the numbers in parentheses are the part number range available. Based on the notes above, you could increment or decrement the part number given to find a slightly lighter or heavier spring for your taste.<br />
+<br />
+525iT - front - 31 33 1 138 810 (808-812)<br />
+rear - 33 53 1 138 779 (778-779) (with self level)<br />
+rear - 33 53 1 138 720 (719-721) (NO self level)<br />
+<br />
+530iT - front - 31 33 1 138 812 (808-812)<br />
+rear - 33 53 1 138 779 (778-779) (with self level)<br />
+rear - 33 53 1 138 720 (719-721) (NO self level)<br />
+<br />
+On the wilder side, H&amp;R makes lowering spring kits for the Touring wagon in it’s self-leveled (1992-1993) and un-self-levelled (1994-1995) forms. The H&amp;R kits will drop the front of the Touring between 1.5 and 1.7 inches, the rear drop will be between .5 and .7 inches. This will be a nice, low, tight ride. There are no matched shocks available for these kits, but they are generally sold with Bilstein Sport shocks. BMP should be able to work a kit out if those are the components you desire, they list many of what they call the HRB kits, though you will have to call them with the H&amp;R part numbers listed below. TMS quoted prices of $239 for the Touring springs WITH self level and $269 for the Touring WITHOUT self-level (the self-level kits are in stock and not currently a special order item). As with BMP, you will have to have these part numbers in front of you when you call, as they are NOT in the TMs computers. H&amp;R DOES NOT LIST THESE SPRINGS ON THE PARTS LIST AT THEIR WEB SITE, call them if you want to verify the part numbers.<br />
+<br />
+<h3 class="showhide_heading" id="H_amp_R_Spring_Sets_at_TMS:">H&amp;R Spring Sets at TMS:</h3>
+Part number #29888-1 IN STOCK $239.95<br />
+(Lowering springs for Touring, WITH SELF LEVEL!!! Drop = 1.5-1.7&quot;fr/0.5-0.7&quot;rr)<br />
+<br />
+Part number #29889-1 In Germany – never ordered for US ~$270<br />
+(Lowering springs for Touring – NO Self Level – same drop, not in stock, can order)<br />
+<br />
+<h3 class="showhide_heading" id="Bilstein_Lowering_kit:_thanks_to_P_l_Steinar_Berg_in_Norway_">Bilstein Lowering kit: (thanks to Pål Steinar Berg in Norway)</h3>
+<br />
+Bilstein sells (at least i Europe) a lowering kit for the E34 touring which lowers 25mm in the front and 20mm in the rear. I just bought one of theese kits, and it includes front and rear Bilstein sport dampers, and springs, made by Eibach (says so on the springs)<br />
+<br />
+The part nos are:<br />
+B12 - Tuning Kit SE5-8094 Komplettfahrwerk (520i)<br />
+B12 - Tuning Kit SE5-8096 Komplettfahrwerk (525i and M-tech)<br />
+<br />
+This includes the following dampers:<br />
+B8 - Sprint (US Sport)<br />
+B46-1486 hinten Stoßdämpfer<br />
+P36-3020 vorne Patrone (520i)<br />
+B8 - Sprint<br />
+B46-1486 hinten Stoßdämpfer<br />
+P36-3019 vorne Patrone (525i and M-tech)<br />
+<br />
+<h3 class="showhide_heading" id="Touring_rear_shock_installation">Touring rear shock installation</h3>
+The information is in this <a class="wiki"  href="../E34main/Maintenance/Suspension/Data/1995%20BMW%20525iT-Rear%20Strut.pdf" rel="">PDF file.</a><br />
+<br />
+<h3 class="showhide_heading" id="Self_Level_Elimination:">Self Level Elimination:</h3>
+As it turns out, Bavarian Autosport has instructions on their website for how to implement the Self Level Elim kits that they sell. Instructions are found in a <a class="wiki"  href="img/E32e34ElimKits.pdf" rel="">PDF file</a>. The instructions look pretty straightforward regarding the removal of the system. Look at your Bentley Manual for other information not included in the Self Level Elim Instructions including (but not limited to) de-pressurizing the system, spring/shock removal and refilling/bleeding the system.<br />
+<br />
+Paul at Maximillian Imports quoted me $125 for a self level elimination kit that includes upper shock mounts, spring dampener pads, buffer stops, lock nuts, dust sleeves and upper mount paper seals. This would be desirable to avoid destroying the rear upper shock mounts when the new standard shocks are installed.<br />
+<br />
+<h3 class="showhide_heading" id="Other_questions_answered_in_the_process:">Other questions answered in the process:</h3>
+Who makes the Bavarian Auto springs? I got no well-defined answer from Bavarian Auto product support, though they are made in Germany, NOT H&amp;R, NOT Eibach.<br />
+<br />
+Eibach does NOT make springs for the Touring, period.<br />
+<br />
+Credits: Thanks to Roger for getting the juices flowing on this. While we could not take part in the Sachs purchase, I don’t know if I would have started calling around without his work. Curt Anderson gets the credit for the first set of calls to H&amp;R, between the two of us, we finally got the whole poop on what H&amp;R springs are offered for the Touring in it’s various forms. A HUGE thanks to Paul at Maxmillian Imports, possibly the only man in the country who knows what the BMW Sports Suspensions are all about. I called a number of dealers with the part numbers and descriptions of the Sports Suspension springs and got the same answer, &quot;I can order them, but I don’t know what they are.&quot; Paul knew what they were right off the bat, and can source them at a great price. Any other Q’s you have regarding your undersides, he is the man to answer your questions and get the parts.<br />
+<br />
+<strong>(Big Thanks to Micah O'C)</strong><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Touring+suspension">http://www.bmwe34.net/Wiki/tiki-index.php?page=Touring+suspension</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.323250704E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

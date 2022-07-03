@@ -1,0 +1,281 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Wheel bearings 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Wheel+bearings">Wheel bearings</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="FRONT_WHEEL_BEARING_REPLACEMENT">FRONT WHEEL BEARING REPLACEMENT</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing2.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$100 - 1 hour</td></tr></table><br />
+<br />
+<em>In the Bmw E34/E32, you can't change the bearing only, you have to change the whole hub (around $100 or less from BMA).</em><br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+• Whine or howl that increase in pitch as you increase speed.<br />
+• Really bad bearing noises would be a grind you would hear and feel, especially when turning and applying lateral stress to the bearing.<br />
+<br />
+There is two different types of wheel hub for the E34: buy the following parts.<br />
+Double check what type of wheel bearing you have before buying the parts. I have a 89 535i but I had the '91 bearing on...<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing1.jpg" border="0"  width="height=" /></div><br />
+Big thanks to BMA for the two wheel bearings for picture purposes.<br />
+<br />
+<h3 class="showhide_heading" id="Part_Numbers">Part Numbers</h3>
+Up to 3/91, ABS ring diameter = 97mm: Picture on the left<br />
+Wheel bearing: 31-22-1-129-386<br />
+Dust protection collar: 31-21-1-131-266<br />
+<br />
+From 3/91, ABS ring diameter = 83mm: Picture on the right<br />
+Wheel bearing: 31-22-1-139-345<br />
+Dust protection collar: 31-21-1-136-466<br />
+<br />
+All models:<br />
+46mm axle nut: 31-21-1-128-336<br />
+Dust cap: 31-21-1-130-124<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> Floor jack, jackstands.
+</li><li> 46mm or 1-13/16&quot; socket and T bar (I bought mine from Princess auto for US$5.00)
+</li><li> 250 lb-ft torque wrench, pliers, WD40, rubber hammer.
+</li><li> Tools to remove the caliper/carrier and rotor.
+</li><li> Maybe puller if the inner race is stuck
+</li></ul>
+<br />
+1. First, lift the car on the side you want to work on. Install jackstands.<br />
+2. Remove the wheel then the dust cap with pliers.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing3.jpg" border="0"  width="height=" /></div><br />
+<br />
+If you have 850i brakes, you won't be able to use your spare 15&quot; rim for more leverage so remove the brakes now or use an impact gun.<br />
+<br />
+3. Bend the staked part of the collar nut back.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing4.jpg" border="0"  width="height=" /></div><br />
+<br />
+4. Install the wheel back and lower the car to the ground.<br />
+Use your 46mm socket, T bar and a 1 meter bar if you want more leverage and LOOSEN (do not remove) the big nut.<br />
+<br />
+5. Lift the car again, remove the wheel and the 46mm nut. Pull the wheel hub out. Gentle blows with a rubber hammer on the outside help. If nothing moves, use a puller.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing5.jpg" border="0"  width="height=" /></div><br />
+<br />
+6. If the inner race the inner race remains on the stub axle, simply tap around the edge of the race with a hammer and cold chisel, or use pliers and WD40. It is easier to get it out if you remove the big brake dust shield (held in place with 3 x 10mm screws)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing7.jpg" border="0"  width="height=" /></div><br />
+7. Remove the dust protection collar (yellow piece on the left picture) and clean the stub axle.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing6.jpg" border="0"  width="height=" /></div><br />
+<br />
+8. Insert the new dust protection collar, then insert gently the new hub bearing. If it is hard to insert, use a piece of hood and tap with your rubber hammer, until it is fully inserted. You can also use a pressing tool if you have one.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing8.jpg" border="0"  width="height=" /></div><br />
+<br />
+9. Place the new 46mm nut back and tighten it a little bit.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing9.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing10.jpg" border="0"  width="height=" /></div><br />
+<br />
+10. If you have 850i brakes don't forget that the 15&quot; rim doesn't fit under the brakes.<br />
+11. Install the brakes, the rim then lower the car to the ground. Torque the big nut to 214ft-lb (290 Nm).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Bearing11.jpg" border="0"  width="height=" /></div><br />
+12. Stake the nut to the axle.<br />
+13. Install the new dust cap on.<br />
+<br />
+<h3 class="showhide_heading" id="Big_thanks_to_Alex_Lynch_Bryan_B._Bobby_Eddie_Woo_Micah_O_C">Big thanks to Alex Lynch, Bryan B., Bobby, Eddie Woo, Micah O'C</h3>
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Wheel+bearings">http://www.bmwe34.net/Wiki/tiki-index.php?page=Wheel+bearings</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.323256415E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

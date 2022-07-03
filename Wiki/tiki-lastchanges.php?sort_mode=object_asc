@@ -144,17 +144,17 @@ IE4 = IE4 && IE && !DOM;
 							<div id="tiki-center"  class="clearfix content">
 							
 
-<h1><a class="pagetitle" href="tiki-lastchanges.php?days=31">Last Changes</a>
+<h1><a class="pagetitle" href="tiki-lastchanges.php?days=1">Last Changes</a>
 <a href="http://twbasics.keycontent.org/tiki-index.php?page=tikiwiki+for+smarties&bl=yUsing+Wiki+Pages#Last_Changes" target="tikihelp" class="tikihelp" title="Help page: Last Changes"><img src="pics/icons/help.png" alt="Help" width="16" height="16" border="0" title="Help" class="icon" /></a>
 </h1>
 <div class="navbar">
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=1" >Today</a></span>
+<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=1" >Today</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=2" >Last 2 days</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=3" >Last 3 days</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=5" >Last 5 days</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=7" >Last week</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=14" >Last 2 weeks</a></span>
-<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
+<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
 <span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
 </div>
 
@@ -163,12 +163,12 @@ IE4 = IE4 && IE && !DOM;
 
 <table class="normal">
 <tr>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc"  style='text-decoration:none;'><img src="pics/icons/resultset_down.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=lastModif_asc"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=object_desc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=object_desc"  style='text-decoration:none;'><img src="pics/icons/resultset_up.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=action_asc"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=user_asc"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
+<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
 <th>Action</th>
 </tr>
 
@@ -356,7 +356,7 @@ function capLock(e){
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325402323E+12);
+jsedate.setTime(1.325402124E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

@@ -1,0 +1,254 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Sunroof 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Sunroof">Sunroof</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="SUNROOF">SUNROOF</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Body/Data/sunroof.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<em>Procedure and pictures courtesy of Russell Jones</em><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$40</td></tr></table><br />
+<br />
+<strong>There is two problems with the sunroof: the seal seems to last 10 years only and the sunroof holes gets plugged sometimes (putting some water inside the car).(<a class="wiki external"  href="http://www.bmaparts.com" rel="external">BMA</a> sells the sunroof seal).</strong><br />
+<br />
+<h3 class="showhide_heading" id="Sunroof_seal_change_PDF_Info_for_BMW_5_series_Touring_Dual_sunroof">Sunroof seal change - <a class="wiki external"  href="http://67.18.18.122/~bruno/E34main/Maintenance/Body/Data/touring_sun_roof.pdf" rel="external">/PDF Info</a> for BMW 5 series Touring Dual sunroof</h3>
+1. Open the sunroof (back NOT tilt) to about 1/2 way<br />
+2. Then stand up through the roof and look into the roof cavity.<br />
+3. The lining is attached to the metal roof panel by plastic clips (which you should be able to see) that clip round a couple of square pegs on the roof section. Open these 2 clips a bit using your fingers so you don't break them. The lining section of the roof should now be able to slide back into the main roof area.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Body/Data/sunroof2.jpg" border="0"  width="height=" /></div><br />
+4. Now, close the roof again and then tilt it up.<br />
+5. You should be able to see 3 star drive screws on each side of the roof panel - undo them.<br />
+6. The roof panel will come out by lifting the side nearest the rear of the car up whilst simultaneously moving the whole roof panel back towards the rear of the car - this is because the front side is held in by 2 tabs which hook into the frame (sounds odd, but you will see what I mean!) - obviously when putting it back together these tabs need to be inserted first.<br />
+7. Be careful getting the roof section out as it is reasonably heavy, and you don't want scratch your paintwork if you drop it on the car roof!<br />
+8. The seal itself (if it is the original one) is probably glued on, but you can peel it off with your fingers. The new seal (about £35 I think from a dealer) just pushes on. Start with one end in the centre of the rear-facing side of the roof panel and push it on all the way round ensuring a tight fit (quite harsh on the fingers this bit). I needed to trim a tiny bit off the other end as the 2 ends overlapped slightly where they met - this is easily done with a sharp knife. Just for good measure, I also put a little dab of silicon sealant (the 'all purpose' type) on the joint of the 2 ends and wiped off any excess - this helps keep the two ends 'stuck' together and seals it nicely.<br />
+<br />
+<h3 class="showhide_heading" id="Roof_drain_Holes">Roof drain Holes</h3>
+<br />
+Roof drain Holes<br />
+<br />
+Whilst the roof panel is out you may want to check the drain holes are clear. There are 4, one in each corner - the 2 at the front are easily visible and can be cleared by feeding a narrow tube into the hole. I think the front tubes are metal by the way, so if these are leaking anywhere down this section because they've corroded it's mega-bucks to fix.<br />
+<br />
+The 2 at the rear are a bit more awkward to get to, but you can see where they are in each corner if you sine a torch into the roof. These tubes are rubber, and as well as the tube blocking, it may be squashed between the roof lining and the metalwork - causing water to flood out of the plastic roof section under the liner and leak down the pillars to the floor. On mine the rear tube was squashed on a cable clip!<br />
+<br />
+1. Pull out the rear cabin light and feed it back through the hole it sits in as you pull off the rear quarter lining section (if there is a leak, the foam on the back of this section will be SOAKING!).<br />
+2. Unscrew the handle in the roof and remove. I think the roof lining is held in place by a combination of metal clips and sticky black compound, so pull down the corner of the roof lining just enough to allow access to the hose and the securing clamp - be careful not to crease the roof lining when you're pulling on it.<br />
+3. From here, I removed the clamp and removed the hose so I could squeeze it gently back into shape with some soft grip pliers. I fitted a new hose clamp as the standard one was useless and carefully positioned the tube so that when the roof lining is pushed back up it doesn't get constricted again.<br />
+4. Re-fit the handle and the quarter trim - it is worth leaving this out for a bit to dry off if it is wet, and this will also show if the leak is still present in a few days as it will be wet again.<br />
+5. Pour some water into the roof and check that the water comes out of the bottom of the car. The front drain holes exit the bodywork just behind the mudflaps on each side, whilst the rear holes exit just before the back wheels. With the holes cleared you should be able to pour a considerable amount of water down without any problems, but obviously start with small quantities.<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Refitting_of_roof_section">Refitting of roof section</h3>
+<br />
+Fitting is the reverse of removal.<br />
+<br />
+1. Put all the screws in (not too tight because you'll need to adjust it when in place) and close the roof.<br />
+2. Then hold stand outside one side of the car and hold the roof up so that it is flush with the rest of the roof and tighten the screws up. Now do the other side.<br />
+<br />
+You'll probably find the roof will be a bit stiff closing until the seal beds in and squashed down a bit. Also, make sure the roof panel is pushed as far forward as possible to help this situation. I found that the roof had to be closed from the TILT position to get it closed properly for a while - it didn't shut properly from the SLIDE position.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Sunroof">http://www.bmwe34.net/Wiki/tiki-index.php?page=Sunroof</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.323256654E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

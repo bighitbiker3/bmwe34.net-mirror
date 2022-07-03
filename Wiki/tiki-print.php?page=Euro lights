@@ -1,0 +1,262 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Euro lights 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Euro+lights">Euro lights</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_EURO_HEADLIGHT_UPGRADE">BMW EURO HEADLIGHT UPGRADE</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/Eurolight.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<div style="text-align: center;"><strong>Procedure from Gregory J. B.</strong></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Enter price estimate here</td></tr></table><br />
+<br />
+As with many BMW's, there is a different lighting option offered in North America compared to Europe, and the E34 is no exception. All E34's in Europe had the ellipsoid light system, referred to as DE headlights in German. E34 Euro lights were supplied by Hella (or Bosch) and take a standard 55 watt H1 bulb for both low and high beam lights.<br />
+<div class="img" align="desc="Time to change these old lights""><img alt="" src="../E34main/Upgrade/Data/ellipsoid.jpg" border="0"  width="height=" /></div><br />
+<br />
+Installation is fairly easy. I found my lights at a junkyard in Geneva (when we were still living in Switzerland) for around $100 US. This was for both left &amp; right lights, all complete on the plastic frame support. Lights for the E32 and E34 are exactly the same. I would give you the following advice, as to what to buy as you can also find new or used lights from various vendors:<br />
+1. Buy lights only made by Bosch or Hella for the E34. The rest are junk<br />
+2. Xenon lights were not an option on the E34. They WERE an option on the E32 in Europe. Note that in order to properly install Xenon lights, you should also have beam angle adjustment, which is legally mandated in Europe for any care with Xenon lights - aim is exceptionally critical and a safety item.<br />
+3. Angel eye lights were not an option on the E34.<br />
+4. New is more expensive, but unless you are 100% sure that the used lights are not rusted, cracked, pitted, etc. - new is a better overall value.<br />
+5. If you do find a good set of used lights - change ALL of the adjusting screws. This will cost you some money, but it will be well spent when you want to aim your lights. Old, used adjusters are typically frozen stuck - frustrating when you want to finish the project.<br />
+<br />
+If you install used lights (I did), you will want to buy the following parts from your BMW dealer. The quantities and part numbers are from the ETK for my car. I'd suggest you order more, as I did. If you have headlight vertical aim control (LWR), some parts will be different.<br />
+<br />
+61 12 1 378 368 (adjuster, quantity of 6)<br />
+61 12 1 388 027 (knurled bolt, quantity 2)<br />
+61 12 1 378 369 (rubber bushing, quantity of 12)<br />
+61 12 1 394 252 (intermediate piece - pivot, quantity of 4)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Eurolight3.jpg" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<br />
+Removal. You will need to remove the front nose, left &amp; right grills and (depending on the year/version of you car), the air filter box. I needed to remove the air filter box on my '95 525iT. Removal of the headlights, frame and all is next. All of these procedures are reasonably well detailed in various web sites and the Bentley E34 manual.<br />
+<br />
+You then need to change your US headlight bulb connectors, which mate with 9006 (lo) &amp; 9005 (hi) bulbs to those that mate with (H1) Euro lights. Unlike E36 US to Euro conversions, I have yet to find simple 'plug and play' adaptors. Removing the US connectors and soldering the new connectors with heat schrink wrapping was simple and clean.<br />
+<br />
+You will want to buy the following parts from your BMW dealer. You can use straight connectors / wire ends or 90° connectors/ends. Obviously you'll want two yellow &amp; two white connectors and 8 wire connectors. Your choice, I used straight connectors.<br />
+<br />
+61 13 0 007 442 - Wire (straight, quantity of eight)<br />
+61 13 0 007 446 - Wire (90° bend)<br />
+61 13 1 378 401 - White connector (straight, HIGH BEAM)<br />
+61 13 1 378 417 - White connector (90° bend, HIGH BEAM)<br />
+61 13 1 378 403 - Yellow connector (straight, LOW BEAM)<br />
+61 13 1 378 407 - Yellow connector (90° bend, LOW BEAM)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Eurolight1.jpg" border="0"  width="height=" /></div><br />
+<br />
+Installation is cut, slide shrink insulation on wire, solder connection, shrink insulation, tape and wrap and install in connectors. If you want to be 100% precise and meticulous (aka just like Fritz would have designed your car), the brown wire should always go in the connector position with a flat end, rather than a curve.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/Eurolight2.jpg" border="0"  width="height=" /></div><br />
+<br />
+You install the Euro lights just as you did the (former) US style lights. Plug in your lights to make sure your connections work. You will NOT need to reprogram the check control system for the difference of Euro vs. US lights. If a bulb is burned out, the car WILL tell you.<br />
+<br />
+I would recommend you aim the lights before you reinstall the grills and nosepiece, as you have much easier access to all adjusting screws. Proper aiming is CRITICAL, otherwise you'll not get the proper benefit of the European beam pattern and potentially blind oncoming traffic.<br />
+<br />
+<a class="wiki"  href="http://www.danielsternlighting.com/tech/aim/aim.html">http://www.danielsternlighting.com/tech/aim/aim.html</a><br />
+<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Euro+lights">http://www.bmwe34.net/Wiki/tiki-index.php?page=Euro+lights</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.323251178E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

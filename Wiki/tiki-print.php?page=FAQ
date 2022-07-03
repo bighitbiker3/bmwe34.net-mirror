@@ -1,0 +1,259 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		FAQ 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=FAQ">FAQ</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="FAQ">FAQ</h2>
+<br />
+<h3 class="showhide_heading" id="What_is_this_buzz_noise_inside_the_dash_when_I_shut_down_the_engine_">What is this buzz noise inside the dash when I shut down the engine?</h3>
+• This is the flaps from the heating/Air system. Don't worries. The rattling noise rattle under the car on shut down is normal on many 5 speeds. (Caused by the dual mass flywheel)<br />
+<br />
+<h3 class="showhide_heading" id="What_wheels_fit_my_Bmw_E34_">What wheels fit my Bmw E34?</h3>
+• Any E23, E24, E28, E31, E32 and E38 will fit your E34 without any modification.<br />
+E39 wheels (hub center = 74mm) require hubcentric rings (parts# A670 from tirerack @$4.00 ea).<br />
+<br />
+<h3 class="showhide_heading" id="Where_is_the_battery_">Where is the battery?</h3>
+• If the battery is not in the engine compartment, it is under the rear seat. Pull hard, straight up on the right and left forward edge of the seat. You will be surprised how much is under the rear seat.<br />
+<br />
+<h3 class="showhide_heading" id="Can_I_used_wiper_refills_">Can I used wiper refills?</h3>
+• Yes, way cheaper: buy them in any autostore 22&quot; on both side, or 24&quot; and 22&quot;. Clip onto the existing arm.<br />
+<br />
+<h3 class="showhide_heading" id="What_does_the_BMW_roundel_represent_and_why_">What does the BMW roundel represent and why?</h3>
+• A spinning propeller, representing BMW's heritage as an aircraft engine manufacturer. (Off course you knew it right?). The colors of the Roundel are the blue and white colors of the Bavarian flag. (Thanks Ed K. Becker)<br />
+<br />
+<h3 class="showhide_heading" id="Where_can_I_get_new_keys_">Where can I get new keys?</h3>
+• The dealer (honest) give them the Vin number and they have the keys cut for you. You need to produce proof of ownership when you collect the keys. Cost me $18 Australian ($16 Can, $6.50 US $134.70 New Zealand)a key.<br />
+<br />
+<h3 class="showhide_heading" id="What_is_trans_prog_message_">What is trans prog message?</h3>
+• It is a transmission related problem. It could be electrical, transmission or... nothing. The trans prog message cause the E34 to run in 3rd gear only, that is the reason wht you feel the car has no power. Check:<br />
+1) Turn the car off and wait 10min - 2) Main power relay, power to trans control module - 3) Gear selection switch - 4) Program switch (Manual or Auto) - 5) Computer box - 6) At last, the transmission.<br />
+<br />
+<h3 class="showhide_heading" id="Is_the_JC_EAT_ultrachip_or_Dinan_chip_will_damage_my_engine_">Is the JC , EAT ultrachip or Dinan chip will damage my engine?</h3>
+• No... (hum, yes because you will drive it harder hehehe), only drawback is you have to use 91 octane gas.<br />
+<br />
+<h3 class="showhide_heading" id="How_can_I_decode_the_vin_Thanks_to_Michael_A._Coates_from_www.driventodrive.com_">How can I decode the vin#? (Thanks to Michael A. Coates from <a class="wiki"  href="http://www.driventodrive.com">www.driventodrive.com</a>)</h3>
+• Go to this <a class="wiki external"  href="http://www.bmw-z1.com/VIN/VINdecode-e.cgi" rel="external">link.</a><br />
+<br />
+<h3 class="showhide_heading" id="With_lower_the_springs_do_I_have_to_get_shorter_shocks_or_will_standard_size_be_ok_">With lower the springs, do I have to get shorter shocks or will standard size be ok?</h3>
+• Depends, Sean H uses H&amp;R street performance springs (1.3&quot; F, .75&quot; R) with Bilstein HD's and have had no problem with this set up. I've been told that any drop lower than this would require Sport shocks. As for other shocks, many people use Boge Turbo gas shocks with lowering springs and a few have the Koni adjustable, you aren't limited to just Bilsteins.<br />
+<br />
+<h3 class="showhide_heading" id="Is_it_true_that_Bilstein_sports_can_be_pretty_harsh_and_that_the_HDs_are_much_smoother_">Is it true that Bilstein sports can be pretty harsh and that the HDs are much smoother?</h3>
+• Bilstein sport shocks and Bilstein HD's use the same internal valving, but the sports are shorter and can bet set to different heights during installation. It has been told that sports create a much harsher ride, but I cannot personally verify it.<br />
+<br />
+<h3 class="showhide_heading" id="Resetting_radio_after_power_is_removed_or_display_shows_quot_CODE_quot_">Resetting radio after power is removed or display shows &quot;CODE&quot;</h3>
+• If the correct code is not entered in the three successive tries, the radio will not accept entry until the radio has been ON for one hour. IMPORTANT: When entering 5-digit code number, be sure to complete sequence number of that 5-digit code. For example: Code No. sequence is 12345 and you mistakenly enter 125 instead of 123, continue the code number sequence of 45 to complete that entry. The radio will not operate and &quot;CODE&quot; will reappear in the display. Re-enter the correct number sequence of 12345 and operation of the radio will continue. NOTE: If an audible beep is heard while entering the 5-digit code, STOP immediately. Begin entering the code again, starting with the first number of the 5-digit code.<br />
+• Another solution from Steven V. The local BMW dealer told me that if I turn the ignition key to the number two position and leave all the dash lights on then disconnect the battery for fifteen minutes to a half hour. The system will re-program itself when the battery is connected. It does not say that in the manual or CD rom but it apparently worked fine. Of course the radio had to be recoded again.<br />
+<br />
+<h3 class="showhide_heading" id="How_to_resynchronize_the_door_locks_">How to resynchronize the door locks?</h3>
+• After manually locking or unlocking the system, the door locks may become unsynchronized. To synchronize the locks, close all doors, trunk lid and tailgate. Lock the passenger door by turning the key clockwise into the emergency locking position (approximately 110 degrees from position O). Unlock the driver's door. If any of the locks do not operate, repeat the locking procedure until the locking system is synchronized. This might happen if a door which is not completely closed is locked, or a door handle is lifted before the interior lock button is raised.<br />
+<br />
+<h3 class="showhide_heading" id="What_is_the_nikasil_everyone_talk_about_is_my_E34_affected_">What is the nikasil everyone talk about, is my E34 affected?</h3>
+• The nikasil cylinder degradation comes from a high content of &quot;sulfur&quot; in the gas, not sodium. The sulfur content in fuel on the west coast is very low and should not pose a problem. Some owners on the west coast have had no problems for over 100k MI on their 530i and 540i. The engine has a warranty extension up to 100k MI because of the material selection and possible problems.<br />
+<br />
+<h3 class="showhide_heading" id="Why_when_I_stop_the_engine_and_start_it_5min_after_the_temperature_needle_is_hitting_the_3_4_mark_">Why when I stop the engine and start it 5min after, the temperature needle is hitting the 3/4 mark?</h3>
+• The phenomenon known as &quot;heat soak&quot; occurs when the engine is turned off. At this time, the combustion process is terminated. This terminates the momentum of the crankshaft, which in turn stops the turning of the water pump. As the coolant is no longer being circulated, the engine block and cylinder temperature increase for a period of approximately 3 to 10 minutes, depending on the engine design and additional components. During this time, the engine block radiates heat to the air surrounding the engine, which slowly cools the engine. However, the cooling process occurs slowly, and as a result, the temperature of the engine block transfers the heat to the coolant. The coolant temperature then increases, which in turn increases the pressure inside the coolant system. This is why the vehicle's coolant temperature gauge increases over a period of time after the engine has been turned off.<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=FAQ">http://www.bmwe34.net/Wiki/tiki-index.php?page=FAQ</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32325547E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

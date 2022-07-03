@@ -9,7 +9,7 @@
 
 
 		<title>
-		Last Changes
+		Rankings
 				: BMW E34 Website  
 			</title>
 
@@ -142,41 +142,114 @@ IE4 = IE4 && IE && !DOM;
 	
 
 							<div id="tiki-center"  class="clearfix content">
-							
-
-<h1><a class="pagetitle" href="tiki-lastchanges.php?days=31">Last Changes</a>
-<a href="http://twbasics.keycontent.org/tiki-index.php?page=tikiwiki+for+smarties&bl=yUsing+Wiki+Pages#Last_Changes" target="tikihelp" class="tikihelp" title="Help page: Last Changes"><img src="pics/icons/help.png" alt="Help" width="16" height="16" border="0" title="Help" class="icon" /></a>
+							<h1><a class="pagetitle" href="/Wiki/tiki-wiki_rankings.php">Rankings</a>
 </h1>
-<div class="navbar">
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=1" >Today</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=2" >Last 2 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=3" >Last 3 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=5" >Last 5 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=7" >Last week</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=14" >Last 2 weeks</a></span>
-<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
-</div>
+<form action="tiki-wiki_rankings.php" method="post">
+	<select name="which">
+					<option value="wiki_ranking_top_pages" selected="selected">Top pages</option>
+					<option value="wiki_ranking_last_pages" >Last pages</option>
+					<option value="wiki_ranking_top_pagerank" >Most relevant pages</option>
+					<option value="wiki_ranking_top_authors" >Top authors</option>
+			</select>
+
+	<select name="limit">
+		<option value="10" selected="selected">Top 10</option>
+		<option value="20" >Top 20</option>
+		<option value="50" >Top 50</option>
+		<option value="100" >Top 100</option>
+	</select>
+
+		<input type="submit" name="selrank" value="View" />
+</form>
 
 
-<br />
-
-<table class="normal">
-<tr>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc"  style='text-decoration:none;'><img src="pics/icons/resultset_down.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
-<th>Action</th>
-</tr>
-
-<tr><td class="even" colspan="7">
-<b>No records found</b>
-</td></tr>
-</table>
-
+	<table class="normal">
+		<tr>
+			<th>Rank</th>
+			<th>Wiki top pages</th>
+			<th>Hits</th>
+		</tr>
+					<tr>
+				<td class="even">1</td>
+				<td class="even">
+					<a class="link" href="tiki-index.php?page=HomePage">HomePage</a>
+				</td>
+				<td class="even">
+					436943				</td>
+			</tr>
+					<tr>
+				<td class="odd">2</td>
+				<td class="odd">
+					<a class="link" href="tiki-index.php?page=Upgrades">Upgrades</a>
+				</td>
+				<td class="odd">
+					161790				</td>
+			</tr>
+					<tr>
+				<td class="even">3</td>
+				<td class="even">
+					<a class="link" href="tiki-index.php?page=Maintenance">Maintenance</a>
+				</td>
+				<td class="even">
+					124007				</td>
+			</tr>
+					<tr>
+				<td class="odd">4</td>
+				<td class="odd">
+					<a class="link" href="tiki-index.php?page=Troubleshooting">Troubleshooting</a>
+				</td>
+				<td class="odd">
+					95680				</td>
+			</tr>
+					<tr>
+				<td class="even">5</td>
+				<td class="even">
+					<a class="link" href="tiki-index.php?page=Engine">Engine</a>
+				</td>
+				<td class="even">
+					74999				</td>
+			</tr>
+					<tr>
+				<td class="odd">6</td>
+				<td class="odd">
+					<a class="link" href="tiki-index.php?page=Electrical">Electrical</a>
+				</td>
+				<td class="odd">
+					73419				</td>
+			</tr>
+					<tr>
+				<td class="even">7</td>
+				<td class="even">
+					<a class="link" href="tiki-index.php?page=Suspension">Suspension</a>
+				</td>
+				<td class="even">
+					60396				</td>
+			</tr>
+					<tr>
+				<td class="odd">8</td>
+				<td class="odd">
+					<a class="link" href="tiki-index.php?page=General+maintenance">General maintenance</a>
+				</td>
+				<td class="odd">
+					55769				</td>
+			</tr>
+					<tr>
+				<td class="even">9</td>
+				<td class="even">
+					<a class="link" href="tiki-index.php?page=Interior">Interior</a>
+				</td>
+				<td class="even">
+					44263				</td>
+			</tr>
+					<tr>
+				<td class="odd">10</td>
+				<td class="odd">
+					<a class="link" href="tiki-index.php?page=Transmission">Transmission</a>
+				</td>
+				<td class="odd">
+					38342				</td>
+			</tr>
+			</table>
 
 
 							</div>						</div>
@@ -278,11 +351,11 @@ function capLock(e){
 
 
 
-<div class="option selected"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
 
 
 
-<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+<div class="option selected"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
 
 
 
@@ -356,7 +429,7 @@ function capLock(e){
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325402323E+12);
+jsedate.setTime(1.325399634E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

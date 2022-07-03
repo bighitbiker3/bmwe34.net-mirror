@@ -9,7 +9,7 @@
 
 
 		<title>
-		Last Changes
+		Login
 				: BMW E34 Website  
 			</title>
 
@@ -63,6 +63,11 @@ IE4 = IE4 && IE && !DOM;
 
 
 		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
 <!-- cssfile 51 -->
 <link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
 <!--[if lt IE 7]>
@@ -79,11 +84,56 @@ IE4 = IE4 && IE && !DOM;
 
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
 
 
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
 
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
 	</head>
-	<body onload="" class="tiki tiki_wiki_page manage">
+	<body onload="tikitabs(1,50);" class="tiki tiki_login">
 		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
 			<li><a href="#tiki-center">Jump to Content</a></li>
 		</ul>
@@ -142,42 +192,60 @@ IE4 = IE4 && IE && !DOM;
 	
 
 							<div id="tiki-center"  class="clearfix content">
-							
+							<div align="center">
 
-<h1><a class="pagetitle" href="tiki-lastchanges.php?days=31">Last Changes</a>
-<a href="http://twbasics.keycontent.org/tiki-index.php?page=tikiwiki+for+smarties&bl=yUsing+Wiki+Pages#Last_Changes" target="tikihelp" class="tikihelp" title="Help page: Last Changes"><img src="pics/icons/help.png" alt="Help" width="16" height="16" border="0" title="Help" class="icon" /></a>
-</h1>
-<div class="navbar">
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=1" >Today</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=2" >Last 2 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=3" >Last 3 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=5" >Last 5 days</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=7" >Last week</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=14" >Last 2 weeks</a></span>
-<span class="button highlight"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31" >Last month</a></span>
-<span class="button"><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=0" >All</a></span>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_box" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
 </div>
-
-
-<br />
-
-<table class="normal">
-<tr>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc" >Date</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=lastModif_asc"  style='text-decoration:none;'><img src="pics/icons/resultset_down.png" alt="Invert Sort" width="16" height="16" style="vertical-align:middle" border="0" title="Invert Sort" class="icon" /></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc" >Page</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=object_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc" >Action</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=action_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc" >User</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=user_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc" >Ip</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=ip_asc"  style='text-decoration:none;'></a></th>
-<th><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc" >Comment</a><a onclick=""  href="/Wiki/tiki-lastchanges.php?days=31&amp;sort_mode=comment_asc"  style='text-decoration:none;'></a></th>
-<th>Action</th>
-</tr>
-
-<tr><td class="even" colspan="7">
-<b>No records found</b>
-</td></tr>
-</table>
-
-
 
 							</div>						</div>
 					</div>
@@ -246,7 +314,12 @@ function capLock(e){
 	<div class="box box-ApplicationMenu">
 			<h3 class="box-title clearfix">
 						<span class="moduletitle">Menu</span>
-						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+							<span class="moduleflip" id="moduleflip-ApplicationMenur2">
+				<a title="Toggle module contents" class="flipmodtitle" href="javascript:icntoggle('mod-ApplicationMenur2','module.png');">
+										<img src="pics/icons/module.png" alt="[toggle]" width="16" height="16" name="icnmod-ApplicationMenur2" class="flipmodimage" border="0" title="[toggle]" />
+				</a>
+			</span>
+							<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
 			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
 
 <div id="Application Menu" style="display:block;">
@@ -259,7 +332,7 @@ function capLock(e){
 
 
 
-<div class="separator selectedAscendant">
+<div class="separator">
 			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
 									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
 						</a>
@@ -278,7 +351,7 @@ function capLock(e){
 
 
 
-<div class="option selected"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
 
 
 
@@ -356,7 +429,7 @@ function capLock(e){
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325402323E+12);
+jsedate.setTime(1.323221167E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

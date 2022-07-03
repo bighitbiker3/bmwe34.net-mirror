@@ -1,0 +1,293 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Coolant replacement 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 0 -->
+<link rel="stylesheet" href="lib/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/jquery-autocomplete/jquery.autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/colorbox/styles/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="lib/jquery/treeTable/src/stylesheets/jquery.treeTable.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="lib/jquery_tiki/tiki-jquery.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="lib/jquery/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/superfish.js"></script>
+<script type="text/javascript" src="lib/jquery/superfish/js/supersubs.js"></script>
+<script type="text/javascript" src="lib/jquery/reflection-jquery/js/reflection.js"></script>
+<script type="text/javascript" src="lib/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.async.js"></script>
+<script type="text/javascript" src="lib/jquery/jquery.columnmanager/jquery.columnmanager.js"></script>
+<script type="text/javascript" src="lib/jquery/treeTable/src/javascripts/jquery.treeTable.js"></script>
+<script type="text/javascript" src="lib/tiki-js-sorttable.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+<script type="text/javascript" src="lib/swfobject/swfobject.js"></script>
+
+
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+var jqueryTiki = new Object();
+jqueryTiki.ui = false;
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.replection = true;
+jqueryTiki.tablesorter = false;
+jqueryTiki.cycle = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+
+jqueryTiki.effect = "";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// 'horizontal' | 'vertical' etc
+jqueryTiki.effect_speed = "normal";	// 'slow' | 'normal' | 'fast' | milliseconds (int) ]
+jqueryTiki.effect_tabs = "slide";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+
+//--><!]]>
+</script>
+<!--  end jquery-tiki -->
+	</head>
+	<body onload="tikitabs(1,50);" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Coolant+replacement">Coolant replacement</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="COOLANT_REPLACEMENT">COOLANT REPLACEMENT</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Engine/Data/coolant_flush.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$20</td></tr></table><br />
+<br />
+Engine coolant should be changed every two years on the E34. Coolant is a mix of water and anti-freeze. Because this mix looses its additives, it should be replaced. It might also be a good thing to change the thermostat in the mean time.<br />
+<br />
+Coolant is <strong><span style="color:#FF0000; background:">poisonous</span></strong>, especially to pets (and children). Always clean the area after with water.<br />
+<strong><span style="color:#FF0000; background:">Use BMW Coolant only as the other coolant will damage your radiators and headgasket.</span></strong><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+    * 19mm + 13mm socket<br />
+    * 1 gal BMW coolant + 1.5 gal distilled water<br />
+    * Redline water wetter (not required)<br />
+    * New crush washers<br />
+    * Proximity of a garden hose<br />
+<br />
+1. Work on the engine when cold. Place the car on ramps or stands.<br />
+<br />
+2. Remove the coolant reservoir cap and turn the temperature controls to full warm.<br />
+<br />
+3. Place a 3 gallon pan under the radiator drain plug then remove the 13mm drain plug.<br />
+<br />
+4. Move the pan under the block drain plug (located at the rear of the engine, on the exhaust side below    cylinder #6). Spray with WD40 then remove 19mm drain plug. I think you should be prepared because it is going to be messy.<br />
+<br />
+5. Run fresh water from your garden hose via the expension tank until clean water runs out.<br />
+<br />
+6. Place the drain plugs back at their original location with new crush washers.<br />
+<br />
+7. Prepare the mix of 50% distilled water and 50% coolant <strong><span style="text-decoration:underline;">BMW brand coolant only</span></strong>.<br />
+<br />
+''Buy 2 gallons and get a third empty jug. Fill the empty just halfway with distilled and then add half of one gallon jug of the <span style="text-decoration:underline;">BMW coolant</span> to it... Then fill up the half empty BMW coolant jug with distilled water. You'll now have 2 gallons ready to use at 50/50 mix and one gallon uncut..<br />
+After using those 2 mixed you may have to use a little of the uncut one.<br />
+Just follow the same procedure , pour half into an empty jug and fill with distilled water ... That way you always have some sitting around already mixed up and ready to use.... Its not a good idea to pout the coolant straight into the system and then adding water... Its much better to mix it beforehand, plus then you can always have premixed ready to use.''<br />
+<br />
+8. Remove the bleed screw then poor the mix slowly into the coolant reservoir up to the cold coolant level mark. Add the water wetter in the process.<br />
+<br />
+9. Put the bleed screw back in place without tightening it. Proceed with bleeding.<br />
+<br />
+<h3 class="showhide_heading" id="Bleeding_with_radiator_mounted_expansion_tank:_2.5l_engines_">Bleeding with radiator mounted expansion tank: (2.5l engines)</h3>
+1. Loosen the bleed screw on top of radiator expansion tank and let the coolant flow out as you pour it in the reservoir. Tighten the screw when the flow out is free of air bubbles.<br />
+2. When you cannot add more fluid in the system, close the bleed screw and clean up the filler neck.<br />
+3. Pressurize the cooling system by placing your mouth (or a compressor adaptor) on the filler neck and blow air into the circuit while you open the bleed screw. The air will escape and you will be able to add more coolant.<br />
+4. Repeat step 3 until coolant runs out clear of bubbles (messy... I know but no overheating).<br />
+<br />
+<h3 class="showhide_heading" id="Bleeding_Separate_expansion_tank:_535i_">Bleeding Separate expansion tank: (535i)</h3>
+1. Loosen the bleed screw on top of thermostat housing and loosen one of the 19mm screws on top of the thermostat housing (if you do not have a screw, lossen a sensor).<br />
+2. let the coolant flow out as you pour it in the reservoir, it will flow out of hte screw (or sensor) first, tighten the screw when the flow out is smooth and free of air bubbles.<br />
+3. Keep pooring until the same thing happen at the bleeder screw.<br />
+<br />
+<h3 class="showhide_heading" id="Bleeding_the_V8_engines_540i_:">Bleeding the V8 engines (540i):</h3>
+1. You are lucky, the system is self bleeding so nothing to do.<br />
+<br />
+<h3 class="showhide_heading" id="End_of_Procedure:">End of Procedure:</h3>
+1. Set the temperature setting to full warm and start engine.<br />
+2. When the car is going to reach his normal temperature you might going to need to add more coolant. Always check the coolant level.<br />
+3. With engine idling at normal temperature, open the bleed screw and tighten it when coolant is spilling out smoothly and free of air bubbles.<br />
+4. You shouldn't have to repeat it if you bled the car properly.<br />
+<br />
+<h3 class="showhide_heading" id="M20_Bleeding_experience_by_moots:">M20 Bleeding experience by moots:</h3>
+Just to share a simple method to bleed the cooling system.I really cannot comprehend why we need to bleed,bleed and re-bleed the cooling system after every maintenence.I did this after replacing the thermostat and flushing the coolant:<br />
+(Mine's an m20 engine with the reservoir by the side of the rad)<br />
+1.Fill up the rad with the plastic bleeder screw(on reservoir) and metal bleeder screw(on t-stat housing),open.<br />
+2.When full,put a finger over the reservoir bleed hole and blow,yes,blow into the reservoir filler neck.(we are basically pressurising the system)<br />
+3.When water flows out of the t-stat housing bleed hole,tighten the screw.<br />
+4.Top up reservoir if required.<br />
+5.Now blow again until coolant exits the reservoir bleed hole and tighten when bubble free.<br />
+6.Top up coolant to the cold/kalt mark,tighten cap.You're done. No more bleeding required as all air is purged from the system. I have done this 4 times on three cars and it worked like a charm.<br />
+<br />
+<h3 class="showhide_heading" id="Thermostat_replacement">Thermostat replacement</h3>
+1. Engine cold, partially drain the radiator if necessary.<br />
+<br />
+<strong>530i - 540i M60:</strong><br />
+2. Remove upper section of air cleaner and air flow sensor. You might want to remove the cooling fan and fan shroud for better clearance. The thermostat is located in the thermostat housing as part of the coolant pump.<br />
+<br />
+<strong>525i - 535i M20 M30 M50:</strong><br />
+2. The thermostat is located in the thermostat housing at the front of the engine.<br />
+<br />
+3. Remove the bolts of the housing, note how the thermostat is installed then remove it.<br />
+4. Install the new thermostat with a new seal. Installation is the reverse of removal. Add coolant and bleed, bleed, bleed...<br />
+<br />
+• When doing the thermostat the arrow on it needs to be pointing straight up and if you want to make the job of bleeding easier drill a 1/16 hole directly through the thermostat where the arrow is located (tricks from BMW tech's) which allows the thermostat the bleed easier. <em>Trick from LINGLE</em><br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Coolant+replacement">http://www.bmwe34.net/Wiki/tiki-index.php?page=Coolant+replacement</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.323255952E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

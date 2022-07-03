@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<title>
+BMW E34 Website 
+ : HomePage 
+</title>
+
+<link rel="icon" href="favicon.png" /><!--[if lt IE 7]> <link rel="StyleSheet" href="css/ie6.css" type="text/css" /> <![endif]-->
+
+
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!-- cssfile 50 -->
+<link rel="stylesheet" href="styles/transitions/1.9to2.4.css" type="text/css" />
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/feb12.css" type="text/css" />
+<script type="text/javascript">
+<!--
+// js 0 
+tiki_cookie_jar=new Array()
+setSessionVar('javascript_enabled','y');
+-->
+</script>
+
+
+</head>
+
+<body  onload="tikitabs(1,5);"
+>
+<ul class="jumplinks">
+ <li><a href="#tiki-center">Jump to Content</a></li>
+ 
+</ul>
+
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+
+
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+		<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+	</div>
+</div>
+
+
+<div class="navbar" style="clear: both; text-align: right">
+    </div>
+
+
+
+
+<div class="wikitext">
+
+
+	<h1 class="pagetitle"><a title="refresh" accesskey="2" href="tiki-index.php?page=HomePage">HomePage</a></h1>
+    
+
+
+<h2 class="showhide_heading" id="div_align_center_BMW_E34_WEBSITE_HOME_div_"><div align="center">BMW E34 WEBSITE HOME</div></h2>
+<br />
+<span class="img"><img alt="" src="../Slice/BMWE34logo_small.jpg" border="0"  align="right" /></span><br />
+<div class="simplebox"><br />
+<ul><li><a title="How to contribute" href='tiki-index.php?page=How+to+contribute' class='wiki'>How to contribute</a>
+</li><li><a title="Maintenance" href='tiki-index.php?page=Maintenance' class='wiki'>Maintenance</a>
+</li><li><a title="Racing" href='tiki-index.php?page=Racing' class='wiki'>Racing</a>
+</li><li><a title="Troubleshooting" href='tiki-index.php?page=Troubleshooting' class='wiki'>Troubleshooting</a>
+</li><li><a title="Upgrades" href='tiki-index.php?page=Upgrades' class='wiki'>Upgrades</a></div>
+</li></ul>
+<br />
+<br />
+Welcome to the Ultimate source of maintenance and upgrades for your BMW E34: '88 - '95 5 series. I added info for the E28, E32 and E24 cars also.<br />
+<br />
+Welcome to the Wiki format of the BMW E34 Website, this is a work iun progress, all the pages from the old website will have to be Wikified.<br />
+<br />
+<div class="titlebar"><span style="color:#FF0000;">WHAT IS NEW</span></div>
+- You can contact me for any questions at BRUNO AT BMWE34 DOT NET, I am selling my 635csi (the street one) and my house to move to a much larger shop to house all my cars and parts, I might not be able to work much on the wiki.<br />
+- Updated the version of the Tikiwiki and it messed up everything so I had to change the template. This one should allow you to see the pages better.<br />
+- Couple of news: I am back into the world of BMW, I purchased a 1992 525iTouring Yeahhhh, and I am now working on the troubleshooting section.<br />
+- We just parted out a 90 535i 5 speed we are now working on a 1989 535ia.<br />
+- Big thanks to &quot;slocar&quot; for all his help updating the website<br />
+<br />
+<br />
+<div class="titlebar"><span style="color:#FF0000;">RACE CAR NEWS</span></div>
+- My 635csi race car now has a M30B35<a href="tiki-editpage.php?page=M30B35" title="Create page: M30B35" class="wiki wikinew">?</a> Turbo engine, it took a lot of time to fiddle with the megasquirt and the GM coils but everything run strong. I will document the transplant later.<br />
+<br />
+<br />
+
+<hr style="clear:both; height:0px;"/> 
+
+</div> 
+
+  <p class="editdate"> 
+<br />
+  Created by: <a class='link'  target='_top' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Wednesday 29 of April, 2009 12:39:19 CDT by <a class='link'  target='_top' href='tiki-user_information.php?userId=1' >admin</a>. 
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=HomePage">http://www.bmwe34.net/Wiki/tiki-index.php?page=HomePage</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+
+</body>
+</html>  

@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<script type="text/javascript">
+var tiki_cookie_jar = new Array();
+tiki_cookie_jar = {
+	};
+</script>
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+<title>
+BMW E34 Website 
+ : Troubleshooting 
+</title>
+
+
+
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css"></link>
+<style type="text/css"><!-- @import url("lib/phplayers/layerstreemenu-hidden.css"); //--></style>
+<script type="text/javascript"><!--
+// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+// --></script>
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu-library.js"></script>
+
+<script type="text/javascript" src="lib/phplayers/libjs/layersmenu.js"></script>
+
+<script type="text/javascript" src="lib/phplayers/libjs/layerstreemenu-cookies.js"></script>
+
+
+<link rel="StyleSheet"  href="styles/transitions/1.8to1.9.css" type="text/css" />
+<link rel="StyleSheet"  href="styles/planetfall.css" type="text/css" />
+<link rel="icon" href="favicon.png" />
+
+
+    
+
+
+
+
+
+
+<!-- 1 -->
+
+
+
+
+</head>
+
+<body
+ onload=""
+  >
+
+
+<div id="overDiv" style="position: absolute; visibility: hidden; z-index:1000;"></div>
+<script type="text/javascript" src="lib/overlib.js"></script>
+<table width="77%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td>
+<div id="tiki-main">
+         	          	<div id="tiki-top">
+	  	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	    		<tr>
+	     		<td height="11"id="top_bar_td" width="100%"></td></tr><tr>
+	     		<td>
+	       			<table cellspacing="0" cellpadding="0" width="100%"><tr>
+	  				<td id="planetfall_header" width="100%">
+	  					<div id="planetfall_header_module">
+
+
+
+
+<div class="box box-search_box">
+<div class="box-title">Search</div><div id="mod-search_box" style="display: block" class="box-data">
+    <form class="forms" method="get" action="tiki-searchresults.php">
+    <input id="fuser" name="highlight" size="14" type="text" accesskey="s" /> in:<br />
+    <select name="where">
+    <option value="pages">Entire Site</option>
+        <option value="wikis">Wiki Pages</option>
+                                    </select>
+    <input type="submit" class="wikiaction" name="search" value="go"/> 
+    </form>
+
+
+</div></div></div>
+	  					<div id="planetfall_logo">&nbsp;</div></td></tr>
+	        		</table>
+	        	</td>
+	        	</tr>
+	    		 <tr>
+	     		<td>
+	        		<table width="100%" cellspacing="0" cellpadding="0" height="26" background="/styles/planetfall/silver_bg.jpg"><tr>
+	  				<td align="left"><div id="horiz_menu"><!-- beginning of menu header - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+menuTopShift = 6;
+menuRightShift = 7;
+menuLeftShift = 2;
+
+var thresholdY = 5;
+var abscissaStep = 140;
+
+toBeHidden = new Array();
+toBeHiddenLeft = new Array();
+toBeHiddenTop = new Array();
+
+listl = ['L1','L3','L4','L8','L24'];
+var numl = listl.length;
+
+father = new Array();
+for (i=1; i<=39; i++) {
+	father['L' + i] = '';
+}
+father_keys = ['L2','L4','L5','L6','L7','L8','L9','L10','L11','L12','L13','L14','L15','L16','L17','L18','L19','L20','L21','L22','L25','L26','L27','L28','L29','L30','L31','L32','L33','L34','L35','L36','L37','L38'];
+father_vals = ['L1','L3','L4','L4','L4','L3','L8','L8','L8','L8','L8','L3','L3','L3','L3','L3','L3','L3','L3','L3','L24','L24','L24','L24','L24','L24','L24','L24','L24','L24','L24','L24','L24','L24'];
+for (i=0; i<father_keys.length; i++) {
+	father[father_keys[i]] = father_vals[i];
+}
+
+lwidth = new Array();
+var lwidthDetected = 0;
+
+function moveLayers()
+{
+	if (!lwidthDetected) {
+		for (i=0; i<numl; i++) {
+			lwidth[listl[i]] = getOffsetWidth(listl[i]);
+		}
+		lwidthDetected = 1;
+	}
+	if (IE4) {
+		for (i=0; i<numl; i++) {
+			setWidth(listl[i], abscissaStep);
+		}
+	}
+	var hormenu3TOP = getOffsetTop('hormenu3L1');
+	var hormenu3HEIGHT = getOffsetHeight('hormenu3L1');
+	setTop('L1', hormenu3TOP + hormenu3HEIGHT);
+	moveLayerX1('L1', 'hormenu3');
+	setTop('L3', hormenu3TOP + hormenu3HEIGHT);
+	moveLayerX1('L3', 'hormenu3');
+	setTop('L24', hormenu3TOP + hormenu3HEIGHT);
+	moveLayerX1('L24', 'hormenu3');
+
+}
+
+back = new Array();
+for (i=1; i<=39; i++) {
+	back['L' + i] = 0;
+}
+
+// -->
+</script>
+
+<!-- end of menu header - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+<!-- beginning of horizontal menu bar -->
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="horbar">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div id="hormenu3L1" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="tiki-index.php?page=homepage" onmouseover="moveLayerX1('L1', 'hormenu3') ; LMPopUp('L1', false);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Home&nbsp;<img
+src="lib/phplayers/menuimages/down-galaxy.png" width="7" height="4"
+border="0" alt=">>" />&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu3L3" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="tiki-index.php?page=maintenance" onmouseover="moveLayerX1('L3', 'hormenu3') ; LMPopUp('L3', false);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Maintenance&nbsp;<img
+src="lib/phplayers/menuimages/down-galaxy.png" width="7" height="4"
+border="0" alt=">>" />&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu3L23" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="tiki-index.php?page=racing" onmouseover="shutdown();"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Racing&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu3L24" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="tiki-index.php?page=troubleshooting" onmouseover="moveLayerX1('L24', 'hormenu3') ; LMPopUp('L24', false);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Troubleshooting&nbsp;<img
+src="lib/phplayers/menuimages/down-galaxy.png" width="7" height="4"
+border="0" alt=">>" />&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu3L39" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="tiki-index.php?page=Upgrades" onmouseover="shutdown();"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Upgrades&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- end of horizontal menu bar -->
+<!-- beginning of menu footer - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+
+
+<div id="L1" class="mdksubmenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td nowrap="nowrap">
+<div class="mdksubframe">
+<div id="refL2" class="mdkitem">
+<a href="tiki-index.php?page=how+to+contribute" onmouseover="LMPopUp('L1', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />How can I help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="L3" class="mdksubmenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td nowrap="nowrap">
+<div class="mdksubframe">
+<div id="refL4" class="mdkitem">
+<a href="tiki-index.php?page=ac+system" onmouseover="moveLayerX('L4') ; moveLayerY('L4') ; LMPopUp('L4', false);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />A/C system&nbsp;<img
+class="mdkfwdarr" src="lib/phplayers/menuimages/forward-galaxy.png" width="4" height="7"
+border="0" alt=">>" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL8" class="mdkitem">
+<a href="tiki-index.php?page=body" onmouseover="moveLayerX('L8') ; moveLayerY('L8') ; LMPopUp('L8', false);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Body&nbsp;<img
+class="mdkfwdarr" src="lib/phplayers/menuimages/forward-galaxy.png" width="4" height="7"
+border="0" alt=">>" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL14" class="mdkitem">
+<a href="tiki-index.php?page=brakes" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Brakes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL15" class="mdkitem">
+<a href="tiki-index.php?page=e34+touring" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />E34 Touring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL16" class="mdkitem">
+<a href="tiki-index.php?page=electrical" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Electrical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL17" class="mdkitem">
+<a href="tiki-index.php?page=engine" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Engine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL18" class="mdkitem">
+<a href="tiki-index.php?page=general+maintenance" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />General maintenance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL19" class="mdkitem">
+<a href="tiki-index.php?page=interior" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Interior&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL20" class="mdkitem">
+<a href="tiki-index.php?page=steering" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Steering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL21" class="mdkitem">
+<a href="tiki-index.php?page=suspension" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Suspension&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL22" class="mdkitem">
+<a href="tiki-index.php?page=transmission" onmouseover="LMPopUp('L3', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Transmission&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="L4" class="mdksubmenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td nowrap="nowrap">
+<div class="mdksubframe">
+<div id="refL5" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L4', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />A/C compressor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL6" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L4', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Evaporator/exp valve&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL7" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L4', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Receiver drier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="L8" class="mdksubmenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td nowrap="nowrap">
+<div class="mdksubframe">
+<div id="refL9" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L8', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Door trims&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL10" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L8', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Door removal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL11" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L8', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Grill removal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL12" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L8', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Sunroof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL13" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L8', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Window tracks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="L24" class="mdksubmenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td nowrap="nowrap">
+<div class="mdksubframe">
+<div id="refL25" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />535i hot start&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL26" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Catalytic conv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL27" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Engine codes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL28" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Engine diagnostic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL29" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Front noises&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL30" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Headgasket&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL31" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Hunting idle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL32" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Locked doors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL33" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Oil pressure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL34" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Overheating&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL35" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Quick fixes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL36" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Steering play&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL37" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />Trans program&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL38" class="mdkitem">
+<a href="#" onmouseover="LMPopUp('L24', true);"><img
+align="top" src="lib/phplayers/menuimages/transparent.png" width="1" height="16" border="0"
+alt="" />What will break&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+loaded = 1;
+// -->
+</script>
+
+<!-- end of menu footer - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+</div></td>
+	  				<td id="tiki-top_bar_td">
+	           				<div id="tiki-top_bar"> Fri 22 of Aug, 2008 [17:34 UTC] </div></td>
+	           		</tr>
+	        		</table>
+	     		</td>
+	     		</tr>
+	 	 </table>
+	  	</div>
+	    		    	  
+	   
+	      
+	    <div id="tiki-mid">
+	    <table id="tiki-midtbl" border="0" cellpadding="0" cellspacing="0" width="100%"  valign="top">
+	    
+	  
+	      <tr>
+	      <td id="centercolumn" valign="top">
+	     <div id="tiki-center">
+            <br />
+              <div class="cbox">
+              <div class="cbox-title">
+              Error
+              </div>
+              <div class="cbox-data">
+              <br />
+                            Permission denied you cannot edit this page
+              <br /><br />
+                                          <a href="javascript:history.back()" class="linkmenu">Go back</a><br /><br />
+              <a href="tiki-index.php" class="linkmenu">Return to home page</a>
+              </div>
+             </div>
+	     	        </td>
+	     	        	     	       	     	              <td id="rightcolumn" valign="top"width="180">
+	     	              	     	              
+
+
+
+<div class="box box-login_box">
+<div class="box-title">Login</div><div id="mod-login_box" style="display: block" class="box-data">
+
+         <form name="loginbox" action="tiki-login.php" method="post" > 
+           <table border="0">
+      <tr>
+        <td>
+          <table>
+          <tr><td class="module"><label for="login-user">user:</label></td></tr>
+		          <tr><td><input type="text" name="user" id="login-user" size="20" /></td></tr>
+		                    <tr><td class="module"><label for="login-pass">pass:</label></td></tr>
+          <tr><td><input type="password" name="pass" id="login-pass" size="20" /></td></tr>
+          <tr><td><input type="submit" name="login" value="login" /></td></tr>
+                    <tr><td class="module"><label for="login-remember">Remember me</label> <input type="checkbox" name="rme" id="login-remember" value="on"/></td></tr>
+                    <tr>
+                                <td  class="module" valign="bottom"><a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a></td>
+                                        </tr>
+                              </table>
+        </td>
+      </tr>
+      </table>
+
+              <input type="hidden" name="stay_in_ssl_mode" value="" />
+      			      </form>
+    
+
+</div></div>
+	     	              	     	              
+
+
+
+
+<div class="box box-mnu_application_menu">
+<div class="box-title"><table class="box-title">
+  <tr>
+    <td ondblclick="javascript:icntoggle('mod-mnu_application_menu','mo.png');">
+<span class="box-titletext">Menu</span>
+    </td>
+    <td width="11">
+      <a title="Hide module contents" class="flipmodtitle" href="javascript:icntoggle('mod-mnu_application_menu','mo.png');"><img name="mod-mnu_application_menuicn" class="flipmodimage" src="img/icons/omo.png" border="0" alt="[hide]" /></a>
+</td>
+</tr>
+</table>
+</div><div id="mod-mnu_application_menu" style="display: block" class="box-data">
+
+<div id="mnu_application_menu" style="display:block;">
+
+
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu">Home</a></div>
+
+
+
+
+
+
+<div class="separator">
+		<a class='separator' href="#" onclick="javascript:icntoggle('menu42__200'); return false" title="Toggle options"><img src="img/icons/fo.gif" border="0" name="menu42__200icn" alt='Toggle'/></a>
+	 
+<a href="tiki-index.php" class="separator">Wiki</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu">Wiki Home</a></div>
+
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu">Last Changes</a></div>
+
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu">Rankings</a></div>
+
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu">List pages</a></div>
+
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu">Orphan pages</a></div>
+
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu">Sandbox</a></div>
+
+
+
+</div>
+
+<script type='text/javascript'>
+      setfolderstate('menu42__200', 'd');
+  </script>
+
+</div>
+
+
+
+<script type="text/javascript">
+  setsectionstate('mod-mnu_application_menu','{$module_dstate}','mo.png');
+</script>
+
+</div></div>
+	     	              	     	              
+	     	              	     	              
+
+
+
+
+<div class="box box-admin_menu">
+<div class="box-title">Admin Menu</div><div id="mod-admin_menu" style="display: block" class="box-data">
+
+
+</div></div>
+	     	              	     	              
+	     	              	     	                
+	     	              </td>
+	     	        	     	        
+	     	        </div>
+	     	        </td>
+	     	        
+	     	      </tr>
+	     	      </table>
+	       </div>        
+	               	     	    <div id="tiki-bot">
+	     	      	<div id="rss" style="text-align: center">
+																			</div>
+
+
+
+
+
+
+
+	<div id="power" style="text-align: center">
+		Powered by <a target="_blank" href="http://tikiwiki.org" title="Tikiwiki 1.9.8.3 -Sirius- &#169; 2002&#8211;2007, Tikiwiki developers">Tikiwiki CMS/Groupware</a>
+	</div>	     	    </div>
+	       	              
+	     
+
+</body>
+</html>  
