@@ -1,0 +1,227 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Filters 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Filters">Filters</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="Filters">Filters</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/Fuel+air_filter.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >&lt;$50 for all</td></tr></table><br />
+<br />
+A clean air filter removes abrasive dust, insects and leaves from the air before it enters the engine. These contaminants cause excessive wear to moving parts.<br />
+<br />
+A clean fuel supply is dependent on the fuel filter which removes contaminants like rust and water from the fuel supply. Eventually it will become clogged with debris, causing a restriction. Major problems such as hard starting, lack of high speed power and stalling are often a result of a clogged filter.<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Air_filter">Air filter</h3>
+<ul><li> Bmw E34 New filter
+</li></ul>
+<br />
+Probably the easiest of all maintenance. Remove the spring clips around the filter housing, remove the old filter, clean the filter housing, place a new air filter and... voila!<br />
+Always install the new filter in the same position that it was before.<br />
+<br />
+<h3 class="showhide_heading" id="Fuel_filter">Fuel filter</h3>
+<ul><li> Screw driver
+</li><li> 2 x needle nose vise-grip or hose pinchers.
+</li><li> WD 40.
+</li><li> 10mm socket + ratchet wrench
+</li><li> Rugs
+</li></ul>
+<br />
+1. Lift the rear of the car. Spray WD 40 on the hose clamps and 10mm bolt.<br />
+2. Loosen the hose clamps.<br />
+3. Remove the 10mm bolt.<br />
+4. Place the two needle nose vise-grip or hose pinchers near the two hose clamps.<br />
+5. Remove the two hose clamps and change the fuel filter.<br />
+6. Installation is reverse of removal.<br />
+<br />
+Always install the new filter in the <strong>same direction</strong> that it was before.<br />
+<br />
+<h3 class="showhide_heading" id="A_C_microfilter_images_from_Camilo_">A/C microfilter (images from Camilo)</h3>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/Microfilter1.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Mircofilter cover ready to be removed.</td></tr></table></div><br />
+<br />
+    * New microfilter<br />
+    * Screw drivers<br />
+<br />
+1. Remove the glove box.<br />
+2. Remove carpeted trim panels and panel above glove box.<br />
+3. Remove the two screws holding the ventilation duct. Remove the duct.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/Microfilter2.jpg" border="0"  width="height=" /></div><br />
+4. You have to remove one A/C probe and loosen another and use a little torx wrench.<br />
+5. The green thing is the cover for the microfilter. The black slab is an A\C control unit which was loosened but not removed. The hole in the cover is where another A\C control unit was unplugged and removed.<br />
+6. There is a knob at the top and a screw at the bottom, the same size torque screw that is holding other parts together in that area. Once removed the filter is recessed at the back.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/Microfilter3.jpg" border="0"  width="height=" /></div><br />
+7. Installation is the reverse of removal.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure_on_a_right_hand_drive_model:">Procedure on a right hand drive model:</h3>
+The filter is on the same side so the removal of the glove box is not needed. All you need to do is to first remove the under tray (three screws and 3 cam locks at the bulkhead) and then remove the carpet followed by the footwell airduct. The procedure is then exactly as stated from the removal of the screw hole for the carpet trim and sword.<br />
+<br />
+<strong>Richard Redding</strong> details that for r/h drive cars the pedals hinder easy access.<br />
+The grey bracket on bottom of the main a/c housing ( can be seen on your photo) slides out of its housing to make access to the bottom torx screw easier.<br />
+My car had a control card situated between the filter housing and the bulkhead. This is easily unclipped and moved our of the way , with wires attached. Otherwise it hinders access to the filter cover.<br />
+<br />
+The filter came out in two parts. The new filter looks like one part but is split longitudinally. To put the new filter in it is best separated longitudinally and the top section put in first and then the lower section slides into the top part. It is a tight fit with the clutch pedal in the way.<br />
+<br />
+The job was quite tricky for a first timer and judging by the state of the filter that came out and the rubbish in the housing a job that even dealers avoid unless they have to!<br />
+<br />
+<em>Thanks to Trevor White, Chris Jones &amp; Gary Millette</em><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Filters">http://www.bmwe34.net/Wiki/tiki-index.php?page=Filters</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325424465E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

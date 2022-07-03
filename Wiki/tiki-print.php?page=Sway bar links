@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Sway bar links 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,54 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Sway+bar+links">Sway bar links</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="FRONT_amp_REAR_SWAY_BAR_LINK_REPLACEMENT">FRONT &amp; REAR SWAY BAR LINK REPLACEMENT</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Suspension/Data/Sway_bar_link.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$30 each (30min per side)</td></tr></table><br />
+<em>The Bmw E34/E32 sway bar links are cheap and should be changed in pairs.</em><br />
 <br />
 <h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<ul><li> Clink noise when driving over bumps.
+</li></ul>
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Front">Front</h3>
+<ul><li>Rachet and 17mm socket + 16mm wrench
+</li><li> U-joints
+</li><li>Four new self-locking nuts
+</li></ul>
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/Swaybar.jpg" border="0"  width="height=" /></div><br />
+1. Place the front of the car on jack stands.<br />
+2. Remove the wheels.<br />
+3. Use the open wrench to block the sway bar link nut and the close end wrench or socket to remove the 17mm nut.<br />
 <br />
-Thanks to Brandon J.<br />
+Installation is the revese of removal.<br />
+<br />
+<h3 class="showhide_heading" id="Rear">Rear</h3>
+<ul><li>Rachet and 17mm socket + 17mm wrench
+</li><li>WD 40
+</li></ul>
+<br />
+Two new self-locking nuts<br />
+1. Place the rear of the car on jacks. No need to remove the wheels.<br />
+2. Spray the links with lots of WD40 and let sit for awhile.<br />
+3. Remove the 17mm nut then remove the sway bar link, it is going to be a little bit hard because it is rusty.<br />
+4. The trick to put the new one in place is to remove all the rust (with a flat screw driver or a metal brush), attached to the sway bar where the sway bar link was located.<br />
+<br />
+Installation is the reverse of removal.<br />
+<br />
+<h3 class="showhide_heading" id="Part_numbers">Part numbers</h3>
+All E34s<br />
+Front sway bar: 31 35 1 134 582<br />
+Rear sway bar: 33 55 1 135 307<br />
+<br />
+<br />
 
 
 
@@ -150,7 +176,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Sway+bar+links">http://www.bmwe34.net/Wiki/tiki-index.php?page=Sway+bar+links</a>
 
   </p> 
 
@@ -170,7 +196,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.3254254E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

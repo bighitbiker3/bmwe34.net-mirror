@@ -1,0 +1,222 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Fuel pump 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Fuel+pump">Fuel pump</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="ENTER_PAGE_TITLE_HERE">ENTER PAGE TITLE HERE</h2>
+<br />
+<div class="img" align="desc="Procedure and Pictures courtesy of Derek Atkin""><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel0.jpg" border="0"  width="height=" /></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >&lt;$100</td></tr></table><br />
+<br />
+<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
+1. Stumbling on acceleration<br />
+2. Hard Starting<br />
+3. Loss of power<br />
+4. Factory calls for 3.0 BAR (45 psi of fuel pressure), if your pump is not generating this much pressure it needs to be replaced.<br />
+<br />
+<h3 class="showhide_heading" id="Specifications">Specifications</h3>
+Fuel Pump: There is two models for the '89 535i:<br />
+GFP 308 - (0 580 464 995) This pump has a small mounting bracket and the pump has a &quot;barb style fitting&quot;<br />
+GFP 333 - (0 580 453 021) This pump has a large bracket and a simple barb fitting for the output hose.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> New fuel pump
+</li><li> New fuel filter
+</li><li> Five hose clamps
+</li><li> WD-40
+</li></ul>
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel1.jpg" border="0"  width="height=" /></div><br />
+1. Remove pressure from fuel system. Pull fuel pump fuse and run car until it stalls out.<br />
+2. Remove spare tire cover to gain access to black panel in trunk.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel2.jpg" border="0"  width="height=" /></div><br />
+3. Remove black access panel<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel3.jpg" border="0"  width="height=" /></div><br />
+4. Disconnect wiring harness and two fuel lines. If you car still has the factory pump you are going to need to cut the clamps off. Make sure you mark the hoses; if you switch the feed hose with the return hose you will have a problem.<br />
+5. Spray the 10mm bolts with WD-40 - Wait few minutes and then remove them.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel5.jpg" border="0"  width="height=" /></div><br />
+6. Carefully remove the sending unit; it is attached to the pump which sits down in the bottom of the tank.<br />
+7. There are two plastic tabs that secure the fuel pump to the housing mounted to the bottom of the tank. The tabs are on the left and right sides of the pump, if you squeeze them it should release the pump and allow the entire assembly to be removed.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel4.jpg" border="0"  width="height=" /></div><br />
+8. Remove the electrical connections and cut the factory hose clamp off the old fuel pump.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel6.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel7.jpg" border="0"  width="height=" /></div><br />
+9. The fuel pump itself is help in by four rubber bumpers. Carefully pry the unit out of the plastic holder.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Fuel8.jpg" border="0"  width="height=" /></div><br />
+10. Install the new pump into the housing and restore the electrical connections. Some fuel pumps may not have the pulsation unit on the top of the pump, do not be alarmed. Attach the main feed hose to the fuel pump and secure with a hose clamp. Try to orient the main feed home in a similar fashion as the return line. This will prevent a kink when it is reinstalled in the tank.<br />
+11. Install the pump assembly back into the holder in the fuel tank, followed by the sending unit.<br />
+12. Tighten 10mm nuts in an even pattern. Do not over torque.<br />
+13. Connect fuel feed and return lines. Use new hose clamps. Connect electrical plug to fuel pump assembly.<br />
+14. Change fuel filter. Replace hose clamps if they are rusty.<br />
+15. Start car and check for leaks.<br />
+16. Take car for short test drive and recheck for leaks.<br />
+17. Oil 10mm nuts on top of fuel pump and put some engine oil on the fuel inlet tubes. This will help to prevent any further corrosion.<br />
+18. Replace access plate and install truck trim pieces.<br />
+<br />
+<br />
+Download the <a class="wiki"  href="../E34main/Maintenance/Engine/1995%20BMW%20525iT.pdf" rel="">525it PDF</a> fuel pump replacement Thanks to Dave O in WA.<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Fuel+pump">http://www.bmwe34.net/Wiki/tiki-index.php?page=Fuel+pump</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325424667E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

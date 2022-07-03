@@ -1,0 +1,249 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Engine codes 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Engine+codes">Engine codes</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_ENGINE_LIGHT_CODE"> BMW ENGINE LIGHT CODE</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Trouble/Data/Checklight.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+The first thing to do when you troubleshoot your Bmw E34 engine is to read your Engine Codes. (not all codes apply to all engines)<br />
+<br />
+1211 DME Control Unit<br />
+1215 Air Mass Sensor<br />
+1216 Throttle Potentiometer<br />
+1218 Output Stage, Group 1<br />
+1219 Output Stage, Group 2<br />
+1221 Oxygen Sensor 1<br />
+1212 Oxygen Sensor 2<br />
+1222 Lambda Control 1<br />
+1213 Lambda Control 2<br />
+1223 Coolant Temperature Sensor<br />
+1224 Intake Air Temperature Sensor<br />
+1225 Knock Sensor 1<br />
+1226 Knock Sensor 2<br />
+1227 Knock Sensor 3<br />
+1228 Knock Sensor 4<br />
+1231 Battery Voltage/DME Main Relay<br />
+1232 Throttle Idle Switch<br />
+1233 Throttle Wide Open Throttle Switch<br />
+1234 Speedometer A Signal<br />
+1237 A/C Compressor Cut Off<br />
+1242 A/C Compressor<br />
+1243 Crankshaft Pulse Sensor<br />
+1244 Camshaft Sensor<br />
+1245 Intervention AEGS<br />
+1247 Ignition Secondary Monitor<br />
+1251 Fuel Injector 1 (or group 1)<br />
+1252 Fuel Injector 2 (or group 2)<br />
+1253 Fuel Injector 3<br />
+1254 Fuel Injector 4<br />
+1255 Fuel Injector 5<br />
+1256 Fuel Injector 6<br />
+1257 Fuel Injector 7<br />
+1258 Fuel Injector 8<br />
+1261 Fuel Pump Relay Control<br />
+1262 Idle Speed Actuator<br />
+1263 Purge Valve<br />
+1264 EGO Heater<br />
+1265 Fault Lamp (check engine light)<br />
+1266 VANOS<br />
+1267 Air Pump Relay Control<br />
+1271 Ignition Coil 1<br />
+1272 Ignition Coil 2<br />
+1273 Ignition Coil 3<br />
+1274 Ignition Coil 4<br />
+1275 Ignition Coil 5<br />
+1276 Ignition Coil 6<br />
+1277 Ignition Coil 7<br />
+1278 Ignition Coil 8<br />
+1281 Control Unit Memory Supply<br />
+1282 Fault Code Memory<br />
+1283 Fuel Injector Output Stage<br />
+1286 Knock Control Test Pulse<br />
+1444 No Fault Codes<br />
+<br />
+If you cannot read them that means that you have a bad bulb or no buld at all. Older E34's don't have a check engine bulb wired.<br />
+<br />
+1. Turn the ignition key on (without starting the car) and depress the accelerator pedal to the floor 5 times within 5 seconds.<br />
+2. The check engine light will remain lit for 5 seconds, blink off, light for 2.5 seconds, goes off for 2.5 sec. and will start flashing the codes.<br />
+3. Each code is separated by a 2.5 sec. pause. A 0.5 sec. blink then nothing means the end of the code reading. To read them again, depress the accelerator pedal 5 times again.<br />
+<br />
+<h3 class="showhide_heading" id="Clear_the_codes">Clear the codes</h3>
+1. Read the codes. At the end, make sure that the 1000 code (short blink and nothing) is present then depress the accelerator for at least 10 seconds.<br />
+2. To check, depress the accelerator pedal 5 times within 5 sec and make sure that the 1444 code (no fault stored) is present.<br />
+<br />
+<h3 class="showhide_heading" id="Car_code_display">Car code display</h3>
+With the key off, press in the OBC display reset button on the dash below the tach (the one that makes your readout disappear). Hold it in for 3 seconds and turn the key to position 2. Release the button, watch all of the car codings and then the final light show. That is the only way I want to see the tach go that high.<br />
+<br />
+<h3 class="showhide_heading" id="Older_E34_bulb_wiring">Older E34 bulb wiring</h3>
+In '88 and '89 E34 (maybe early '90) the PROM in the Motronic computer was not ready to accept the check engine light for the instrument cluster and when a bulb was installed in the socket in the cluster it would flash all the time when driving along even though no fault codes are registered. But if the 5 stomp test on the pedal was done it did activate the code retrieval system and the light would flash in correct sequence. Now there are 2 ways of getting around this constant flashing of the light when driving: putting a newer eprom or following the procedure.<br />
+<br />
+1. Remove instrument cluster (see <a title="Dashboard Capacitors" href="tiki-index.php?page=Dashboard+Capacitors" class="wiki ">Dashboard Capacitors</a> page) from dash board and locate the socket where the check engine light is meant to be installed.<br />
+2. Now get the instrument cluster bulb holder (without a bulb in it) and the 3 feet of wire and cut 2 feet off it. Dont throw the left over foot of wire away we need that later on.<br />
+3. Bare the ends of the wire and feed them through the small spaces in the end of the holder that produdes from the cluster when the holder is installed. Now solder the ends of the wire onto the contacts in the holder that the bulb usually seats onto. I have found that removing the contacts from the holder is best as the heat from the iron would probably melt the holder.When soldered, insert the contacts again into position in the bulb holder. Now bare the opposite ends of the wire and crimp 2 connectors. Now you should have something that looks like that.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Trouble/Data/Dashbulb_picture.jpg" border="0"  width="height=" /></div><br />
+<br />
+4. Now install the bulb holder in the socket in the instrument panel where the check engine light is meant to be and feed the remaining wire through the dash. Make it so the crimped connector ends exit the lower dash somewhere out of a gap under the dash in the foot well where the steering column slides when adjusted for reach. Install the instrument panel back into dash.<br />
+5. With the remaining wire crimp the remaining connectors to one end and on the opposite end solder the light bulb contacts to the wire then wrap in duct tape to insulate from shorting out this should looks something like that.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Trouble/Data/Bulbwire_picture.jpg" border="0"  width="height=" /></div><br />
+<br />
+6. Now to check to see if it works push the crimped connectors together from the dash wires to the bulb wires and do the 5 pedal stomp as descibed above and the bulb should light with the appropriate flash sequence.<br />
+7. If everything checks out ok then remove the bulb wire and store away in the tool box in the boot lid and the wire in the dash, just push up into the trim panel somewhere to hide when not in use.<br />
+<br />
+<strong>Thanks to Tim Chester &amp; Rory.</strong><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Engine+codes">http://www.bmwe34.net/Wiki/tiki-index.php?page=Engine+codes</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325423969E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

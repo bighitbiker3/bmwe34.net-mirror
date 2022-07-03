@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Steering links 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,57 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Steering+links">Steering links</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="Steering_Links">Steering Links</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Steering/Data/steering%20link.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<em>Please if you love your BMW use Lemforder (OEM) parts only!!!! Else you will change your parts every year...</em><br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >Average</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$25-80</td></tr></table><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+The steering links in the Bmw E34 is a complex assembly of tie-rods. If part of the links are changed, you should have a wheel alignment. There is no maintenance to the steering links. If a dust boot looses it's grease or is damaged you should replace it or change the part. The only bushing wear is in the Idler arm.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="Idler_arm">Idler arm</h3>
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Steering/Data/Idler_arm.jpg" border="0"  width="height=" /></div><br />
+<ul><li>  Tie-rod puller
+</li><li> Ratchet and 17mm socket
+</li><li> Two new self locking nut
+</li></ul>
 <br />
-Thanks to Brandon J.<br />
+There is a bushing that can wear in the idler arm. You can buy it and press it on the old arm, but for the difference of price, it is easier to buy a brand new idler arm.<br />
+1. Place the front of the car on jacks or use ramps.<br />
+2. Unbolt the nut attaching the arm to the centre tie-rod then use a tie-rod puller to press it out.<br />
+3. Remove the 17mm mounting bolt to the frame then remove the idler arm.<br />
+Installation is reverse of removal.<br />
+<br />
+<h3 class="showhide_heading" id="Center_tie_rod">Center tie rod</h3>
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Steering/Data/Center_rod.jpg" border="0"  width="height=" /></div><br />
+<ul><li>  Tie-rod puller
+</li><li> Ratchet and 17mm socket
+</li><li> Four new self locking nuts
+</li></ul>
+<br />
+1. Place the front of the car on jacks or use ramps.<br />
+2. Remove the four 17mm nuts then use the tie-rod puller to remove the centre tie-rod from the pitman arm, idler arm and the two tie-rods.<br />
+Installation is reverse of removal.<br />
+<br />
+<h3 class="showhide_heading" id="Tie_rods">Tie-rods</h3>
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Steering/Data/Steeringlink_picture.jpg" border="0"  width="height=" /></div><br />
+<ul><li> Tie-rod puller
+</li><li> Ratchet and 17mm socket
+</li><li> Two new self locking nuts
+</li><li> Front wheels adjustment needed
+</li></ul>
+<br />
+1. Use a jack to lift the concerned side, secure it with stands.<br />
+2. Remove the wheel, loosen the inner and outer 17mm bolts.<br />
+3. Use the tie-rod puller to remove both tie-rods then install the new one and tighten the bolts.<br />
+It's time for a front wheel alignment.<br />
+<br />
 
 
 
@@ -150,7 +179,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Steering+links">http://www.bmwe34.net/Wiki/tiki-index.php?page=Steering+links</a>
 
   </p> 
 
@@ -170,7 +199,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325413823E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

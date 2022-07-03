@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Spark plugs 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,53 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Spark+plugs">Spark plugs</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="Spark_Plugs">Spark Plugs</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/Bosh_platnium.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$20</td></tr></table><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+A spark plug is an important part of the ignition system as it produces the spark that ignites the petrol/air mixture in the engine's cylinder. The spark plug can have a dramatic effect on the performance of the engine, it must therefore be checked on a regular basis to maintain the performance of the engine. Below are some hints on the correct replacement procedure for spark plugs.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
 <br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> Spark plug socket or spark plug tool
+</li><li> Ratchet, extensions and u-joints if needed
+</li><li> New spark plugs
+</li></ul>
+<br />
+1- Identify which spark plug lead fits which cylinder. A suggestion is to attach numbered tags to the respective leads if no other identification is available.<br />
+2- Pull the connectors off the plugs. Do not pull on the cable.<br />
+3- Ensure that the spark plug tool is securely fitted before trying to remove the plug.<br />
+4- Check the gap on the new plugs, see below.<br />
+5- Fit the new plugs with a little piece of plastic tube and tighten to finger tight.<br />
+6- Using a spark plug tool, tighten the plugs between ½ and ¾ of a turn from finger tight. Refer to the owner's manual for torque specifications.<br />
+7- Fit the plug connectors in the correct firing sequence and ensure they are securely attached to the plugs.<br />
+8- Start the engine. If it does not run smoothly, repeat step 1 to 7 and check that the plugs have not been damaged during tightening. Check ignition leads and replace if necessary, also check for cracked insulators, air gap etc.<br />
+<br />
+<br />
+<h2 class="showhide_heading" id="Spark_plugs_appearance">Spark plugs appearance</h2>
+Check this website that explains everything about <a class="wiki external"  href="http://nightrider.com/biketech/spkplghnbook.htm" rel="external">how to read spark plugs</a> with pictures.<br />
+<br />
+<strong>Bosch platinum +4</strong><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/bosh_platinum4.jpg" border="0"  width="height=" /></div><br />
+Can you install Bosh platinum +4 in your car? Hummmm, I don't know, basically everyone has a different opinion if this is good or bad for the engine, and if this gives more power or a smoother idle...<br />
+<br />
+If you feel like wasting some money (these are not cheap), you can try them... and send me an e-mail if it is working.<br />
+<br />
+<h2 class="showhide_heading" id="Part_numbers">Part numbers</h2>
+<h3 class="showhide_heading" id="i_89_90_M20_535i">525i (89-90) M20 - 535i</h3>
+Regular Bosch W8LCR Gap: 0.7-0.8 mm (0.028-0.032 in)<br />
+(On the 535i, set them slightly larger to 0.86-0.91mm (0.034-0.036in to help improve the idle.)<br />
+Platinum Bosh W8LPR (alternate choice)<br />
+<br />
+<h3 class="showhide_heading" id="i_91_on_M50_530i_540i">525i (91 on) M50 - 530i - 540i</h3>
+Bosch F7 LDCR Non adjustable<br />
 
 
 
@@ -150,7 +175,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Spark+plugs">http://www.bmwe34.net/Wiki/tiki-index.php?page=Spark+plugs</a>
 
   </p> 
 
@@ -170,7 +195,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.32542432E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

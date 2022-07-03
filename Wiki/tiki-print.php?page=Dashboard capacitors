@@ -1,0 +1,274 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Dashboard capacitors 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Dashboard+capacitors">Dashboard capacitors</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="Dashboard_Capacitors">Dashboard Capacitors</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Electrical/Data/capacitors_picture.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$10</td></tr></table><br />
+<br />
+Earlier Bmw E34s seem to have a problem with the dashboard behavior. This is generally caused by the instrument cluster capacitors that need to be changed.<br />
+<br />
+Check this page if you need to <a class="wiki external"  href="http://www.lehrmangroup.com/rickard/" rel="external">change the bulbs or remove the aibarg.</a> If your instrument cluster doesn't look like that and isn't held by screws, then follow these <a class="wiki external"  href="http://home.online.no/%7Est-arhol/enge32speedo.htm" rel="external">instructions.</a><br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+• Temperature, fuel gauges and LCD indicator not working when cold.<br />
+• Erratic functioning of the dashboard gauges and lights.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<br />
+    * Phillips screwdriver.<br />
+    * Soldering iron.<br />
+    * New capacitors and new bulbs.<br />
+<br />
+1. Disconnect the battery!<br />
+2. If they your steering wheel extend, you should be able to get the dash module out without having to remove the steering wheel. Extend it all the way out, and then you should be able to slide it out of the same side as the turn indicator, takes a little wiggle, but it works perfectly.<br />
+3. Else, you will have to remove the steering wheel, be extremely careful if your car is equipped with airbags (see Bentley manual). You can remove the the plastic cover under the steering wheel and access the 2 bolts that hold the steering column up. Remove those bolts and the column will drop enough for you to access the instrument cluster, you can set off the airbag with this method!<br />
+4. Remove the instrument cluster and open it.<br />
+5. Click in the <a class="wiki external"  href="http://gator482.hostgator.com/E34main/Maintenance/Electrical/Data/1989%20bmw%20535idash.jpg" rel="external">picture</a>, the yellow arrows are the capacitor which go bad, the red arrows are the screws which must be removed and the blue arrows are the retaining clips which must be carefully pried back. Once that is done you can remove the glue on the edges of the board and remove the board.<br />
+6. Check the values printed on the side of each capacitors (like 220mF 40V). It has been suggested to replace them with 105°C capacitor but 85°C will work fine.<br />
+7. But sure to take note where each capacitor is located. Check polarity when removing and installing the capacitors or you will damage your board. Capacitors are always marked as far as negative and positive.<br />
+8. Use a desoldering tool to remove the old capacitors and solder the new ones without touching other connections on the board.<br />
+9. You should change all the light bulbs while you have the cluster open!<br />
+10. Recoat the bottom of the board with an insulating varnish for the circuit board and reassemble.<br />
+<br />
+Some capacitors don't have a value printed on them: EPJ 22-40 W5 = 22 microfarad and 40 volt. (Can be replaced with 50V ones.)<br />
+<br />
+<h3 class="showhide_heading" id="Bulbs_part_from_Stewart_Ebrat:">Bulbs part # from Stewart Ebrat:</h3>
+- 12V3W (07.11.9.978.372) Quantity: 3<br />
+- 12V1.5W (62.11.1.391.260) Quantity: 6<br />
+- 12V1.2W (62.13.1.383.311) Quantity: 10 (Note same for OBC)<br />
+- OBC Light is #62 13 1 383 311 quantity: 3<br />
+- Heat and fan panel light: p/n 62 11 1 391 777 Quantity: 1<br />
+<br />
+<strong>A thought on Instrument clusters.</strong><br />
+There is two model of instrument clusters, one from built date: '88- Feb 89 with the coding plug in the wiring harness (brown connector), and another one after '90, the coding plug is inside the instrument cluster.<br />
+Both clusters boards are different inside and the bulbs are also different. The new instrument cluster can be used in place of the older one, but the older one won't work with the newer BMW E34 because there will be no coding plugs. The connectors are at different locations on the newer cluster, but this doesn't affect the functioning.<br />
+<br />
+<strong>Coding Plugs (from Bill R.)</strong><br />
+It controls the odometer reading, miles/kilometer/ some of the gauge functions as well. When replacing it you need all the numbers that appear when you do the self test on the instrument cluster. That will tell the dealer which version hardware/sofware you have. You also must disconnect all connectors on the back of the dash cluster with the battery disconnected and wait a few minutes for all residual power to drain to keep from damaging the memory on the coding plug. THIS is a must. Also since the obc shares data with the coding plug, the plug to the obc on the back of it must be disconnected and wait at least one minute after the coding plug has been changed.<br />
+This will reset the obc for the new coding plug.<br />
+To switch from km to miles, you need to change the coding plug.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/CodingPlug2.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/CodingPlug.jpg" border="0"  width="height=" /></div><br />
+<strong>Coding plug</strong><br />
+Images courtesy of Hannu Myllynpää<br />
+<br />
+The problem with the coding plug is that it counts only up to 300,000km or miles... After that your odometer stops counting, we are still working on a solution:<br />
+I have friend that lives in Belgium and he used to work in a shop that reparied BMW dash boards. English is his 4th language, but he is a smart guy. He also states the instrument calibration is in the module which confirms my observation. Bill<br />
+<br />
+Yep that is the odometer module. it contains a 93C46 chip made by national semiconductor and uses a communication port called microwire.it has 64 words of memory (64 * 16 = 1024 KiloBIT). The odometer information is stored as 16 words in what is caled a rolling-write memory. Formula to calculate the data : Take mileage divide by 16 and also remember the remainder. Take FFFF and substract the hexadecimal (mileage /16). That is the data that needs to go into ALL of the 16 memory locations. Now look at the remainder you had from the division : that is the amount of times you<br />
+need to write hex(mileage/16) -1 so for a mileage of 100 miles :<br />
+<br />
+100 / 16 = 6 with a remainder of 4<br />
+<br />
+FFFF - hex(6 ) - FFF9<br />
+the memory dump becomes:<br />
+<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+<br />
+now modify the 4 first lines( 4 because fo the remainder that was 4 ) to be FFFF- hex(6) -1 if youneeded 101 miles then it would have been the first 5.<br />
+<br />
+FFF8<br />
+FFF8<br />
+FFF8<br />
+FFF8<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+FFF9<br />
+<br />
+this gives you exactly 100 miles on the counter this rolling scheme allows them to write precise information , and spread the writes across the eeprom . it causes less wear and tear on the module and makes the memory last longer. The module also contains calibration data that pertains to maximum speed, gauge calibrations and more. To calibrate that you need to have access to what is commonly called the 'mother computer' from BMW . That machine can update the data inside this module. When a dashboard was so badly damaged it had to be replaced we copied the information from one to another. problem was that we couldn't touch the calibration data .So we only moved the odometer data. There are other fields like oil change counters and lifetime counter as well in that module. As well as your cars chassis number and a couple of other things unique to your car .It's basically your car's logbook and passport roled into one..<br />
+<br />
+<h3 class="showhide_heading" id="Coding_plugs_and_Fuel_Temperature_Gauges:_Thank_to_Bill_">Coding plugs and Fuel / Temperature Gauges: (Thank to Bill)</h3>
+After changing the capacitors, the the gas gauge and temp gauge were still dead.<br />
+I changed the instrument cluster and I wanted to maintain the odometer reading, so changed out the non volatile module and it made the gas gauge and temp gauge quit. I put the new one back in and it worked. So it seems that the coding plug can get corrupted and affect the gauges also.<br />
+<br />
+<h3 class="showhide_heading" id="Capacitors_don_t_solve_it_all:_Stewart_Ebrat_">Capacitors don't solve it all: (Stewart Ebrat)</h3>
+Have just solves 3 month long problem of no odometer, trip meter, fuel gauge, service lights, economy gauge and message board. Changed capacitors to no avail, searched Bruno’s site as well as the forum's archive for any other answers but was left disappointed. Only explanation was capacitors. Finally took car to specialist Euro auto electrician who changed the whole box below instrument cluster where globes and readout lcd's are located. Luckily I did not change instrument cluster. Total cost for labor and new box $450 AUD ($300 USD) and all fixed. Box is actually second hand (stealer wants $1200 AUD for new) but came with 24 mth warranty. Capacitors are not the only cause of this problem. Hope this can help some other board members avoid the frustration I experienced.<br />
+<br />
+<h3 class="showhide_heading" id="LCD_temperature_gauge_and_fuel_gauge_out:_Grant_Patullo_">LCD, temperature gauge and fuel gauge out: (Grant Patullo)</h3>
+Just letting you know I had the dash in my E34 535i fail about 12 months ago and I replaced the caps as per the instructions on your website and everything was fixed until 3 weeks ago when the LCD readout and the fuel and temp gauges stopped working, so I pulled the dash out again and replaced the small tantalum cap on the LCD and also cleaned up few suspect solder joints and reinstalled the dash. Whatever I did fixed the fault and the dash is working once again.<br />
+Thanks for the great website and keep up the good work.<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Dashboard+capacitors">http://www.bmwe34.net/Wiki/tiki-index.php?page=Dashboard+capacitors</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325422265E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Troubleshooting 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,37 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Troubleshooting">Troubleshooting</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="TROUBLESHOOTING">TROUBLESHOOTING</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Trouble/Data/Main_picture.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+Some BMW repairs are not as straight forward as we would like them to be.<br />
+This section will help you to find the root of some common problems experienced on the E34.<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<ul><li><a title="535i hot start" href="tiki-index.php?page=535i+hot+start" class="wiki ">535i hot start</a>
+</li><li><a title="Catalytic converter" href="tiki-index.php?page=Catalytic+converter" class="wiki ">Catalytic converter</a>
+</li><li><a title="Engine codes" href="tiki-index.php?page=Engine+codes" class="wiki ">Engine codes</a>
+</li><li>Engine diagnostics<a href="tiki-editpage.php?page=Engine+diagnostics" title="Create page: Engine+diagnostics" class="wiki wikinew">?</a>
+</li><li><a title="FAQ" href="tiki-index.php?page=FAQ" class="wiki ">FAQ</a>
+</li><li><a title="Front end noises" href="tiki-index.php?page=Front+end+noises" class="wiki ">Front end noises</a>
+</li><li><a title="Headgasket problem" href="tiki-index.php?page=Headgasket+problem" class="wiki ">Headgasket problem</a>
+</li><li><a title="Heating" href="tiki-index.php?page=Heating" class="wiki ">Heating</a>
+</li><li><a title="Hunting Idle" href="tiki-index.php?page=Hunting+Idle" class="wiki ">Hunting Idle</a>
+</li><li><a title="Locked doors" href="tiki-index.php?page=Locked+doors" class="wiki ">Locked doors</a>
+</li><li><a title="Oil pressure light" href="tiki-index.php?page=Oil+pressure+light" class="wiki ">Oil pressure light</a>
+</li><li><a title="Overheating" href="tiki-index.php?page=Overheating" class="wiki ">Overheating</a>
+</li><li><a title="Steering play" href="tiki-index.php?page=Steering+play" class="wiki ">Steering play</a>
+</li><li><a title="Touring Sunroof not responding" href="tiki-index.php?page=Touring+Sunroof+not+responding" class="wiki ">Touring Sunroof not responding</a>
+</li><li>Trans program<a href="tiki-editpage.php?page=Trans+program" title="Create page: Trans+program" class="wiki wikinew">?</a>
+</li><li><a title="What will break" href="tiki-index.php?page=What+will+break" class="wiki ">What will break</a>
+</li><li><a title="Quick fixes" href="tiki-index.php?page=Quick+fixes" class="wiki ">Quick fixes</a>
+</li><li><a title="Loud tapping from fuel tank" href="tiki-index.php?page=Loud+tapping+from+fuel+tank" class="wiki ">Loud tapping from fuel tank</a>
+</li></ul>
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
-<br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
-<br />
-Thanks to Brandon J.<br />
 
 
 
@@ -150,7 +159,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Troubleshooting">http://www.bmwe34.net/Wiki/tiki-index.php?page=Troubleshooting</a>
 
   </p> 
 
@@ -170,7 +179,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325408923E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

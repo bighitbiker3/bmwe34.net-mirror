@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Power steering fluid 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,53 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Power+steering+fluid">Power steering fluid</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="POWER_STEERING_FLUID">POWER STEERING FLUID</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Steering/Data/Redline_ATF.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$10</td></tr></table><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+There is three different kinds of steering fluid used in Bmw E34. Look at the steering reservoir to check the specific type of fluid to be used (it should be written on a label or on the cap). The fluid should be changed every 2 years.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<ul><li> ATF (Automatic Transmission Fluid) that can be upgraded to ATF Dexron III or Redline D4 ATF and not Redline power steering fluid.
+</li><li> CHF 7.1 from the dealership and some part stores.
+</li><li> CHF 11S from the dealership and some part stores.
+</li></ul>
 <br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> Clean syringe
+</li><li> 19mm combination wrench or 8mm hex key
+</li><li> New crush washer
+</li><li> Pan to collect the old fluid
+</li><li> Clean rags and catch pan
+</li></ul>
+<br />
+It is not really possible to bleed the PS system completely (only 60%) without applying vacuum to the reservoir.<br />
+<br />
+<h3 class="showhide_heading" id="i">525i</h3>
+The PS pump drain plug on the 525i M50 is not accessible (the oil pan is on the way) unless you remove the pump from the bracket. So Joseph R. decided to unbolt the 2 banjo bolts connecting the 2 hoses to it instead (one is larger than the other). Most of the fluids came out from the bigger bolt, not much from the smaller one. He managed to drain 24 ounces of fluid with this procedure.<br />
+<br />
+<h3 class="showhide_heading" id="i_2">535i</h3>
+1. Remove fluid from the reservoir using the syringe. Place the pan under the car then remove the 19mm bolt holding the reservoir hose to the PS pump.<br />
+(There is a 8mm hex drain plug on the PS pump, but it was hidden behind the bracket and I didn't feel like removing the whole pump.)<br />
+<br />
+<h3 class="showhide_heading" id="i_540i">530i - 540i</h3>
+1. Place the pan under the car then remove the 8mm hex drain plug on the PS pump. Let the fluid drain in the pan then replace the drain plug.<br />
+2. Clean the inside of the reservoir with clean rags and fill it up with the correct fluid type to the MAX level or 25mm (1 in.) below the reservoir rim if you don't have a dipstick cap.<br />
+3. Start the engine then slowly turn the steering wheel from lock to lock two times to bleed the air in the system.<br />
+4. Shut down the engine then check the fluid level and add if necessary. LAD equipped cars, raise the rear wheels off the ground, wait 2 min then check the fluid level.<br />
+<br />
+<h3 class="showhide_heading" id="Capacity">Capacity</h3>
+<ul><li>Without self-leveling rear suspension (LAD): 1.2 liters - 1.3 quarts
+</li><li>With self-leveling rear suspension (LAD): 1.8 liters - 1.9 quarts
+</li></ul>
+<br />
+<br />
 
 
 
@@ -150,7 +175,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Power+steering+fluid">http://www.bmwe34.net/Wiki/tiki-index.php?page=Power+steering+fluid</a>
 
   </p> 
 
@@ -170,7 +195,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325414014E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

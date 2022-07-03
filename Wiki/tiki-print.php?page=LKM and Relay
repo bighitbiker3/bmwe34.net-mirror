@@ -1,0 +1,236 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		LKM and Relay 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=LKM+and+Relay">LKM and Relay</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="LKM_and_Relay">LKM and Relay</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Electrical/Data/LKM3.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<em>Procedure and photos courtesy of Max Fretter </em><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$5-100</td></tr></table><br />
+<br />
+This procedure works on the BMW E34 and E32. If your are loosing your low beams you will have to re-solder the joints on your LKM.The LKM is the lights control module, most important for switching the headlights. Dealer wants $400 to change it.<br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+<ul><li> Low beans working intermittently
+</li><li> Intermittent lights and/or intermittent messages from the Check Control display of &quot;TAIL LIGHT&quot; or suchlike on the E34.
+</li></ul>
+<br />
+The Mustard-colored relay controls the tail/stop light power on early <span style="text-decoration:underline;">E32 ONLY</span>. New relays seem to be running about $60US...<br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:_2">Failure syndromes:</h3>
+- Intermittent lights and/or intermittent messages from the Check Control display of &quot;TAIL LIGHT&quot; or suchlike on E32 only.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure_LKM_E34_E32:">Procedure LKM E34/E32:</h3>
+<br />
+    * Good 25+ watt electronics soldering iron<br />
+    * Some good electronics-grade solder (comes in rolls like wire)<br />
+    * Preferably some prior practice at soldering<br />
+<br />
+The LKM has components <strong>sensitive to static electricity</strong> in it, so some handling care is required.<br />
+<br />
+1. Pull the LKM out of the car.<br />
+2. The module changed internal construction around 1992 from the one presented here - this is my 1987 one. The single circuit board for the later module is a little bit different. The part below about finding &amp; resoldeing the contacts for the relays still applies.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/LKM.jpg" border="0"  width="height=" /></div><br />
+<em>Notice the four relays? One for each headlight each side...</em><br />
+<br />
+3. Open the case from the bottom, there are four barbs that overlap the bottom plate from the &quot;can&quot; body; pry them out of the way (some people report good use of old credit cards or similar stiff plastic sheets for this) then the boards slide out.<br />
+4. The integrated circuits on the boards appear to be the static sensitive CMOS types, but Hella have painted all the parts with an insulating varnish so they should be OK for some light handling. Basically, try to handle by the edges of the PCB or the connector block when you can... there is no need to touch the chips here anyway.<br />
+5. OK, now turn over the unit to see the bottom of the main circuit board (attached to the main connector).<br />
+6.What you have to fix is the relay soldering in either bottom corner, for the main relays. Here they are in all theri glory, toe ones on my LKM anyway...<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/LKM2.jpg" border="0"  width="height=" /></div><br />
+<br />
+7. When finish, again, carefully reassemble (make sure the two boards engage in the two slots in the case) and reinstall. Test your lights - hopefully the intermittent operation is a fading memory...<br />
+<br />
+Jason tried the relays only and it didn't work he said that all solder connections on the thrid of the PC board need to be heated up and new solder added.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure_quot_Mustard_quot_relay:_E32_ONLY">Procedure &quot;Mustard&quot; relay: E32 ONLY</h3>
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/LKMbox.jpg" border="0"  width="height=" /></div><br />
+1. The Mustard relay has retaining pins engaged in metal clips on the sides facing the wheels - they need to be pried off the pegs on the case of the relay if you can't just wiggle it out.<br />
+2. The Mustard relay can be opened by prying it open from the bottom with jewelers' screwdrivers or similar fine flat-bladed screwdrivers. Not the way the printed circuit board comes out - there's a slot in the case it has to come back into on refitting. The mustard relay contains no sensitive electronics - just relays &amp; resistors. Here's what it looks like inside:<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/Relay2.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/Relay.jpg" border="0"  width="height=" /></div><br />
+<br />
+3. To fix the unit, you need to re-solder the joints to the relays on the PCB.... note the little moat-like rings on some of the soldering above -that's a probable bad joint, they should all be nice and tent-like without the moat.<br />
+More info from Andreas Pretzsch : I've got a BMW 525i (E34) from 05/1988.<br />
+<br />
+There seems to be a LKM-B (basic) and a LKM-L (luxury).<br />
+<br />
+LKM is the german abbreviation for &quot;Licht Kontroll Modul&quot;, the light control modul.<br />
+The same LKM, at least according to the part number, is in the 750i from 1988.<br />
+<br />
+LKM part number (on top of the case):<br />
+LKM-B<br />
+61.35-1 379 372<br />
+5 KG 005 175-00<br />
+<br />
+According to the IC manufacturing date (1987 and 1988), I assume it's the original part. Anyway it's a single board, not the one on your pictures. Therefore the construction changed before 1992.<br />
+Failure was the same, one relay solder point was cracked. To be on the same side, I resoldered all points. Now it works like a charm.<br />
+LKMs can be found at ebay easily for below 50$, sometimes even 20$.<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Functional_details_of_the_LKM_B:">Functional details of the LKM-B:</h3>
+<br />
+In standby (low beams off), there are 9.8V at the fuse. If you remove the fuse or the bulb, the on-board computer alerts failure.<br />
+The 9.8V looks like some kind of current limiting circuit (current not checked).<br />
+When the light is switched on, there are 12V at the fuse and of course at the bulb.<br />
+In case the relay (or the soldering point) is defective, there are 0V at the fuse and no (!) warning from the on-board computer.<br />
+<br />
+<strong>Bayani De Guzman did a creative fix:</strong> The e-magnet on the relay was not strong enough to overpower the resistance of the spring. What I ended up doing was switching the relay of the fog lamp (seated next to it) with the low-beam, since that the low beam was more important and always used. For the broken relay, I loosen the tension on the spring to make is less restrictive and now all lights are working again.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=LKM+and+Relay">http://www.bmwe34.net/Wiki/tiki-index.php?page=LKM+and+Relay</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325421369E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

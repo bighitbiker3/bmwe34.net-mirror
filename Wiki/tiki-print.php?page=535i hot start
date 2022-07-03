@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		535i hot start 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,40 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=535i+hot+start">535i hot start</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="i_hot_start_problem">535i hot start problem</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+If your BMW M30 and M20 engine BMW E34/E32/E30 is stgarting fine when the engine is cold and has some trouble starting when the car is warm then read below:<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<h3 class="showhide_heading" id="Repair_procedure:_Procedure_courtesy_of_P._Baril_">Repair procedure: ( Procedure courtesy of P. Baril )</h3>
+A. Check injector, one might be leaking.<br />
+B. Change the check valve.<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Check_valve_installation">Check valve installation</h3>
+If your injectors aren't leaking, the problem might be due to a loss of pressure in the fuel system ( bad check valve but good fuel pump). Install a check valve in the fuel pump output fuel hose (under the trunk floor mat, thru the access panel)<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+1. Remove the 6 screws holding the cover. Set the cover aside along with the gasket.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Trouble/Data/Valve1.jpg" border="0"  width="height=" /></div><br />
 <br />
-Thanks to Brandon J.<br />
+2. Disconnect the fuel pump connector. You have to pull gently on the connector tab and it will release the connector. Set it aside<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Trouble/Data/Valve2.jpg" border="0"  width="height=" /></div><br />
+<br />
+3. You will need to place the check valve as close as possible to the fuel pump. Measure how much you will have to cut then cut it.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Trouble/Data/Valve3.jpg" border="0"  width="height=" /></div><br />
+<br />
+4. Remove the fuel hose on the fuel plate then connect the check valve hose to it (don't forget to slide a clamp). Use the clamps provided with the kit and clamp everything down. you can use the black nut covers that is also provided in the kit to make it nice. (No one will ever notice...)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Trouble/Data/Valve4.jpg" border="0"  width="height=" /></div><br />
+<br />
+Part#: 16-14-9-068-988 (part of a retrofit kit for 750i)<br />
+Price: $3.00 - $5.00 Get it from BMA<br />
+Description: check valve with around 1 foot hose and clips + bolt covers.<br />
+Instalation: remove the access trap and install the valve as close as possible to the fuel pump. (cut hose to fit)<br />
+Time: 15 min.<br />
+<br />
 
 
 
@@ -150,7 +162,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=535i+hot+start">http://www.bmwe34.net/Wiki/tiki-index.php?page=535i+hot+start</a>
 
   </p> 
 
@@ -170,7 +182,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325423488E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

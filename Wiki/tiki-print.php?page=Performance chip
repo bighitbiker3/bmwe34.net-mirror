@@ -1,0 +1,232 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Performance chip 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Performance+chip">Performance chip</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="INSTALLATION_OF_A_PERFORMANCE_CHIP_IN_YOUR_BMW">INSTALLATION OF A PERFORMANCE CHIP IN YOUR BMW</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/chip.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell"  colspan="5">E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell"  colspan="5">AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell"  colspan="5">$250</td></tr></table><br />
+<br />
+The engine management systems used by BMW are the key to maximum efficiency and minimum fuel consumption... What we want is more power so re-tuning the factory chip provides substantial performance gains and more aggressive set up while maintaining emission standards.<br />
+<br />
+From what I have read and tested , the EAT Ultrachip and Jim Conforti chip are the best chips suited for the E34. But the Dinan Gen III works fine too (mostly high end power).<br />
+<br />
+Only drawback: it is expensive (US$ 250) and you have to drive 92 octane gas. Only the EAT Ultrachip: <a class="wiki"  href="http://www.dsylva-tech.ca/">http://www.dsylva-tech.ca/</a> is affordable.<br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" >Model	</td><td class="wikicell" > HP stock/chip</td><td class="wikicell" > Peak HP Gain</td><td class="wikicell" > Torque stck/chip</td><td class="wikicell" > Peak Trq gain</td><td class="wikicell" > Rev limit</td></tr><tr><td class="wikicell" >525i 89-91	</td><td class="wikicell" >167 / 179 </td><td class="wikicell" >15 @ 5000 </td><td class="wikicell" >164 / 177 </td><td class="wikicell" >15 @ 5000 </td><td class="wikicell" >6900</td></tr><tr><td class="wikicell" >525i 92	</td><td class="wikicell" >189 / 204 </td><td class="wikicell" >20 @ 6000 </td><td class="wikicell" >188 / 201 </td><td class="wikicell" >13 @ 4500 </td><td class="wikicell" >7000</td></tr><tr><td class="wikicell" >525i 93-95	</td><td class="wikicell" >189 / 211 </td><td class="wikicell" >22@ 6000 </td><td class="wikicell" >193 / 210 </td><td class="wikicell" >20 @ 4000 </td><td class="wikicell" >7000</td></tr><tr><td class="wikicell" >535i 89-92	</td><td class="wikicell" >208 / 222 </td><td class="wikicell" >43 @ 6250 </td><td class="wikicell" >223 / 237 </td><td class="wikicell" >21 @ 2000 </td><td class="wikicell" >6800</td></tr><tr><td class="wikicell" >530i 93-95	</td><td class="wikicell" >215 / 238 </td><td class="wikicell" >23 @ 6000 </td><td class="wikicell" >222 / 228 </td><td class="wikicell" >23 @ 3000 </td><td class="wikicell" >7000</td></tr><tr><td class="wikicell" >540i 93-95	</td><td class="wikicell" >282 / 296 </td><td class="wikicell" >19 @ 3000 </td><td class="wikicell" >277 / 292 </td><td class="wikicell" >33 @ 3000 </td><td class="wikicell" >7000</td></tr><tr><td class="wikicell" >M5 91-93	</td><td class="wikicell" >311 / 343 </td><td class="wikicell" >39 @ 3000 </td><td class="wikicell" >282 / 294 </td><td class="wikicell" >38 @ 3000 </td><td class="wikicell" >7500</td></tr></table><br />
+Gain reported with Jim Conforti chip.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+1) Locate E-Box<a href="tiki-editpage.php?page=E-Box" title="Create page: E-Box" class="wiki wikinew">?</a> (Electronics Box) in the engine compartment<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip1.jpg" border="0"  width="height=" /></div><br />
+<br />
+2) Remove E-Box<a href="tiki-editpage.php?page=E-Box" title="Create page: E-Box" class="wiki wikinew">?</a> cover by loosening (4) screws securing cover to box and lift cover straight up<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip2.jpg" border="0"  width="height=" /></div><br />
+<br />
+3) Release DME harness from DME by lifting up on DME harness latch<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip3.jpg" border="0"  width="height=" /></div><br />
+<br />
+4) DME harness may now be removed from DME unit by lifting up<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip4.jpg" border="0"  width="height=" /></div><br />
+note - there is a set of tabs on the opposite end of the harness from the latch that are used to line up the harness contacts for installation - line this up first during reinstallation<br />
+<br />
+5) Remove the DME mounting clips (pull upward) that secure DME to E-box chassis - DME will now be able to be slid/lifted out of the E-box<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip5.jpg" border="0"  width="height=" /></div><br />
+<br />
+5b) On certain model (like the 535i) the DME is held by two screws.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip6.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip7.jpg" border="0"  width="height=" /></div><br />
+<br />
+6) DME Unit removed.  To remove the DME chassis cover, remove the (4) #20 Torx screws securing the DME cover to the DME chassis. Next you need to lift outward on the white pin on bottom of DME chassis to unlock the mounting pin in the center of upper DME board.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip8.jpg" border="0"  width="height=" /></div><br />
+<br />
+6b) On certain model (like the 535i) the DME cover is held by tabs that need to be pried out.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip9.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip10.jpg" border="0"  width="height=" /></div><br />
+<br />
+7) Lift upper DME board away from DME chassis<br />
+In the 540i, there are a few snapping mounts that will disengage during this part of the procedure. a- one center pin mount. b- two tabs on DME harness (note - these can be released with either a screwdriver or the like to lightly pry tabs inward). c-two outer mounts (picture in the right). The upper DME board is now free to slide out / away from the DME harness<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip11.jpg" border="0"  width="height=" /></div><br />
+<br />
+7b) Nothing to do for the other model because there is only one board.<br />
+<div class="img" align="desc="540i DME (two boards)""><img alt="" src="../E34main/Upgrade/Data/chip12.jpg" border="0"  width="height=" /></div><br />
+<br />
+<div class="img" align="desc="535i DME (one board)""><img alt="" src="../E34main/Upgrade/Data/chip_open.jpg" border="0"  width="height=" /></div><br />
+<br />
+8)  You may now lift / pivot the upper board away from the DME chassis to expose the chip location that will be involved with the chip swap.<br />
+8b) Nothing to lift on the other model.<br />
+<br />
+9) Stock chip removal: the white or black stock chip cover will need to be removed first, this is done by inserting a narrow screwdriver into one of the pry slots on the chip cover and prying to release the cover from the chip (note - cover cannot be installed when performance chip utilizes a decryptor board)<br />
+Next - make note of the orientation of the stock chip in the socket, which end the notch in the chip is towards.  The new chip will need to be installed in this orientation.  To pry the chip out, insert a small narrow screwdriver under the stock chip at one end and pry up slightly - repeat on other end of chip and repeat back and forth until chip is unseated from the socket.  Do this in very small amounts of lift to ensure that chip is removed from socket without bending the pins.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip_remove.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip13.jpg" border="0"  width="height=" /></div><br />
+<br />
+Installation of the chip is quite easy.  Assure that the tab/notch on the chip you are installing is in at the same end as the stock chip was.  Gently press the chip into the socket - assure the the chip is fully seated into the socket.<br />
+<br />
+10) On the 530i/540i, since the decryptor board was used in this application - the chip was too tall and the aluminum case needed to be lifted slightly away from the top DME board to prevent excessive rubbing between the TMS Conforti chip and another IC on the lower DME board<br />
+I chose to clip a washer in half and shim the case up a bit on the rear two DME cover chassis mounting points to give the upper DME board more room inside the case so that the chips (TMS Conforti chip on upper DME board and an IC on lower DME board) were not rubbing.  I secured the washer/shim with electrical tape.  These pictures were taken after two months of running with this setup and no excessive rubbing/wear was noticed on the conflicting chips (TMS Conforti chip on upper DME board and an IC on lower DME board).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/chip14.jpg" border="0"  width="height=" /></div><br />
+<br />
+Important: Start the car and let it run for at least 1 min for the computer to reset.<br />
+If the car starts, everything is fine, if not... you may have a bent pin or the wrong chip and/or fried your computer... Arg!<br />
+You may want to call and double check that you have the right chip prior to change it (tell them the last 3 digits on the bosch sticker located on the computer 400, 401,402 or 403)<br />
+<br />
+Thanks to Hans L. and Denis Painchaud<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Performance+chip">http://www.bmwe34.net/Wiki/tiki-index.php?page=Performance+chip</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325419558E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

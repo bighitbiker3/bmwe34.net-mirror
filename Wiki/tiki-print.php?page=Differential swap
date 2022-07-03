@@ -1,0 +1,214 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Differential swap 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Differential+swap">Differential swap</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="DIFFERENTIAL_SWAP">DIFFERENTIAL SWAP</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Transmission/Data/diff2edit.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">Procedure and photos courtesy of Jeff Bosonetto</td></tr></table></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$200 to $500</td></tr></table><br />
+<br />
+The original '95 BMW 540i6 came with a 2.93 open rear end. Many owners wanted a little more zip around the urban streets without giving up too much top end (&amp; gas mileage on the highway). Many owners recommended swapping out the 2.93 for a 3.15.<br />
+The 530i diff will not work on the 540i. The input shaft itself is different in diameter &amp; splines and there isn't an input flange available to interface the 530 diff with the 540 driveshaft (different bolt pattern etc). The 530 diff is interchangeable with the 535/525 models of Bmw E34 cars however. For the 540, look for an M5 or 750 diff.<br />
+The 3.15 limited slip can be found in the 88 750iL. There is a big question as to whether the LSD rear end would play well with the ASC+T system. Most owners agreed that under normal (non racing) conditions that the two systems would work together. They also agreed that if racing or doing the sometimes needed high speed power slide turn, turn the ASC+T off.<br />
+<br />
+<h3 class="showhide_heading" id="Differential_identification">Differential identification</h3>
+If you would like to know what kind of diff is installed in your car, refer to the data tag located on the rear driver's side of the diff. &quot;S3.15&quot; means a LSD 3.15 diff while a &quot;2.93&quot; means an open end 2.93 diff.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff2.jpg" border="0"  width="height=" /></div><br />
+<br />
+The diff swap is strait forward except for the diff front shaft flange. This is the part of the diff that bolts to the drive shaft. If the 3.15 diff came from a 750iL then the front flange must be changed. The most important part of the flange swap is resetting the preload (torque of the nut that holds the flange to the diff). Almost all owners recommend having the dealer or a mechanic with the right tools set the preload. If it is not set correctly, the diff will fail in about a year. In the figure the 540i flange is on the left while the 750iL flange is on the right.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff3.jpg" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="Removal_Procedure">Removal Procedure</h3>
+Since the rear diff weighs about 95 lbs, the first step was to come up with a way to swap out the diff if a second person wasn't available. The design of what became known as the &quot;Differential Extraction and Insertion Device,&quot; or &quot;Diff Lift&quot; for short, can be seen in figure 3. The outline of the diff was traced on to one piece of ½&quot; plywood. The plywood piece were screwed to two ½&quot; pieces of particle board and notches were cut into the sides of the plywood to secure the bungee cords. The bungee cords work well in this application since some tweaking while extracting and inserting the diff is required. Secure the Diff Lift to the cup of a floor jack with 8 tie wraps. The floor jack is then used to lift and lower the diff.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff4.jpg" border="0"  width="height=" /></div><br />
+<br />
+<table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="width=../E34main/Maintenance/Transmission/Data/Diff1.jpg" border="0"  height="align=" /></td></tr><tr><td class="mini">link=</td></tr></table><br />
+<br />
+Start by removing the 6 drive shaft nuts. Since a socket wrench will not fit into the area needed, use a 16mm open end wrench or open end socket attachment. Since these are lock nuts they must be replaced with new ones (the dealer or any part store has them). Put the car in gear to lock the drive shaft in place while loosening the bolts. Take the car out of gear to rotate the drive shaft to the next nut. Note that the drive shaft bolts cannot be removed. The Bentley book recommends hanging the drive shaft from the car body using wire. On the 95 540i6, the exhaust system runs right under drive shaft and offers adequate support.<br />
+<table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="width=../E34main/Maintenance/Transmission/Data/Diff5.jpg" border="0"  height="align=" /></td></tr><tr><td class="mini">link=</td></tr></table><br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff6.jpg" border="0"  width="height=" /></div><br />
+<br />
+Using an 8mm allen wrench (preferably an allen socket attached to a pneumatic socket wrench), unbolt the half shafts (6 bolts each), see figure 7 . Use the parking brake to hold the shafts in place while loosening the bolts. It is recommended that both sides be done at the same time to reduce the amount times needed to operate the parking brake. More than likely these are the locking style nuts and must be replaced. Support the half shafts with wire or allow them to lie across the suspension.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff7.jpg" border="0"  width="height=" /></div><br />
+<br />
+Disconnect the speedometer wire (located on the rear of the diff, passenger's side). Position the Diff Lift under the diff, barely touching the diff (you want to support the diff while unbolting it but you don't want to bind the bolts).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff8.jpg" border="0"  width="height=" /></div><br />
+<br />
+Secure the bungee cords around the diff. Unbolt the single front mounting bolt (located on the passenger's side of the drive shaft) using a 19mm socket, open end wrench, or open end socket attachment, see picture. Before you unbolt the two rear mounting bolts make sure the diff lift with bungee cords is in place or an extra set of hands are in place. Also note that the rear of the diff must come DOWN first to clear the mounting bracket and then slide back to allow the input flange to slide off of the drive shaft bolts.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff9.jpg" border="0"  width="height=" /></div><br />
+<br />
+The drive shaft flange will articulate to compensate for the angle in which the diff comes out. Next, unbolt the two rear mounting bolts using a 19mm socket. Remove the diff.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff91.jpg" border="0"  width="height=" /></div><br />
+<br />
+Next, if the front input flange from the 3.15 must be swapped out, use a marker and index the bolt position with the nut. This is a good reference when you put the correct flange on and set the preload. The marks should line up pretty close if not right on.<br />
+<br />
+The book recommends replacing the rear end fluid after the diff is reinstalled. This is not exactly the easiest way to do it. Several mechanics recommended changing the oil before reinstalling the diff by leveling the diff on the ground with shims and then adding the oil. Don't forget many rear end oils require an anti-rattle additive. The 88 750iL 3.15 LSD requires 2 qts of hypoid SAE 90/GL-5 LSD rear gear oil. The drive shaft and diff flanges are packed with grease. Repack the diff flange with grease.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff92.jpg" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="Installation_Procedure">Installation Procedure</h3>
+Please note that the tightening torques recommended below come from the Bentley Book. When the diff is reinstalled be sure to line up the diff front flange holes with the drive shaft bolts. Insert the front of the diff first and make sure all of the drive shaft bolts go through a hole in the diff flange. Next, rotate the rear of the diff up and into position. This requires some careful tweaking. See figure 10. Insert the rear mounting bolts and the front mounting bolt. The recommended torque for the rear bolts is 77nm/57 ft.lbs. The recommended torque for the front bolt is 123nm/91ft.lbs. Note that a standard torque wrench will not fit into area needed to tighten the front mounting bolt. A recommend procedure for torqueing down the front bolt is to use a open end socket attachment on your torque wrench. This will increase the wrench approximately 1 inch. Reduce the required by approximately 1-2 ft.lbs. to compensate for this.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/Diff93.jpg" border="0"  width="height=" /></div><br />
+<br />
+Next, install the drive shaft lock nuts. The recommended torque is 64-70nm/47-52 ft.lbs. (see the Bentley book). Once again a standard torque wrench will not fit into area to tighten these nuts. Use the procedure recommended for the front mounting bolt to tighten the nuts. Use a cross tightening pattern (like what is used for wheel lug nuts). Once again, put the car in gear to lock the drive shaft in place while tightening the bolts. Take the car out of gear to rotate the drive shaft to the next nut. Mark the nuts with a marker as a reminder as to which nuts have been tightened. Reconnect the speedometer plug. Reinstall the half shaft bolts using 83nm/61 ft.lbs. Use the cross tightening pattern. Once again, use the parking brake to hold the shafts in place while torquing down the bolts. It is recommended that both sides be done at the same time to reduce the amount times needed to operate the parking brake.<br />
+<br />
+Recheck everything, lower the car and enjoy.<br />
+<br />
+<strong>Thanks to Jason Blitz </strong><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Differential+swap">http://www.bmwe34.net/Wiki/tiki-index.php?page=Differential+swap</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325422511E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

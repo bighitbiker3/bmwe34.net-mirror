@@ -1,0 +1,244 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		M20 timing belt 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=M20+timing+belt">M20 timing belt</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="M20_TIMING_BELT_REPLACEMENT">M20 TIMING BELT REPLACEMENT</h2>
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/Engine/Data/Timing10.jpg" border="0"  /></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E30</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >&lt;$60</td></tr></table><br />
+<br />
+The older E30 325i and the older ('89-90) 525i have the M20 engine with the timing belt.<br />
+This timing belt and its tensioner should be changed every 70,000 km<br />
+<br />
+<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
+• Oil timing belt or cracked one.<br />
+• Time to change it<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li>BMW coolant + distilled water
+</li><li>Torque wrench
+</li><li>Timing belt
+</li><li>Tensioner
+</li><li>All the belts while you are at it
+</li><li>Camshaft seal
+</li><li>Gasket remover tool and spray
+</li></ul>
+<br />
+<h3 class="showhide_heading" id="Optional:">Optional:</h3>
+Water pump, hoses, belts, thermostat<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing1.jpg" border="0"  width="height=" /></div><br />
+1. Following the Bentley manual procedure page 118-1.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing4.jpg" border="0"  width="height=" /></div><br />
+2. Loosen the bolts on the waterpump pulley, remove all the belts, best time to change all of them. Remove the fan clutch (32mm wrench and don't forget that the threads on the fan clutch are left hand threads). Remove the radiator shroud.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing3.jpg" border="0"  width="height=" /></div><br />
+3. Remove the 10mm bolts on the waterpump pulley and remove the pulley.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing5.jpg" border="0"  width="height=" /></div><br />
+4. With the engine cold, remove the plug from the bottom of the radiator and the bolt below cylinder #6 on the engine block to drain the coolant. You can remove the hoses and change them if you want.<br />
+Remove the metal hose that you can see on the picture #3. It is attached with two bolts on each side.<br />
+<br />
+<div class="img" align="desc="Click for larger image""><a href="../E34main/Maintenance/Engine/Data/Timing6Big.jpg"><img alt="" src="../E34main/Maintenance/Engine/Data/Timing6.jpg" border="0"  width="height=" /></a></div><br />
+5. Remove the distributor cap cover, distributor cap and rotor<br />
+Remove the bracket from the alternator to the upper timing belt cover (upper bracket). Remove the bolts from the timing belt cover and remove it.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing7.jpg" border="0"  width="height=" /></div><br />
+6. Using a 22mm socket, rotate the crankshaft clockwise until the engine is at Top Dead Center. You have to line up the marks on the cylinder head with the mark on the camshaft pulley. (See picture on the Bentley manual.)<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing8.jpg" border="0"  width="height=" /></div><br />
+ 7. Remove the 6 bolts that holds the lower pulley then remove the 22mm bolt and the pulley. You can now remove the last bolts on the lower timing belt cover and remove the cover.<br />
+<br />
+<table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Engine/Data/Timing9Big.jpg" border="0"  width="600" height="align=" /></td></tr><tr><td class="mini">link=../E34main/Maintenance/Engine/Data/Timing9Big.jpg</td></tr></table><br />
+8. Image from the top<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing10.jpg" border="0"  width="height=" /></div><br />
+9. Remove the bolt in the center of the camshaft pulley. Loosen the upper bolt that holds the tensioner. Loosen the tensioner lower bolt at the base of the long stud.<br />
+Using a screwdriver, push the tensioner from the top to release the tension then tighten the upper bolt. Remove the timing belt.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing11.jpg" border="0"  width="height=" /></div><br />
+10. Remove the camshaft pulley then the two bolts holding the camshaft seal cover.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing12.jpg" border="0"  width="height=" /></div><br />
+11. Remove the cover then remove the old seal without damaging the cover, clean everything.<br />
+<br />
+<div class="img" align="desc="><a href="../E34main/Maintenance/Engine/Data/Timing13Big.jpg"><img alt="" src="../E34main/Maintenance/Engine/Data/Timing13.jpg" border="0"  width="height=" /></a></div><br />
+12. Part# for the different seals<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing14.jpg" border="0"  width="height=" /></div><br />
+13. You can remove the water pump while you are at it and clean everything in the process.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing15.jpg" border="0"  width="height=" /></div><br />
+14. Doesn't that look better??? Change the tensioner, put the new one in place, (noticed that the tensioner is all the way to the left). Install the camshaft pulley then make sure that the camshaft pulley marks match the marks on the cylinder head. Make sure that the mark on the crankshaft hub aligns with the one on the engine. (See Bentley picture).<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing16.jpg" border="0"  width="height=" /></div><br />
+15. Install the new timing belt beginning with the crankshaft pulley in a counterclockwise direction without slack. All the belt slack should be at the tensioner. When the belt is in place, slowly loosen the upper bolt of the tensioner to tighten the belt.<br />
+Using the crankshaft 22mm bolt, turn the engine for two full revolutions until the marks match again. Make sure that the camshaft pulley marks are aligned along with the marks on the crankshaft hub.<br />
+If everything is right, torque the upper then lower tensioner bolt (16 ft-lb). Time to reinstall everything with new belts.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing17.jpg" border="0"  width="height=" /></div><br />
+Be very careful with the crankshaft position sensor (CPS), if the cable isn't where it is suppose to be, it will be cut by the waterpump pulley... Then you are going to spend a lot of time on diagnostic, why the car doesn't start... if this piece is broken, the car will NEVER start.<br />
+Add 50% BMW coolant and 50% distilled water then bleed the cooling system. All done, if you didn't do any mistakes, the car should start right away... else, you might have a major problem on your hand.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Engine/Data/Timing18.jpg" border="0"  width="height=" /></div><br />
+Another thing to pay attention to: the hose that is behind the metal bracket, make sure that it is attached with the OEM clamp to the bracket Mine wasn't and it touched the cooling fan, until a leak appears... at 400 miles from my house... (A hose that looked the same was put into place and I was able to go back home).<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=M20+timing+belt">http://www.bmwe34.net/Wiki/tiki-index.php?page=M20+timing+belt</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325425036E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

@@ -1,0 +1,239 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Subframe bushings 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Subframe+bushings">Subframe bushings</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="SUBFRAME_MOUNTS">SUBFRAME MOUNTS</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush2.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">Procedure and photos courtesy of Jeff Nord</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >ARG</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$100</td></tr></table><br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+• Rear clunk noise when you disengage the clutch on an upshift / down shift; especially an upshift. when accelerating; the subframe is pulled away from the chasis via the wheel torque. when you push the clutch in, the subframe unloads and hits the chassis creating the thunk.<br />
+• The rear of the car feeling like it steers itself. Probably best to do the rear pitman arms first before the subframe bushings if you have a self steering rear. or, at least have them inspected. If the pitman arms are good then this means the bushings are soft. No real way to inspect the bushings visually. however, if you support the subframe, you can easily remove the arm covering the bushing and see how torn it is.<br />
+<br />
+You will need some specific tools to do this repair. Parts cost = 2 x $40 for bushings. labor with puller and lift, no torn bushings is about 4 hours. Labor with a torn bushing (you can't use the puller then) can be upwards of a day - you have to cut the bushing out. to cut it out, you may have to remove the subframe.<br />
+<br />
+<h3 class="showhide_heading" id="Subframe_mounts_vs_subframe_bushings:">Subframe mounts vs subframe bushings:</h3>
+<br />
+I just got the bad news that the part that I recieved from BMA was wrong!<br />
+I ordered the &quot;bushings&quot; instead of the &quot;mounts&quot;.<br />
+The &quot;bushings&quot; are a horizontal item located on the subframe and the &quot;mounts&quot; are mounted vertically into the chassis.<br />
+<br />
+So to make this easier for other people ( as well as cheaper, now I have to pay double bacause I can't wait for BMA)I'm giving you the part #'s for the job.<br />
+<br />
+Patick @ BMA has told me that the &quot;bushings&quot; and the &quot;mounts&quot; are the same for &quot;all&quot; E34's.<br />
+<br />
+Subframe &quot;Mounts&quot; # - 33-3-1-129-760 $25.00 ea.<br />
+For vertically mounting from subframe to chassis.<br />
+The picture on Bruno's site would be # 2<br />
+<br />
+Subframe &quot;Bushings&quot; # - 33-17-1-131-903 $20.00 ea.<br />
+The picture on Bruno's site would be # 3<br />
+<br />
+Even Patrick told me this can be a very confusing item for people to order, because BMW lists them both as &quot;bushings&quot;, but as you get more into the ordering screen, it finally shows the correct one as being a &quot;mount&quot;.<br />
+<br />
+Take it from me, it just happened today.<br />
+Keith '95 540<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+Floor lift preferable, jackstands, BMW Bushing Puller Tool<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush1.jpg" border="0"  width="height=" /></div><br />
+<br />
+1. First, a nice shop with a lift helps. This is the shop of Dan Patzer, one of the Puget Sound chapter tech advisors. Dan will work with you side by side on car repairs. I enlisted Dan's help because of his extensive shop and bushing puller.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush3.jpg" border="0"  width="height=" /></div><br />
+<br />
+2. Car in the air, here's our target from below. The subframe bushing is located under the large nut on the right hand side of the picture. The bushing locates a 'pin' that goes thru the chasis and keeps the subframe in place. To do this repair, you need to work in both the car's cabin and from underneath. First, support the subrame with a 4x4 on a jack. Then, remove the arm in this picture (note: two 13mm mounting bolts are obscured in this picture).<br />
+<br />
+3. This is in the cabin with the backseat removed. Underneath this tar patch is the bushing pin. Peel away this patch to access the pin. This patch is located near the seat belt buckle on the floor pan. You'll also need to remove the outboard rear clips for the seatbelts.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush4.jpg" border="0"  width="height=" /></div><br />
+<br />
+4. With the patch removed, you can see the top of the pin that locates the subframe. We are going to remove this pin.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush5.jpg" border="0"  width="height=" /></div><br />
+<br />
+5. Underneath again, subframe arm removed, you can see the actual subframe bushing. At this point, the subframe itself is being supported by a 4x4 post on a jack. The bolt in the center is the pin previously mentioned. You need to hammer the pin up and push it out of the bushing. Be ready to hit it hard. Don't mess up the threads! Put the nut on and hammer on a socket!  Pin shown removed on the right.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush6.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush7.jpg" border="0"  width="height=" /></div><br />
+<br />
+6. By lowering the jack that was supporting the subframe, the subframe drops away from the chassis. You can see the space in the picture.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush8.jpg" border="0"  width="height=" /></div><br />
+<br />
+7. Using a special BMW tool, we'll now pull the bushing out of the housing. It's a tight, press fit. On the left is the tool partially setup.  NOTE the puller's top plate in the space created by lowering the subrame? On the right is the tool installed and starting to pull the bushing out.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush9.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush10.jpg" border="0"  width="height=" /></div><br />
+<br />
+8. The bushing stretches as the puller digs in. We used a heat gun on the sides of the subframe to help loosen the bushing.  On the right is the bushing coming out. Watch your toes - it will drop to the floor.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush11.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush12.jpg" border="0"  width="height=" /></div><br />
+<br />
+9. New and old bushing side by side<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush13.jpg" border="0"  width="height=" /></div><br />
+<br />
+10. To install the new bushing, you reconfigure the BMW tool to press the new bushing in. Trim the excess rubber away.<br />
+We strongly recommend that you DO NOT lube the new bushing with undiluted detergent to aid the installation. Instead, we suggest only water or an extremely diluted detergent solution. Using too much detergent (lube) appears to cause the subframe to slip up the bushing when driving. The bushing / subframe connection appears to rely on friction and the detergent does not disipate enough leading to slippage.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush14.jpg" border="0"  width="height=" /></div><br />
+<br />
+11. Once the new bushing is installed, you have to replace the pin. Here's a shot of the pin and the hole in the cabin. Note the knurling in the pin. The pin is forced into the hole and the knurling holds it tight.  Putting the pin back in, you will need to line up the new bushing below so you don't gouge the threads on the pin. Do this by carefully jacking up the subframe so the pin and the bushing line up. Firmly hammer the pin back into the chassis. Be careful not to mess up the threads! :)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush15.jpg" border="0"  width="height=" /></div><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush16.jpg" border="0"  width="height=" /></div><br />
+<br />
+13. Here's the new bushing and the pin replaced. At this point, replace the subframe arm, torque the bolts and then lower the jack supporting the subframe. Go do the other side.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Suspension/Data/SubBush17.jpg" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="Big_thanks_to_Jeff_Nord_and_Micah_O_C">Big thanks to Jeff Nord and Micah O'C</h3>
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Subframe+bushings">http://www.bmwe34.net/Wiki/tiki-index.php?page=Subframe+bushings</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325425435E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

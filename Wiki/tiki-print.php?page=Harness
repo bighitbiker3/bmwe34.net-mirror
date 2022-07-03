@@ -1,0 +1,229 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Harness 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Harness">Harness</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_E34_TOURING_HATCHBACK_HARNESS_REPLACEMENT">BMW E34 TOURING HATCHBACK HARNESS REPLACEMENT</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/E34Touring/Data/BMW_E34_touring.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Procedure and photos courtesy of Bill Sours</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34 Touring</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$10.00</td></tr></table><br />
+<br />
+Touring hatchback harness seems to attract electrical gremlins.<br />
+<br />
+<a class="wiki"  href="../E34main/Maintenance/E34Touring/Data/E34%20Touring%20harness%20wiring.pdf" rel="">BMW E34 Touring Rear Wire Harness Repair Layout from Scott Hersted.</a><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+Check F44 fuse under the rear seat.<br />
+There's a relay behind the RH rear interior trim on the rear of the wheel well. wht/blu wire to pin 3 is power in from window switch, and red/blu wire at pin 2 is power out to window motor. If you can get power to the red/blu wire you maybe able to open the window.<br />
+This wire should also be available at the hinge point on the gate side. Red wire with blue stripe, is in LH side harness. You will have to cut into the harness on the gate side of the hinge point and find the red/blu wire and apply power. This bypasses the switch and relay. Since your problem may be the switch, the relay, or the latch motor instead of wiring I would check these first.<br />
+1. Check with a multi-meter at the red/blu wire both sides of the hinge point while operating the window switch. If it is wiring you will have power car side of hinge point only. If neither proceed to;<br />
+2. Switch wiring is wht/grn/yel (mine was wht/blk/yel, the yel is bands) input (hot all the time) and wht/blu out (hot with switch made) these are in the RH harness. These are okay if you have power in the first step.<br />
+Now, first problem is that the main cover over the inside of tail gate has one screw that's under the window latch cover, window must be open to get to it. By the way Bentley's is a help, but not here as it doesn't show how to get the inner cover off the gate.<br />
+<br />
+If you can get the glass up, pry off the black latch cover see picture<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-7A.jpg" border="0"  width="height=" /></div><br />
+<br />
+remove the 1 screw to the right of center holding the interior cover.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-8A.jpg" border="0"  width="height=" /></div><br />
+<br />
+To remove the inner cover, raise the gate, open the tool tray, unfasten the tool tray straps.<br />
+<div class="img" align="desc="#8""><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-3A.jpg" border="0"  width="height=" /></div><br />
+<br />
+When the tool tray moves down pass the strap limits, it will come out (off the gate). Around the edge of the tool tray opening, there are some small (1/2&quot; x 3/4&quot;) plastic plugs,<br />
+<div class="img" align="desc="#9""><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-3A.jpg" border="0"  width="height=" /></div><br />
+<br />
+use a small thin screw driver or point of a knife to pry them out. There are retainer nuts under these plugs. Inside the tool tray well there are 4 plug retainers (pic #10) at the back edge,<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-5A.jpg" border="0"  width="height=" /></div><br />
+<br />
+these are removed by lifting the centers (see pic) out until the plugs can be removed,<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/Harness-16A.jpg" border="0"  width="height=" /></div><br />
+<br />
+the centers spread (swell) the outer plug to make them stay put. Now you will have 2 plastic flanged nuts, in some cars these are plastic screws, (pic #11) in the tool well, and the 1 screw under the glass latch cover if you couldn't open the glass, plus a few stab-in clips, that are not visible, holding the interior cover on. You can remove the 2 flange nuts and pry the cover away from the gate. You will now have access to all the wire connections, latch and lock switches and motors.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-5A.jpg" border="0"  width="height=" /></div><br />
+<br />
+Gate side harness covers are held by 3 screws, 2 under bumpers for the window (pic #14)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-9A.jpg" border="0"  width="height=" /></div><br />
+<br />
+and 1 plastic screw on the side (pic #15).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-10A.jpg" border="0"  width="height=" /></div><br />
+<br />
+Small cover above the harness grommet has a snap in button (pic #16) pry in loose. In picture #17 is the defroster cable grommet, you will reuse this.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-13A.jpg" border="0"  width="height=" /></div><br />
+<br />
+On the gate side there is a positioner for the harness, move the harness aside and you will find two screws (pic #18), this also has a cover that snaps on (pic #19), remove it.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-14A.jpg" border="0"  width="height=" /></div><br />
+<br />
+On the gateway side the molding has to be removed.<br />
+1. Remove the trim strip across the thresh hole (pic #4 screws and #7 retainer plugs).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-2A.jpg" border="0"  width="height=" /></div><br />
+<br />
+2. Side molding is held by 2 screws and the weather striping (pic 1A #3 and #2 is screw under cover in tie down D ring)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-1A.jpg" border="0"  width="height=" /></div><br />
+<br />
+3. Pull molding out from under weather striping.<br />
+<br />
+Harness replacement; BMW has one for left (PN# 61-10-8-365-704) and right (PN# 61-10-8-365-702)(pic 1A #1).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-1A.jpg" border="0"  width="height=" /></div><br />
+<br />
+They basically have 2 ends. One end is all the connectors (license plate light, reverse light, window micro switch, etc.) and washer tubing for the rear jet in the RH harness. They also have the 2 connectors for the rear window heater. The other end of the harness is cut wires that get spliced into the old harness. I matched all the wires and made sure they all were the right color. Everything matched except for there is only 9 wires(RH harness) in the old harness and 10 in the new one. The extra wire (yellow/white) went to the taillight. It must be for cars equipped with rear fog lights. Be sure to match wires as some cars have different color coding, you can match these with the connectors of the old harness. Before disconnecting the battery; Remove the washer jet before starting the wiring job. You will need 2 squeeze clamps (PN# 16-13-1-379-229). With the jet held up you can unscrew the cap and remove the jet to get to the hose. The other end of the hose can be disconnected at the pump (#6 in the picture above). I disconnected the battery and verified were I would cut the harness(RH side). It has to be cut after the rear washer motor connector and the right outer taillight connector. The 2 connectors for the heated rear window have there own grommet that slides into a hole provided in the harness/washer tube grommet that seals against the body. In order to get the 2 connectors through this hole you may have to push the metal pin out of the plastic connector. There is a lock tab that has to be removed first and then you have to carefully push the pin out. BMW has a special tool for removing pins. Put the wires though and then reinstall on the connectors. I was able to work them through one at a time without removing the insulator. I pulled the harness up through the hole were the harness enters the body (gate end) and cut the harness there and pulled it back down (tie a length of cord on the old harness at the cut point). This gave me another foot or so length to pull the harness into a better work area. It also gave me extra room in case I had to cut it again if I messed it up. I then disconnected the connectors in the hatch area and pulled out the old harness. I ran the new harness, plugged everything in and ran the new wiring and washer tubing out the hatch, down the side of the window, into and down the body(pulled back thru with the cord). Make sure you are on the correct side of the hatch shock. I'm now ready to join the new and old wire harnesses. I used butt splices, however they can be soldered. If soldered be sure to use heat shrink-wrap slid over the wires before soldering. The LH harness is the same procedure, more wires and no hose. Reconnect the battery and check that everything works, before closing up! Since I now have another foot of harness I just tucked it behind the trim panel that covers the washer tank after wrapping it. Now reassemble the car.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-11A.jpg" border="0"  width="height=" /></div><br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/harness-6A.jpg" border="0"  width="height=" /></div><br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Harness">http://www.bmwe34.net/Wiki/tiki-index.php?page=Harness</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325418529E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

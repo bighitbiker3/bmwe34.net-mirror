@@ -1,0 +1,219 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Oil service 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Oil+service">Oil service</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="Oil_Service">Oil Service</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/Mobil1_oil.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$25</td></tr></table><br />
+<br />
+The oil service is the easiest of the three BMW E34 maintenances.<br />
+Check this link to create your own tool to reset any <a class="wiki external"  href="http://www.unofficialbmw.com/e36/electrical/e36_reset_service_lights.html" rel="external">BMW service lights.</a><br />
+<br />
+Make a copy of the <a class="wiki"  href="../E34main/Maintenance/Gen_maintenance/Data/OIL_SERVICE.pdf" rel="no cache ">oil service sheet</a>.<br />
+<br />
+<span style="color:#FF0000; background:">Never go to the cheap oil change shop for your BMW E34. If you want the work done the right way: do it yourself!!!</span><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> New synthetic oil (Mobil 1 synthetic or equivalent)
+</li><li> New oil filter + O'rings (if applicable)
+</li><li> Clean rags + gloves
+</li><li> 17mm closed end wrench (or socket)
+</li></ul>
+<br />
+1. Run the engine to warm it, then turn it off.<br />
+2. Place a drain pan under the plug then loosen the drain plug (&quot;carefull&quot;, the oil is pretty warm).<br />
+3. Let the oil drain and change the oil filter during this time:<br />
+<br />
+<strong>M20:</strong> position another drain pan or lots of rags under the filter then loosen it by turning clockwise. Wipe the oil filter mounting, lubricate the new filter gasket with some fresh oil. Install filter by hand until gasket in contact with flange then turn the filter another 1/2 turn.<br />
+<br />
+<div class="img" align="desc="M50 oil housing picture from Hans Lain""><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/oil_filter.jpg" border="0"  width="height=" /></div><br />
+<br />
+<strong>Other engines</strong>: Loosen oil filter cover, prepare lots of rags around the filter housing. Remove the old filter and install the new one. Remove old O'rings and replace them with the new ones after lubricating them with fresh oil. Replace the cover (do not overtighten it).<br />
+<br />
+4. Replace the drain plug, clean around it (easier to find if there is leak afterwards).<br />
+5. Refill the engine with new oil.<br />
+6. Start the engine (the oil light might take longer than before to switch off), let it warm up and check for leaks.<br />
+<br />
+<strong>Capacity</strong><br />
+<ul><li>525i M20: 4.25 liters (5.0 US qt.)
+</li><li>525i M50 / 535i: 5.75 liters (6.1 US qt.)
+</li><li>530i / 540i: 7.50 liters (8.0 US qt.)
+</li></ul>
+<br />
+<strong>Viscosity:</strong><br />
+<ul><li>Cold climate: 5W-30
+</li><li>Mild climate: 10W-30
+</li><li>Warm or hot climate: 15W-50
+</li></ul>
+<br />
+<h3 class="showhide_heading" id="Torques">Torques</h3>
+<strong>Oil drain plug:</strong><br />
+<ul><li>M12 bolt = 25 Nm (18 ft-lb)
+</li><li>M22 bolt = 60 Nm (44 ft-lb)
+</li></ul>
+<br />
+<div class="img" align="desc="Picture from Hans Lain.""><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/oil_plug.jpg" border="0"  width="height=" /></div><br />
+<br />
+<strong>Oil filter housing:</strong><br />
+<ul><li>M12 or M10 bolt = 33 Nm (24 ft-lb)
+</li><li>Screw on cover = 25 Nm (18 ft-lb)
+</li></ul>
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Oil+service">http://www.bmwe34.net/Wiki/tiki-index.php?page=Oil+service</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325424367E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

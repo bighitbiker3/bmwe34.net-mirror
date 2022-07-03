@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Manual output seal 
 				: BMW E34 Website  
 			</title>
 
@@ -114,30 +114,45 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Manual+output+seal">Manual output seal</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="TRANSMISSION_OUTPUT_SEAL_REPLACEMENT">TRANSMISSION OUTPUT SEAL REPLACEMENT</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<span style="color:#FF0000; background:">Procedure courtesy of Mike Spencer</span><br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$15.00</td></tr></table><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+On the Bmw E4 after a lot of miles, seals tends to wear and leaks appear.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+<ul><li>Drops of fluid on your garage floor.
+</li><li>Oil around the drive shaft.
+</li></ul>
 <br />
-Thanks to Brandon J.<br />
+If you still have a leak after changing the seal, you have to change the output flange.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li>13mm socket
+</li><li>30mm deep thin wall socket
+</li><li>New self locking nuts for output flange/flex and final drive flange
+</li><li>Output shaft seal
+</li><li>Penetrating oil
+</li><li>Thread sealer
+</li></ul>
+<br />
+1. Remove exhaust system: remove the entire exhaust system as a unit. There is no need to take it apart in sections. First, remove nuts that hold the exhaust pipes to the manifold (it may be a good idea to spray with a penetrating oil a few minutes before you start.) Place a floor jack under the catalytic converter for support. Remove mounting nut a third the way down the exhaust assembly. Remove the two rubber hangers from the center support near the catalytic converter (may need to loosen the brackets on the underside of the car via a nut.) Consider replacing these rubber hangers during re-assembly. Remove rear hangers near the rear left fender (one on either side of the muffler). Slide assembly toward rear of car and have a helper guide the front of the exhaust system to the ground.<br />
+2. Remove heatshield by removing bolts that hold it onto the underside of the car.<br />
+3. Remove driveshaft: remove lock nuts from flex-disc as well as bolts. Remove locking nuts from final drive flange. Remove center bearing support. Move center bearing support to one side so that front of driveshaft comes off of output flange centering pilot. Remove driveshaft. Consider replacing u-joints and/or center bearing at this time.<br />
+4. Remove old seal: remove output flange by loosening large nut (30mm) with a deep, thin-wall socket. One might make on of these by grinding down the sides of a regular deep socket. Using a gear puller, remove the flange from the shaft. Remove seal by prying it out with a screwdriver.<br />
+5. Install new seal: lube outer side of seal with automatic transmission fluid. Use a large socket or short piece of PVC pipe with end cap attached to drive the seal into the end of the transmission. Be careful to put equal pressure on all sides of the seal so that it does not go in crooked. If the seal goes in wrong, get another one, don't try to reuse it if it appears damaged in any way. Coat splines of flange and threads of output shaft with thread sealer and reinstall flange. Install nut and tighten to specified torque.<br />
+6. Install driveshaft using new lock nuts (in reverse order) and tighten all to specified torque.<br />
+7. Install heatshield.<br />
+8. Install exhaust system in reverse order taking care to tighten nuts sufficiently to prevent any leaks from manifold.<br />
+<br />
+<br />
 
 
 
@@ -150,7 +165,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Manual+output+seal">http://www.bmwe34.net/Wiki/tiki-index.php?page=Manual+output+seal</a>
 
   </p> 
 
@@ -170,7 +185,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325422317E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

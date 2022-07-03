@@ -1,0 +1,211 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Locked doors 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Locked+doors">Locked doors</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="DEAD_BATTERY_DOOR_LOCKED">DEAD BATTERY DOOR LOCKED</h2>
+<br />
+A great thing with the Bmw E34/E32 is that it is almost impossible to open the doors without the key... But when your battery dies this feature might get you stuck outside of your car.<br />
+<div class="img" align="desc="This is for the driver door. The passenger door is the mirror image of the picture""><img alt="" src="../E34main/Trouble/Data/Lock.gif" border="0"  width="height=" /></div><br />
+<h3 class="showhide_heading" id="Unlocking_procedure:_Procedure_courtesy_of_quot_the_Master_quot_Bill_R._">Unlocking procedure: ( Procedure courtesy of &quot;the Master&quot; Bill R. )</h3>
+1. Insert the master key into the front right door.<br />
+2. Pull up the door handle.<br />
+3. Turn the key counterclockwise to emergency unlock position 1.<br />
+4. Open the door.<br />
+5. Close doors and turn the right front door lock to the synchronize position 5.<br />
+<br />
+This is for the driver door. The passenger door is the mirror image of the picture<br />
+<br />
+If you cannot do it, try Stewart Ebrat's trick taking the truck light bulb out and connecting the positive jumper cable to it. Now the car has power to open it.<br />
+<br />
+<h3 class="showhide_heading" id="Another_trick_from_Mike_S:">Another trick from Mike S:</h3>
+My wife has a 1991 525i. She had a dead battery, and the doors were locked. I did not know about the factory E34 unlock procedure. What I did was open the trunk lid, and take off the trunk light cover and light on the right side. With a voltmeter, I was able to sense enough voltage to tell what polarity each leg of the light was. I then carefully jumper clipped a 12VDC NiCad<a href="tiki-editpage.php?page=NiCad" title="Create page: NiCad" class="wiki wikinew">?</a> pack to the light socket, and was able to open the locks with the key (in the drivers door). The front right door in that car is a little screwy, so the normal procedure wouldn't have worked anyway.<br />
+I thought I would share this as I told it to a BMW mechanic friend of mine, and he said that in thirty years he had never heard that one.<br />
+<br />
+<h3 class="showhide_heading" id="Another_trick_from_Eric:">Another trick from Eric:</h3>
+My battery was to low to open the doors but it had just a little bit left for the alarm. the solution for me was:<br />
+First the thing you need:<br />
+- a second car or battery<br />
+- starting cable (booster cable)<br />
+- an extra hand<br />
+<br />
+Place the minus on the engine (crawl under the car). On the driver side is the alternator, take the rubber seeling of and place the plus on it. (same can be done with the starter)<br />
+Let the second person open the door.<br />
+<br />
+<h3 class="showhide_heading" id="Another_trick_from_Dan_S:">Another trick from Dan S:</h3>
+I recently had the battery on my 1989 535i (a five-speed manual) go flat while the doors were locked. All the resident $90 per hour geniuses said the driver's door would open manually. Wrong. A locksmith friend, whom I've seen pop a &quot;high-security&quot; Corvette lock in 25 seconds, worked on the BMW for half an hour and couldn't get it to open with a &quot;slim jim.&quot;<br />
+Unfortunately, I didn't see your site's contributor solution until some friends and I came up with our own, but I thought I'd pass it along. Credit goes to my gearhead buds down at Star Cycle (Ducks, old British crocks of any stripe, and enough Japanese chunks to clog up e-Bay for a year), Jimmy N. and Brian &quot;Cliffy&quot; A. One of those wits came up with the idea that I should jack up the car, and charge the battery using the positive cable on starter motor. It will handle a hell of a lot more current, safely, than the delicate trunk light circuit and I don't even want to think about going near a $550 BMW alternator and getting that crossed up.<br />
+<br />
+<h3 class="showhide_heading" id="How_To_Open_A_Deadbolted_Door:_Procedure_courtesy_of_Russell_Jones_">How To Open A Deadbolted Door: ( Procedure courtesy of Russell Jones )</h3>
+Just had a successful weekend regarding the locking on my 89 525 - where the rear door had deadlocked itself and wouldn't undo, so I was stuck with a door I couldn't open. As there were not too many ideas on this issue I thought I'd post the solution, in case anyone else has the same problem sometime.<br />
+<br />
+1. Take out the base of the back seat<br />
+2. Peel off the door seal from the inside and remove plastic trim fixed to the floor (held in by large trim clips)<br />
+3. Undo the 3 screws in the trim (1 in handle, 1 behind door operating handle and 1 behind ashtray) &amp; unscrew lock pin.<br />
+4. Pull the trim off at the top by the chrome trim, then using a long thin rod, pry out as many clips as you can down each side of the door.<br />
+5. Using a large screwdriver, push the cable end out of the door operating handle.<br />
+6. Open the window, and leaning in, grab the handle in one hand and the armrest bit in the other,, and pull the trim up and out. This will be a bit stiff but it will go eventually.<br />
+6. With the trim off, disconnect the window switch and take trim out of the car (wahey!)<br />
+7. You can now take out the offending lock solenoid using a 6mm ring spanner, and unlock the door.<br />
+My lock seemed to have corroded pins on the connection, so I cleaned these up and although I thought the solenoid was knackered, thankfully it seems to be working ok now.<br />
+<br />
+If you leave the solenoid disconnected (as I was going to do until I got a new one) the deadlocking and the alarm will not work. What I was going to do if it was dead, was connect the solenoid back up, but not connect it to the locking mechanism - and just mount it as far away as the drilled fixing holes will allow.<br />
+<br />
+Here's a simple fix from Neil on Vancouver Island:<br />
+My 90' 535i battery drained as I had been away for a while. There was no way the door would open with the key as specified, I guess this method needs a little power from the battery ?. I saw the previous posts about applying power through the licence plate bulb holder and also one about going in through the trunk so I opened the trunk with the key to have a look around. I noticed the trunk courtesy light and simply flicked it out of it's position with my fingernail, exposing the light fitting with two wires. I removed the lamp and measured the voltage across the terminals with a multimeter to check polarity and found the black/red stripe to be + ve. I simply attached my small trickle battery charger connections across the terminals with the lamp still removed and powered up the two lamp terminals (+ve on red black and -ve on the other. I also closed down the trunk lid so the circuit was not looking for any power, waited a few minutes and opened the door easily as the electrical system had picked up enough power. Within five minutes of opening the trunk I had solved the problem. Seemed like an easy solution to me.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Locked+doors">http://www.bmwe34.net/Wiki/tiki-index.php?page=Locked+doors</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32542331E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

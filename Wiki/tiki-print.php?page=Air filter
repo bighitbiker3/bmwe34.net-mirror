@@ -1,0 +1,238 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Air filter 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Air+filter">Air filter</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="PERFORMANCE_AIR_FILTERS_FOR_YOUR_BMW">PERFORMANCE AIR FILTERS FOR YOUR BMW</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/Airfilter_picture.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >60$ and more</td></tr></table><br />
+<br />
+way to give a little bit more air to the Bmw E34 engine is to change the air filter to a less restrictive one like K&amp;N or by removing the filter box and replacing it with a cool air induction filter (more expensive).<br />
+<br />
+<strong>Pros:</strong> If you have a sport exhaust, the sound will be deeper. Maybe a little increase of acceleration. It is the last time that you'll buy an air filter (if you clean and oil it).<br />
+<br />
+<strong>Cons:</strong> I must warn you that some people think that the K&amp;N type filters do not filter the air as good as the stock filter and might harm your engine.<br />
+Cold air intakes non insulated are getting the warm air of the engine. This will LOWER your HP.<br />
+<br />
+<br />
+<strong>Rob Levinson from UUC Motorwerks </strong>says that &quot;it is really doing every E34 owner a disservice for three reasons:<br />
+• First, conclusive tests from independent labs show that K&amp;N filters, no matter how well-oiled and cleaned, let through huge amounts of large particulate that damages engines. Oil analysis shows 5x as much silicate contamination. Additionally, the oil from these filters tends to muck up the MAF and cause an engine-damaging lean-run condition.<br />
+• Second, an open element filter like that sucks in hot underhood air and subjects the filter to &quot;fan wash&quot;, the swirl that creates a vacuum effect. On the E36 M3, we measure a 15hp loss from open cone filters.<br />
+• Third, the E34 airbox is designed with an integral velocity-stack style venturi at the opening. Running one of these engines on a dyno, you can cause a 5hp drop just from putting your finger on the stack lip. Removing that airbox undoes a lot of good BMW engineering. Yes, these filters make a &quot;really cool&quot; noise... but noise does not equal power. Stick with a stock paper element in the factory airbox, you're not getting any more power with a K&amp;N garbage-filter, just damaging your motor.&quot;<br />
+<br />
+<strong>Jim Conforti (AKA the Land Shark) did some testing:</strong><br />
+This was a scientific test, not one done by filter manufacturer X to show that their filters are better than manufacturer Y. The test results are pretty irrefutable as the test lab tests and designs filters where &quot;screw ups&quot; are absolutely NOT allowable (I can't say any more for security. Think &quot;Glow in the Dark&quot;).<br />
+<br />
+A scientific test was done on TEST filters where air was loaded with ACCTD (some standardized &quot;test dust&quot; called AC Coarse Test Dust) and sucked through the TEST filter then through an analysis membrane. From the Quantity of dust injected and the amount that gets through the TEST filter and is then captured on the analysis membrane we can calculate the efficiency of the TEST filter in Question.<br />
+<br />
+BMW Stock Filter, Eff. Area of Media: 8.4 sq ft.<br />
+K&amp;N Replacement, Eff. Area of Media: 1.6 sq ft.<br />
+<br />
+The filters are the SAME size.  They both fit in the STOCK BMW M3 airbox.  The difference is that the STOCK filter has 65 pleats 1.5&quot; deep and the K&amp;N only 29 pleats each 0.75&quot; deep.<br />
+Now, remember this ratio: &quot; 5.25:1&quot;.  It's the ratio of the AREA of STOCK to K&amp;N.  It's very important and will come into play later.<br />
+<br />
+The STOCK filter efficiency started at 93.4% at 0 loading and increased to 99.2% efficiency as the loading increased to a max tested of 38.8 gm/sq ft of dust.<br />
+<br />
+<br />
+The K&amp;N filter efficiency started at 85.2% at 0 loading and increased to 98.1% at the max tested loading of 41.38 gm/sq ft.<br />
+<br />
+Now, I hear you. &quot;Jim, that's only a FEW PERCENT&quot;.  But is it?<br />
+<br />
+Let's look.  If we had 100 grams of dust on a new BMW filter we would let through a total of 6.6 grams of dust in.  If we used the new K&amp;N filter we get 14.8 grams of dust.  That's 224% (TWO HUNDRED TWENTY FOUR PERCENT!!) more dust ingested initially, stock vs. &quot;free flow&quot; and this ratio is pretty much held.  Somewhere between 200-300% more dirt gets &quot;ingested&quot; anywhere across loading equivalence. The more INTERESTING thing is when you look at what happens to the DP or Differential Pressure at a constant airflow as you dirty both filters equally with time.<br />
+<br />
+The test used a rate of 75gr of dust per 20 min.  Here's where the AREA difference comes MAJORLY into play.  See, even though the BMW filter flows a bit less at the SAME loading, it also LOADS UP 5.25 times SLOWER due to it's LARGER effective area.  So what happens is that the K&amp;N initially flows better, but as the dirt continues coming in, the K&amp;N eventually flows WORSE while still letting MORE dirt in.<br />
+<br />
+Now, does any of this additional dirt cause problems?  I dunno. I suppose we could have a few people do some independent oil analyses on different motors using both K&amp;Ns and Stock filters.  Get enough of them, and you'd have a good statistical basis.  For me though, it's simple: More DIRT = BAD.<br />
+<br />
+The additional short-term airflow might make sense on a track car.  IMHO, it doesn't for the street.<br />
+<br />
+-- Jim Conforti<br />
+<br />
+<strong>K&amp;N Response: </strong><br />
+<br />
+It is incorrect. The difference between 99.2% and 98.1% (his results) is 1.1% not 224% as he states!!! (bmwE34.net: who didn't go to school, Jim was measuring the amount of dust that goes inside the engine). Furthermore, does he realize that 96% meets OEM standards? K&amp;N has been around for over 30 years and we sell over 2,000,000 units a year. If there were any sort of problem, one would think we would know by now and so would everyone else. One Internet &quot;expert's&quot; opinion is not reason for concern and should be taken loosely at best.<br />
+<br />
+That information is 100% untrue. Don't believe all you read on the Net. Most is opinions not based on any sort of factual evidence. Our filters are tested by an outside, independent laboratory. They have been proven to stop at least 99% of particles on a SAE dust test. This test uses particles as low as the 0 - 5 micron range and goes up to 20 microns.<br />
+For comparison, a paper filter also stops 99% on the same test and the OEM minimum standard is 96%. Foam is generally the worst media with a typical efficiency rating of 75 - 85%. To get higher ratings, the foam must be more dense and therefore way more restrictive. The &quot;tack&quot; characteristic of a K&amp;N allows for increase filtration without loss of flow as well. The testing procedure used is SAE J-726 using ISO Test Dust.<br />
+This test is the standard of the air filter industry. The test procedure consists of flowing air through the filter at a constant rate (airflow rate is determined by the application) while feeding test dust into the air stream at a rate of 1 gram per cubic meter of air.<br />
+As the filter loads with dust the pressure drop across the<br />
+filter is increased to maintain the prescribed airflow rate. The test is continued until the pressure drop increases 10&quot; H2O above the initial restriction of the clean element (in this case .78&quot; to 10.78&quot; H2O). At this point the test is terminated. The dirty filter element is then weighed. This weight is compared to the clean element weight to determine the total Dust<br />
+Capacity. The amount of dust retained by the filter is divided by the total amount of dust fed during the test to determine the Cumulative Efficiency.<br />
+<br />
+The K&amp;N filter achieved the following results:<br />
+- Dust Capacity: 305grams<br />
+- K&amp;N Cumulative Efficiency: 99.05 %<br />
+<br />
+Holding the filter to the light is useless, pin holes are normal.<br />
+That is what makes a K&amp;N filter. There are actually hundreds of microscopic fibers that cross these holes and when treated with oil, capture and hold the very fine particles. On the same hand, they allow the filter to flow more air than paper or foam. The filter is 4 ply cotton gauze unlike some competitors synthetic material filters. The synthetics do not<br />
+have the very small fibers that natural cotton does. Also, the oil can be pulled off of a foam filter contaminating electronic sensors. It will absorb into cotton and stay in the media. In fact, Honda and Toyota only recommend K&amp;N filters when using aftermarket high flow filters as K&amp;N is the only brand of filter the oil does NOT come off of. They will not cover a failed sensor if foam filters were used.<br />
+We got started over 30 years ago making filters for motorcycles and off road racers. The filters did so well that these guys wanted them for their cars and trucks. We started making filters for these applications and here we are today. If they did not work, we would not still be here and growing every year.<br />
+We now make filters for Chrysler/Mopar, Ford Motorsports, Edelbrock, Rotax Engines, and Harley Davidson. We come as original equipment on the 2000 Ford Mustang Cobra-R. We even made filters for the Apache helicopters used in Desert Storm because of maintenance problems with the original paper design. If they work in these conditions they will work for you.<br />
+<br />
+Rick from knfilters.com (Information emailed by Martin)<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+Clean any dust or debris out of the air box with a damp cloth.<br />
+When installing an air filter, check all gaskets, clamps and seams for damage and/or deterioration. Check the filter's sealing surface. Do not install a filter if the seal shows signs of damage or deterioration. Check for cracks in the air box, particularly at the seams and around the corners. Such defects could cause air leakage around the filter. Also, check to insure the filter is sealing properly in the air box.<br />
+<br />
+<h3 class="showhide_heading" id="Cleaning_instructions">Cleaning instructions</h3>
+I run the K&amp;N filter and I am ok with it. I did noticed a cleaner acceleration. My engine had 205 000km.<br />
+This page is for information only, do what you think is best for your car and your needs.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Air+filter">http://www.bmwe34.net/Wiki/tiki-index.php?page=Air+filter</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325420687E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

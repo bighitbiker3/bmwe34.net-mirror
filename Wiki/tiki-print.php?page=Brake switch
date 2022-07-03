@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Brake switch 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,36 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Brake+switch">Brake switch</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="BRAKE_AND_CLUTCH_SWITCHES">BRAKE AND CLUTCH SWITCHES</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Electrical/Data/brake_switch.jpg" border="0"  /></td></tr><tr><td class="mini">E34 clutch switch (white) - brake switch (black)</td></tr></table></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >&lt;$40</td></tr></table><br />
+<br />
+On the BMW E34 the clutch and brake light switches are located under the dash, above the pedals. RHD car have the switch on the opposite side-passenger side (left hand side). the switch is not located on the brake pedal.<br />
 <br />
 <h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+• Erratic or no cruise control for clutch switch.<br />
+• Erratic or no cruise control, erratic or no functioning of brake lights for brake light switch.<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> Screwdrivers
+</li><li> Pliers
+</li></ul>
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<ol><li>You need to remove the screws that hold the plastic panel on underneath the steering column (I think there are about 4 of them). Get a good flashlight a screwdriver and good pair of pliers. The brake light switch is under the top of the brake pedal arm, under the dash.
+</li><li>Examine the switch that you got from the dealer so you know how it works. The red tab, when pressed down, locks it into place. So, the last step before buttoning everything down is to press the red tab down to lock the switch in place. The best way to get the old switch out is to grab your pair of pliers and break off the red tab or the entire white button. Then it is easy to pull out once you have the wiring harness disconnected.
+</li><li>To make things easier, I would park the car on a lever surface so you can have the car in the on position. In order to get the old switch out, you need to have the brake pedal depressed as far as possible. If the car is off, the brake pedal stiffens up and makes removal of the switch rather difficult. The switch is engaged when the pedal is released, so the pedal needs to be depressed to release the switch.
+</li><li>Pop in the new switch, connect wiring harness then re-install panel under the steering column.
+</li></ol>
 <br />
-Thanks to Brandon J.<br />
+<em>Thanks to Karl Bergmann, Gary M &amp; Ken</em><br />
+<br />
+<br />
 
 
 
@@ -150,7 +158,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Brake+switch">http://www.bmwe34.net/Wiki/tiki-index.php?page=Brake+switch</a>
 
   </p> 
 
@@ -170,7 +178,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.32542159E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

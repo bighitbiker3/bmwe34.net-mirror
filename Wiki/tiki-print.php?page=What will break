@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		What will break 
 				: BMW E34 Website  
 			</title>
 
@@ -114,30 +114,49 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=What+will+break">What will break</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="WHAT_WILL_BREAK_ON_YOUR_BMW">WHAT WILL BREAK ON YOUR BMW</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+The Bmw E34 is a strong car with bulletproof engines (except the nikasil V8), but around 70-120k miles, you will need to have a full bank account or good tools and understanding wife/husband.<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+This is what will or might happened from the most to the least probable, by the well known Bill R:<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+1. Self locking bolts on cam oil spray bar. Look for worn camshaft lobes from this.<br />
+2. Hood &amp; trunk gas lifts.<br />
+3. Front suspension: tie rod ends, ball Joints, possibly struts and bearings. Thrust arm bushings.<br />
+4. Sway bar links and bushings. Rear differential mount and rear subframe bushings.<br />
+5. Fan clutch on water pump.<br />
+6. Brake rotors, pads, sensors, timing belt and tensioner (M20), brake or clutch switch.<br />
+7. Exhaust components, usually muffler. O2 sensor.<br />
+8. Heater control valve, Fan speed control whether sword or resistor pack. A/C compressor.<br />
+9. Differential speed sensor.<br />
+10. Clutch, Driveshaft ujoints center bearing guibos.<br />
+11. Radiator and hoses. Thermostat.Water pump<br />
+12. Doors restraint (the metal bar that stops the door from opening too far) is attached to the very thin metal of the door frame and is starting to fatigue and crack.<br />
+13. Gauge cluster, usually capacitors repair for 5.00in parts or purchase 750.00 rebuilt unit.<br />
+14. Steering box, excessive play on center, sometimes just an adjustment.<br />
+15. Light control module (LKM) repair or replace.<br />
+16. Seat cables modified. Arm rest repair. Door panels above armrest coming unglued.Sunroof drains plugging and sunroof seals out of aligment.<br />
+17. Wheel bearings front and rear, usually front first. Sealed unit you must buy the entire hub. Cv boots on rear axles.<br />
+18. Oil canister (oil filter housing) valve is failing. This is BMW mistake. Canister needs to be changed (M30 engine only).<br />
+19. Fuel pump relay and main relay.<br />
+20. Glove box latch.<br />
+21. Excessive play in shifter handle on automatic. Adjustment.<br />
+22. Automatic transmission depending on maintenance.<br />
+23. Timing chain tensioner.<br />
+24. Fuel pump.<br />
+25. Occasionaly an oil pump. Not that common.<br />
+26. Occasionaly a headgasket. Common on M30 engine with the coolant that had not been changed every 2 years.<br />
+27. After 400k miles, you should change your engine :-)<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+Always bring the E34 you want to buy to a BMW dealer or an independent mechanic to have it checked, this could save you a lot of money.<br />
 <br />
-Thanks to Brandon J.<br />
+Thanks Bill R<br />
+<br />
 
 
 
@@ -150,7 +169,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=What+will+break">http://www.bmwe34.net/Wiki/tiki-index.php?page=What+will+break</a>
 
   </p> 
 
@@ -170,7 +189,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325423271E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

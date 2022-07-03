@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Brakes 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,29 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Brakes">Brakes</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="BRAKES">BRAKES</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Brakes/Data/brake_main_picture.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<ul><li><a title="Bleeding" href="tiki-index.php?page=Bleeding" class="wiki ">Bleeding</a>
+</li><li><a title="Pads" href="tiki-index.php?page=Pads" class="wiki ">Pads</a>
+</li><li><a title="Parking Brake" href="tiki-index.php?page=Parking+Brake" class="wiki ">Parking Brake</a>
+</li><li><a title="Rotors" href="tiki-index.php?page=Rotors" class="wiki ">Rotors</a>
+</li></ul>
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+Including rear brakes, all BMW models are equipped with fade-free high-performance disk brakes on the front wheels, which bear most of the load in braking. These are very generously dimensioned and are inner-vented on the BMW E34, E28 and E32<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+Fitted as standard on all BMW models, ABS prevents the wheels from locking when braking at the limit :<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+There is a speed sensor at each road wheel. The signals from the sensors are applied continuously to a central electronic unit. If the rotation speed of one wheel suddenly drops by an above-average amount, the electronics identify this as a risk of the wheel locking, and reduces hydraulic pressure in the corresponding brake line momentarily until the wheel rotates freely again.<br />
 <br />
-Thanks to Brandon J.<br />
+This control cycle can be repeated many times a second if necessary. The driver hears a signal and feels a pulsation at the brake pedal as a sign that the ABS is in use.<br />
+<br />
+<a class="wiki external"  href="http://www.garageboy.com/bmw/brakefaq.html" rel="external">All you want to know about brakes!</a><br />
 
 
 
@@ -150,7 +151,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Brakes">http://www.bmwe34.net/Wiki/tiki-index.php?page=Brakes</a>
 
   </p> 
 
@@ -170,7 +171,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325412927E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

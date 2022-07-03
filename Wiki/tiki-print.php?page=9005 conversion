@@ -1,0 +1,198 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		9005 conversion 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=9005+conversion">9005 conversion</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="Conversion">9005 Conversion</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/3bulb.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$30</td></tr></table><br />
+Ellipsoid headlights produce a yellowish pattern of light on the ground. We all agree that more light is needed. Even $400.00 for the HID upgrade is a lot of money. But some people found out that the 9005 bulbs can be modified to fit the Bmw E34.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/ellipsoid.jpg" border="0"  width="height=" /></div><br />
+<span style="text-decoration:underline;">This works only on ellipsoid.</span><br />
+<br />
+<strong>Why using a 9005 bulb:</strong> 9005 bulbs are 65W and are not capped at the end, 9006 bulbs are 55W and have a cap at the end.<br />
+You have to slightly modify the 9005 bulb to fit the 9006 socket. Tim experimented with the Sylvania Cool Blue 65W 9005 ($15 ea) and was really happy with the bright light.<br />
+Light increase is from the increase in lumens from the 9005 bulb. A 9005 bulb has 70% more lumens than the 9006 (1700 lumens vs 1000 lumens). HID has 3200 lumens.<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<br />
+    * File or chisel tools.<br />
+    * Sharp knife, blade, soldering iron or Dremel like tool<br />
+    * 2 x 9005 bulbs.<br />
+    * Protective glasses (you don't want to lose an eye) and gloves<br />
+<br />
+1. Remove 3mm of plastic from the left of the center until you have 5-6mm of plastic left.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/3bulb2.jpg" border="0"  width="height=" /></div><br />
+<br />
+2. Remove the two guides inside the socket (I used a knife and a soldering iron). Install 2 or 3 O'rings from the old bulb in the new bulb to ensure a tight fit. ( didn't and it worked fine for me)<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/3bulb3.jpg" border="0"  width="height=" /></div><br />
+<br />
+3. Install the bulbs in your car and do a <a title="Headlight adjustment" href="tiki-index.php?page=Headlight+adjustment" class="wiki ">Headlight adjustment</a> if you have not already.<br />
+<br />
+<strong>Still weak lighting?</strong><br />
+<br />
+There has been comments on the low intensity of the e34 ellipsoid low beams which also applied to my car - with dark and wet weather (I live in Northern Europe - Estonia), there seemed to be no lights at all. I decided to disassemble the headlight (thanks for the info how to remove the grill:-) ). After the procedure, I had the access to clean the mirror layer and the ellipsoid lens, which at the first sight seemed to be OK. Just thin layer of dust on both sides of the ellipsoid lens which I carefully cleaned. For my surprise, after the assembly, the headlight intensity was A LOT better. So, this thin layer of dust on lens made a great difference ( i guess there is some kind of optical explanation).<br />
+This story applies to euro ellipsoids but I hope it does also help someone on the other side of the Atlantic too. (Thanks Laur Mägi)<br />
+<br />
+<em>Note from slocar:</em><br />
+I have managed to fit the 9005s without cutting the tabs; so try that before you start cutting ... just don't push too hard. If it wont go, then cut, don't force it.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=9005+conversion">http://www.bmwe34.net/Wiki/tiki-index.php?page=9005+conversion</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325420094E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

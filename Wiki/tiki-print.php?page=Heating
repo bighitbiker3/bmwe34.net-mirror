@@ -1,0 +1,192 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Heating 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Heating">Heating</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_HEATING_PROBLEM_">BMW HEATING PROBLEM?</h2>
+<br />
+A major problem with the Bmw E34 and BMW E32 is the heating valves.<br />
+<br />
+<h3 class="showhide_heading" id="How_I_think_the_Heating_System_works">How I think the Heating System works</h3>
+<span style="color:#FF0000; background:">Please be warned that I don't know exactly how this system works but as there is no other information available I would like to provide my best opinion as it may help others troubleshoot the system. There is some doubt in my mind as to whether Bentley's electrical diagrams document the standard system , or possibly an optional full climate control system. The following applies to the standard system which automatically regulates heat only.</span><br />
+Refer to Bentley if you have one, pages 131-EWD to 133-EWD.<br />
+<br />
+<h2 class="showhide_heading" id="Components">Components</h2>
+<br />
+<h3 class="showhide_heading" id="The_E34_non_climate_control_heater_system_consists_of_these_parts:">The E34 (non-climate control) heater system consists of these parts:</h3>
+a)  Solenoid valves and auxiliary water pump at the left-rear of the engine bay.<br />
+Referenced respectively on EWD-131 at the upper-right, and EWD-133 at the lower-right.  See my &quot;Brake Fluid&quot; procedure for a photo.<br />
+b)  Heater cores (little radiators) with temperature sensors (installed behind the dashboard) one each for the left and right sides of the cabin.  Referenced on EWD-131 at the lower-right.<br />
+c)  The HVAC blower and speed control sub-system, referenced on EWD-132 at the top.<br />
+d)  Control Panel, see the bottom of EWD-131 and 132.<br />
+e)  Two stepper motors controlling fresh air and recirculation flaps, see the bottom of EWD-131 and 132.  There may be more if the Bentley diagram is in error.<br />
+f)  Integrated Climate Regulation Control Module, referenced on EWD-131 and 133.<br />
+<br />
+<h3 class="showhide_heading" id="Mechanical">Mechanical</h3>
+The engine coolant flow is typically minimal during the warm-up phase, flowing just enough to ensure the thermostat is always wetted with freshly heated coolant.  To provide rapid cabin heating on startup, coolant for the heater cores is drawn from the cylinder head as it is the first area to get hot.  As there is very little pressure drop between the supply and return points at idle, an auxillary electric pump provides additional pressure to ensure adequate coolant flow through the cores.The two electric solenoid valves control flow to the left and right cores.  The valve are either fully &quot;on&quot; or fully &quot;off&quot; and are therefore operated in PWM (pulse width modulation) mode, where they are switched on and off at some fixed frequency, during which the &quot;on&quot; time is set between 0 and 100% of the total cycle time to provide the desired average flow.  (Fuel injectors work in a similar way)  They should click audibly and continuously during operation.  It has been brought to my attention that the valves are open when de-energized therefore the duty cycle actually would be the &quot;off&quot; duration. Also when the heater controls are &quot;off&quot; there should be a continuous 12V present at the coils. If you disconnect the coil(s) you should get full coolant flow through the cores.The &quot;squirrel cage&quot; HVAC system fan has four speeds.  The method of providing a voltage (or power) drop to obtain the lower speeds is typically a set of resistors placed in the air flow path for cooling.  Bentley shows this at the top of EWD-132 but I am unsure if this is actually correct for the later E34's.  Not having verified this myself, I was under the impression that the later cars used a more advanced and costly &quot;sword&quot; or &quot;final stage unit&quot; consisting of various transistors and resistors.  Bentley show this design on page EWD-122 for the earlier E34's.  I would appreciate an email from someone who knows which system applies to the '94-95 530i.  Neither system is noted for reliability, however.<br />
+<br />
+<h3 class="showhide_heading" id="Control_Panel">Control Panel</h3>
+The left and right knobs on the panel appear to be calibrated in degrees F (US spec cars.)  These are actually potentiometers (variable resistors,) not mechanical valve actuators as in most cars with manual controls.Aside from the obvious fan speed control and A/C buttons, there is a small grill opening.  A continous sample of cabin air is drawn in through this grill past a temperature sensor.Note that the driver's side temperature control has a detent at both ends of travel.   The manual explains that the detents override automatic temperature control in case of system failure.  This should be your first clue as to their confidence in the design.<br />
+<br />
+<h3 class="showhide_heading" id="quot_Inner_Loop_quot_Temperature_Regulation">&quot;Inner Loop&quot; Temperature Regulation</h3>
+The first electronic control loop to learn (speculate?) about is the temperature control of the heater cores.  As I mentioned, each has a temperature sensor.   Based on some &quot;demand&quot; temperatures (to be defined later, let's say for now &quot;T-left&quot; and &quot;T-right&quot;) the control computer will vary the duty cycle of the pulses supplied to each solenoid valve with the goal of getting the cores to reach those demand temperatures as fast as possible and hold them there.  With a warm engine I would guess that they would reach temperature within one minute and hold within +/- 2 degrees.This inner loop is important to filter out fast moving disturbances which might affect coolant temperature and pressure available to the cores.  Examples are engine operating speed and temperature.  In control system parlance, it is a &quot;PID&quot; loop (proportional-integal-derivative) which is tuned to compensate for the dynamics expected in the application.The inner loop provides a temperature-regulated &quot;hot plate&quot; for the outer loop to work with as it determines the best way to provide the temperature the driver and passenger have requested on the controls.<br />
+<br />
+<h3 class="showhide_heading" id="quot_Outer_Loop_quot_Temperature_Regulation">&quot;Outer Loop&quot; Temperature Regulation</h3>
+The outer loop has no knowledge of the inner loop.  As far as it knows it has a pair of radiators that provide any two temperatures it wishes, instantly on demand.  The outer loop reads the heater controls and the cabin temperature sensor and understands that its goal is to make them match and stay matched.  The outer loop also regulates much slower than the inner loop.If, for example, you think of the cores being at 72º F, what would the cabin temperature be?  We'll not likely 72º F, that's for sure!  There are many things that will prevent that from happening, for one outside cold air entering the cabin via a cold-air vent or an open window.  Heat losses via conduction through the body, the number of people in the car, to say nothing of the fact that air flowing across the radiator will never actually reach the radiator's peak temperature.  (Heat flow can only ocurr across a temperature difference)In order to do its job the outer loop needs to predict the additional temperature needed at the radiators to bring the cabin to the desired temperature.   Note that it no longer cares about left and right.  There is only one cabin temperature sensor - once it understands the delta-T (difference) required, it applies equally to both sides.  Keep in mind that the influences we talked about are also mostly non-biased per side, therefore a single correction is sufficient.So, with information from the outside and inside (cabin) temperature sensors, the fan speed setting, and possibly some vent settings, the outer loop determines the inner loop demand tempertures T-left and T-right by applying a single correction temperature to the left and right control knob settings.<br />
+<br />
+<h3 class="showhide_heading" id="Conclusion">Conclusion</h3>
+What is the net result of all this?  We'll first of all the system doesn't &quot;look&quot; like the regulated heater control that it is.  In fact it looks just like the heater controls on the 70's and 80's Mercedes that were just simple mechanical coolant valve knobs, also one for each side.  Without the looks of climate control system, people expect to have to play with the knobs continuously to be comfortable.The only feature that prevents it from being a full &quot;climate control system&quot; is that it doesn't operate the A/C.The fact is that most people are so accustomed to regulating their own heater controls that they would be unlikely to have the patience to allow the automatic system to do its job.  Sadly, the lower reliability of such a complicated system doesn't really justify the results.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Heating">http://www.bmwe34.net/Wiki/tiki-index.php?page=Heating</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.3254241E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

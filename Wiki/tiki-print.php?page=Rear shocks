@@ -1,0 +1,207 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Rear shocks 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Rear+shocks">Rear shocks</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="REAR_SHOCKS_REPLACEMENT">REAR SHOCKS REPLACEMENT</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Suspension/Data/Rear_shock.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$200 (3 hours)</td></tr></table><br />
+<em>When I saw my Bmw 535i shocks like that and I noticed that my car leaned a lot in high cornering driving, I knew that it was time for a new set of rear bilsteins. </em><br />
+<br />
+<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
+<ul><li> Bad handling.
+</li><li> Back of the car lower in one side.
+</li></ul>
+<br />
+<h3 class="showhide_heading" id="Procedure_525i_Touring_procedure_from_David_A._Odom_">Procedure ( <a class="wiki"  href="../E34main/Maintenance/Suspension/Data/1995%20BMW%20525iT-Rear%20Strut.pdf" rel=""> 525i Touring procedure </a>from David A. Odom)</h3>
+<ul><li> 22mm and 13 mm sockets.
+</li><li> Spring compressor (can be loaned for free from Pep Boys).
+</li><li> New rear shock mounts ($23.00 each) Don't buy MEYLE, specify BOGE
+</li><li> Lot's of WD 40.
+</li><li> Ratchet, extensions and u-joints.
+</li><li> Anti seize compound.
+</li></ul>
+<br />
+1. Lift the rear and support it on jacks.<br />
+2. Spray the 22mm bolt with lot's and I say lot's of WD40.<br />
+3. Remove the rear seat cushion, headrests, headrest plastic cover (attached to the backrest, you have to turn the 2 plastic screws 1/4 of a turn with a big flat screw driver or a coin) and backrest.<br />
+4. Remove the 2 strut upper mounting covers and the 3 x 13mm nuts with a ratchet, extension and u-joint.<br />
+5. Beneath the car, remove the 22 mm bolt. Now the fun begins.<br />
+6. The bottom of the E34 rear shock has a tube that goes in the trailing arm. You can imagine how rusty this tube is. The trick is to spray a lot of WD40 in the tube (where the screw was) and all around it. Now find a long round and strong tube (I used the end of the E34 wheel wrench) and insert it where the screw was located. Now push forward on the bottom of the shock while at the same time jiggling the shock absorber right and left with the help of the long tube (or wrench).<br />
+<strong>From Brando J.: </strong>To remove the rear shocks you can also buy a set of pry-bars (of different lengths; many auto stores have them) and simply wedge the tip between the bottom of the shock and the trailing arm. Give a good push against the shock and the shock will slide (or pop) right out.<br />
+Worse case, if everything is siezed use a big hammer and a chisel, I also used a pickle fork and it worked pretty well.<br />
+<br />
+<h3 class="showhide_heading" id="From_John_C._in_Ireland:">From John C. in Ireland:</h3>
+I have an easier and better method of rear shock removal. One you have the large 22mm bolt out of the bottom attachment, measure and cut a length of 10mm mild steel rod to go in the hole, and rest approx three millimetres in from the mouth of the hole. Use the end of this filler rod to seat the centre of a small three-legged gear puller, and arrange the puller's legs around the bottom ring of the shock. It is then easy to tighten up the puller, and wind the shock out of the housing, no damage, no violence, no heat, no acetylene. Having tried all those things, I can vouch for the gear puller!<br />
+<br />
+7. After a while you will see the rear shock coming out. Clean the area where the tube was and put some anti-seize grease there.<br />
+8. Clean the spring with a metal brush, then remove the old shock with the spring compressor. Check the installation notice of your new shock. Don't forget to use new rear shock mounts.<br />
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Suspension/Data/align.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">One threaded pin (1) should ligned up with the flat surface (2) and the opposite side of (3)</td></tr></table></div><br />
+<br />
+9. Installation is the reverse of removal. (Strut assembly to trailing arm 22 bolt: 127 Nm - 94ft-lb)<br />
+<br />
+Just replaced the rear shocks on my E34 and wanted to pass on a tip. The refurbished unit measured 23&quot; from bottom shock bushing to the top mount surface, and the corresponding distance was 19&quot; on the car. At first I couldn't work out how to lower the trailing arm to get the extra distance- it just wouldn't budge and there was no way the shock unit was going to fit. Then I realised why- the handbrake was on! I released the handbrake and this allowed the trailing arm to drop another few inches. I undid the link to the rear stabiliser bar and this gave a couple more inches to play with. Job done. Thanks to Phillips V.<br />
+<br />
+10. Enjoy a wonderful ride. I sure did...<br />
+<br />
+<strong>Thanks to Oleg, Brando J., JohnC.</strong><br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Rear+shocks">http://www.bmwe34.net/Wiki/tiki-index.php?page=Rear+shocks</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325425356E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

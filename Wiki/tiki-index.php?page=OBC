@@ -1,0 +1,506 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+	OBC : BMW E34 Website 
+		</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page">
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="#tiki-center">Jump to Content</a></li>
+		</ul>
+
+
+
+
+
+	<div id="fixedwidth"> 
+		<div id="main">
+			<div class="clearfix" id="header">
+		
+				<div class="clearfix" id="siteheader">
+		
+
+
+
+
+<div id="header-top">
+
+<div id="login_search"><div class="wrapper"><div id="login_language"> | language</div></div></div>
+
+	
+		
+			<div class="clearfix" id="sioptions">
+																		<div id="sitelogo" class="floatright">
+					<a href="./" title="BMW E34 Website"><img src="styles/planetfall/header_bmw.jpg" alt="BMW E34 Website" /></a>				</div>
+					</div>
+	
+
+	
+
+	
+
+
+<!--[if IE]><br style="clear:both; height: 0" /><![endif]-->
+</div>
+
+<div class="clearfix" id="tiki-top">
+
+			
+			<ul id="cssmenu0" class="cssmenu_horiz menu43"><li class="option171 menuSection menuSection0 menuLevel0 selected"><a href="tiki-index.php"><span class="menuText">Home</span></a><ul><li class="option175 menuOption menuLevel1"><a href="tiki-index.php?page=How+to+contribute"><span class="menuText">How can I help</span></a></li><li class="option259 menuOption menuLevel1"><a href="http://www.bimmernut.com/forum/"><span class="menuText">E34 Forum</span></a></li></ul></li><li class="option172 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Maintenance"><span class="menuText">Maintenance</span></a><ul><li class="option176 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=AC+system"><span class="menuText">A/C system</span></a><ul><li class="option274 menuOption menuLevel2"><a href="AC+upgrade"><span class="menuText">AC upgrade</span></a></li><li class="option179 menuOption menuLevel2"><a href="Evaporator+exp+valve"><span class="menuText">Evaporator/exp valve</span></a></li><li class="option180 menuOption menuLevel2"><a href="Receiver+drier"><span class="menuText">Receiver drier</span></a></li><li class="option178 menuOption menuLevel2"><a href="AC+compressor"><span class="menuText">A/C compressor</span></a></li></ul></li><li class="option177 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Body"><span class="menuText">Body</span></a><ul><li class="option181 menuOption menuLevel2"><a href=""><span class="menuText">Door trims</span></a></li><li class="option182 menuOption menuLevel2"><a href=""><span class="menuText">Door removal</span></a></li><li class="option183 menuOption menuLevel2"><a href=""><span class="menuText">Grill removal</span></a></li><li class="option184 menuOption menuLevel2"><a href=""><span class="menuText">Sunroof</span></a></li><li class="option185 menuOption menuLevel2"><a href=""><span class="menuText">Window tracks</span></a></li></ul></li><li class="option186 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Brakes"><span class="menuText">Brakes</span></a></li><li class="option187 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=E34+Touring"><span class="menuText">E34 Touring</span></a></li><li class="option189 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Electrical"><span class="menuText">Electrical</span></a></li><li class="option188 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Engine"><span class="menuText">Engine</span></a></li><li class="option190 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=General+maintenance"><span class="menuText">General maintenance</span></a></li><li class="option191 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Interior"><span class="menuText">Interior</span></a></li><li class="option192 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Steering"><span class="menuText">Steering</span></a></li><li class="option193 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Suspension"><span class="menuText">Suspension</span></a></li><li class="option194 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Transmission"><span class="menuText">Transmission</span></a></li></ul></li><li class="option174 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Racing"><span class="menuText">Racing</span></a></li><li class="option195 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Troubleshooting"><span class="menuText">Troubleshooting</span></a><ul><li class="option196 menuOption menuLevel1"><a href=""><span class="menuText">535i hot start</span></a></li><li class="option197 menuOption menuLevel1"><a href=""><span class="menuText">Catalytic conv.</span></a></li><li class="option198 menuOption menuLevel1"><a href=""><span class="menuText">Engine codes</span></a></li><li class="option199 menuOption menuLevel1"><a href=""><span class="menuText">Engine diagnostic</span></a></li><li class="option200 menuOption menuLevel1"><a href=""><span class="menuText">Front noises</span></a></li><li class="option201 menuOption menuLevel1"><a href=""><span class="menuText">Headgasket</span></a></li><li class="option202 menuOption menuLevel1"><a href=""><span class="menuText">Hunting idle</span></a></li><li class="option203 menuOption menuLevel1"><a href=""><span class="menuText">Locked doors</span></a></li><li class="option204 menuOption menuLevel1"><a href=""><span class="menuText">Oil pressure</span></a></li><li class="option205 menuOption menuLevel1"><a href=""><span class="menuText">Overheating</span></a></li><li class="option206 menuOption menuLevel1"><a href=""><span class="menuText">Quick fixes</span></a></li><li class="option207 menuOption menuLevel1"><a href=""><span class="menuText">Steering play</span></a></li><li class="option208 menuOption menuLevel1"><a href=""><span class="menuText">Trans program</span></a></li><li class="option209 menuOption menuLevel1"><a href=""><span class="menuText">What will break</span></a></li></ul></li><li class="option173 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Upgrades"><span class="menuText">Upgrades</span></a></li></ul>
+
+	
+
+
+</div>
+
+				</div>
+			</div>
+			<div class="clearfix" id="middle">
+				<div class="clearfix nofullscreen" id="c1c2">
+					<div class="clearfix" id="wrapper">
+						<div id="col1" class=" marginright">
+
+	
+
+							<div id="tiki-center"  class="clearfix content">
+							 
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+		<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+			<div class="icons" style="float: left;">
+									<a title="Print" href="tiki-print.php?page=OBC"><img src="pics/icons/printer.png" alt="Print" width="16" height="16" border="0" title="Print" class="icon" /></a>
+	
+							</div><!-- END of icons -->
+
+	
+	
+			</div>
+		<br class="clear" style="clear: both" />
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=OBC">OBC</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="ON_BOARD_COMPUTER_RETROFIT">ON BOARD COMPUTER RETROFIT</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/OBC.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >3 hours</td></tr></table><br />
+<br />
+<div style="text-align: center;"><strong><span style="color:#FF0000; background:">Procedure courtesy of Damian Bannon</span></strong></div><br />
+<br />
+If your BMW E34 came from the factory with either an analogue clock or a digital clock/outside temperature combo it is possible to upgrade to the full On Board Computer (OBC). The clock units use the same connector as the OBC and all the wiring is already in place.<br />
+<br />
+Cars that had only an analogue clock do not have the outside temperature sensor mounted, so this function will not work, but all the other signals come from the ECU.<br />
+Cars that have the instrument cluster with no check control will most likely have no gong so the OBC will stay quiet about ice and speed limit warnings and give a visual warning only.<br />
+All other functions should work as expected - including the CODE start blocking!<br />
+<br />
+<h3 class="showhide_heading" id="Part_numbers:">Part numbers:</h3>
+The first step is to find an OBC unit - These can be got from the stealer (P/N 65 81 8 351 055) but are big $$$ so the best bet is to find a used one from a breaker's yard or similar. An OBC from any BMW E34 model will do - even a BMW E32 OBC will work but as the 7 series has a bigger petrol tank some calculations such as 'range' may be incorrect. Other parts you may want to get are the turn-signal switch which has the OBC remote control on the tip and the new radio/OBC holder. The OBC will work fine without installing the new turn-signal switch and will still blend its notifications into the check control display. The mounting frame (holds together the clock or OBC as well as the radio and heater control module) differs for OBC vs clock equipped cars as the slot for the OBC is deeper than that for the clock, the OBC is approx. double the depth of the clock and the connector is located higher than on the clock. It is possible to cut away the plastic at the back of where the clock sat to allow the OBC fit but the ideal way is to replace the mounting frame. The part numbers for the two frames are:<br />
+Holder radio/OBC 65 81 1 384 121<br />
+Holder radio/clock 65 81 1 384 141<br />
+<br />
+<h3 class="showhide_heading" id="Note_from_David_modified_by_Durham_Paul_L_UK_:">Note from David, modified by Durham, Paul L (UK):</h3>
+The e34's have 2 different types of OBC one for the BMW 518i,520i and a different type for the BMW 525i,530i,535i,540i.<br />
+There are two types of OBC but you can fit ANY OBC IV (without the coding plug socket) into a 518 or 520 with a little modification.<br />
+I successfully retro-fitted an OBC IV (with GONG and Temp Sensor) into my 1995 520SEi where the OBC DID NOT have the coding plug socket in it and it's fully operational.<br />
+All the OBC IV's out of higher spec cars eg.525, 535, etc (without coding plug socket's) are technically dumb on their own as they have no information about the car's engine type, etc.<br />
+This means you go to BMW (like i did) and buy a coding plug for £20 (UK).<br />
+BMW need to know Year, Model, Petrol or Deisel, Plastic or Metal Fuel Tank so that the coding plug has the correct calculation's for your engine, eg. MPG,etc.<br />
+You then take the coding plug apart so your left with a mini PCB. You then open your OBC and solder the mini PCB onto the back of your OBC. It's only 6 pins and is super easy to do.<br />
+<br />
+Your OBC will now know what your car is <strong>(NO PPPP ERROR)</strong> !<br />
+The info on how to do this is in this PDF File here : <a class="wiki"  href="http://gunnar525.de/schraubereien/bc4_umbau_codierstecker.pdf">http://gunnar525.de/schraubereien/bc4_umbau_codierstecker.pdf</a><br />
+It's in German but the pics are easy to follow.<br />
+Once you get past this stage you can then carry on with the retro-fit.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+Second step is to remove your old clock - To do this, remove the radio and the radio's mounting case and then reach inside the vacant radio slot at the side next to the clock, at the top you should feel a little lever (position marked by red dot on remove_clock.jpg) which you need to press (push it towards the engine) and the mechanism should make the clock move out towards you and you can then pull it out the rest of the way with your fingers.<br />
+The third step is to try the OBC to see if it works - The connector is clipped into the back of the mounting frame, unclip this and pull it out a bit (there should be an inch or two give in the wiring) and then plug it into the back of the OBC. Turn the ignition on and see if the OBC comes to life.<br />
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/OBCclock.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Clock removed</td></tr></table></div><br />
+<br />
+If the OBC doesn't come up the next step is to figure out why. The list of connections is given in the table below so start by checking that there is +12v at pins 6, 8, 9 &amp; 17. The most likely culprit is pin 17 as there will be no power to this if your car doesn't have the auxiliary horn relay installed and without power at pin 17 the OBC will play completely dead. If there is no power at pin 17 an easy solution is to cut the red-grey-yellow wire that goes to pin 17, cut it as far from the connector as possible to make life easier, and join this to the red-yellow (red with a yellow stripe, there's also a yellow wire with a red stripe!) wire that provides power to pin 9. You could join these via a 5 or 10 amp fuse if you prefer and it may be no harm to tape off the end of the red-grey-yellow wire coming from the car so it can't cause any problems.<br />
+<br />
+<h3 class="showhide_heading" id="Digital_clock_temperature_indicator">Digital clock/temperature indicator</h3>
+pin4: ground<br />
+pin5: blue/red/yellow, temp sensor<br />
+pin8: + from fuse F1<br />
+pin9: + from fuse F20<br />
+pin18: white/blue, chimes<br />
+pin19: white/red, chimes<br />
+pin22: grey/red, light switch<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="OBC">OBC</h3>
+pin1: violet/green/yellow, alarm system<br />
+pin10: black/green, starter<br />
+pin6: + from fuse F17<br />
+pin9: + from fuse F20 (red/yellow)<br />
+pin8: + from fuse F1<br />
+pin22: grey/red, light switch<br />
+pin25: yellow/red, turn signal switch<br />
+pin3: white/yellow, diagnostics<br />
+pin16: white/violet, diagnostics<br />
+pin14: white/grey, instrument cluster<br />
+pin7: black/white, instrument cluster<br />
+pin4: ground<br />
+pin5: blue/red/yellow, temp sensor<br />
+pin20: black/red/yellow, pre-ventilation<br />
+pin21: black/white, pre-ventilation<br />
+pin23: violet/white/yellow, alarm system<br />
+pin17: red/grey/yellow, alarm system<br />
+pin26: black/red/yellow, fuel tank level sensor<br />
+pin12: brown/violet, fuel tank level sensor<br />
+pin11: white/black, DME<br />
+pin24: black/violet, DME<br />
+pin19: white/red, chimes<br />
+pin18: white/blue, chimes<br />
+pin15: white/brown, radio<br />
+pin2: blue/brown/yellow, radio<br />
+<br />
+Once the OBC is working, the next step is make it fit properly - You can either replace the mounting frame with the one designed to hold the OBC or alternatively you can cut away the plastic at the back of the original mounting frame (This can even be done without removing the mounting frame if you are careful by using a suitable saw from the front) so that the OBC will slide in all the way until the front of it is flush with the console.<br />
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/OBCopen.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+Next, you need to set the country setting for language, miles/km, C/F and l/100Km / Km/l. - To do this you need to access the OBC test menu by simultaneously pressing the 1000 and 10 keys so that the display changes to &quot;TEST&quot;. With the 10 &amp; 1 keys enter 11 on the display and then press the S/R button. &quot;0 LAND&quot; should now be on the display and you can alter this by using the 1000 &amp; 100 keys and the S/R to save. The settings are from &quot;0 LAND&quot; to &quot;9 LAND&quot; and through trial and error you should be able to find the setting that is best for you. Also, some settings use US gallons while others use European gallons so take that into account.<br />
+<br />
+If the OBC appears to be reporting inaccurate fuel consumption figures it can be calibrated to give the correct values. - Fill the fuel tank to the maximum and reset the trip counter and one of the OBC's average fuel consumption monitors. Run the fuel tank nearly empty and fill the fuel tank again to the maximum. The amount of fuel it now takes to fill the tank is the amount used to cover the distance recorded on the trip meter so, from this, work out the actual fuel consumption of the car and then compare this to what the OBC reported as the average fuel consumption. If these two average fuel consumption figures are not exactly the same then you need to calibrate the OBC by entering a new correction factor.<br />
+The fuel consumption correction factor is a locked function of the OBC so before you can access it, you must first unlock the OBC - Access the OBC test menu by simultaneously pressing the 1000 and 10 keys so that the display changes to &quot;TEST&quot;. With the 10 &amp; 1 keys enter 19 on the display and then press the S/R button. Add the current day and month (as it is known to the OBC) and enter this value and then press the S/R button, the OBC should now be unlocked. To access the fuel consumption calibration factor you once more need to simultaneously press the 1000 and 10 keys so that the display changes to &quot;TEST&quot;. With the 10 &amp; 1 keys enter 20 (Be careful not to enter 21 as this will reset the OBC) on the display and then press the S/R button - you should now see something like 1000 CORR, this is your current correction factor. To calculate your new correction factor use the following:<br />
+<br />
+new_correction_factor = old_correction_factor * actual_mpg / obc_mpg<br />
+<br />
+Enter your new correction factor into the OBC using the 1000/100/10/1 keys and then press the S/R button. If you want to relock the OBC - enter function 19 again then press the C/F button to lock.<br />
+<br />
+Much of the information contained above came from internet posts by: Priit Varik, Mark M and Al and from <a class="wiki"  href="http://home.iae.nl/users/bts/obc.htm">http://home.iae.nl/users/bts/obc.htm</a><br />
+<br />
+<h3 class="showhide_heading" id="More_info_from_Mark_about_temperature_sensor:">More info from Mark about temperature sensor:</h3>
+I have a 1990 E34 525iA SE (UK spec) that was originally fitted with an analogue clock. Following your instructions I removed the clock and fitted a used OBC. This worked fine, but had the annoying problem of sounding the gong every time the ignition was switched on due to the external temperature sensor not being fitted.<br />
+<br />
+Well, after a while this just because too much, to after some investigation I found that the wiring harness for the temperature sensor was indeed fitted to the car. It was located behind the radiator in the same place where the horn is mounted, i.e. in the centre of the car, behind the grill in between the lights. The wiring harness was coiled up and clipped out of the way. Once I had released the clip, it was then just a simple case of plugging in my new temperature sensor to the harness and it worked first time. I did try to route the sensor somewhere away from the radiator so it would measure the<br />
+external temperature, not the radiator temperature !<br />
+<br />
+The only trick that the old girl had left was that it seems to take a few hours for the OBC to register the correct temperature. It crept slowly up from -39oC to the correct outside temperature. I'm assuming that there must be some kind of digital or analogue filter on the system that has a very large time constant. Anyway, once it had reached correct temperature it seems to operate correctly, agreeing with roadside temperature signs.<br />
+<br />
+<h3 class="showhide_heading" id="More_temperature_sensor_from_Mark_A.">More temperature sensor from Mark A.</h3>
+I finally got bored with the display telling me it was -34 outside, so I ordered the temp sensor from BMW main dealer for only 17 pounds UK.<br />
+<br />
+Took the front off the car &amp; spent hours searching for the magic wire to connect it up. Needless to say, it wasn't there. It would seem that mine (94 525 European spec) didn't have it fitted. The solution is to run a wire from one side of the sensor to earth (ground) &amp; the other one thru the car &amp; splice it in to pin 5. All now works ok.<br />
+Just thought this may be useful to anyone else doing the retrofit &amp; thinking they're going mad as the cant find the missing wire.<br />
+<br />
+<h3 class="showhide_heading" id="More_info_from_Andy:">More info from Andy:</h3>
+The OBC will chime every time you turn on the ignition and give you a -34 degrees warning if you don't have or fit a temperature sensor. I thought mine had a fault until I searched a few sites.<br />
+<br />
+<h3 class="showhide_heading" id="More_info_from_Martin_M."><span style="color:#FF0000; background:">More info from Martin M.</span></h3>
+The user should check the wiring loom into the back of the clock. If it has a 'bunch' of wires then your ok, if it contains only three wires (as is the case withe my E34) then it is not possible.<br />
+<br />
+<h3 class="showhide_heading" id="More_info_from_Tom_Bosman:">More info from Tom Bosman:</h3>
+Having just retrofitted an OBC to an 89 525i (thanks to your notes) I would like to pass on a little additional info re a problem I encountered.<br />
+<br />
+As part of the retrofit I also purchased an indicator stalk (turn signal) with switch. When I pulled the old one out and compared it with the new one there were a few differences (besides the extra wires for switch). The old switch had a relay attached to the 12 pin plug which strangely had no output. One of the wires of this relay was on the same pin as the yellow/red wire on the new switch which operates the dash display from OBC. After trying the switch as is and it not working I then wired it up the same as the old switch and then had a yellow/red wire floating free. After some further investigation I discovered another connector under the socket for indicator stalk connection which had a yellow/red. I traced this wire back to pin 25 of OBC which is the trigger for dash display. After connecting my spare yellow/red to this the dash display now worked. I also discovered that the relay with no output was merely connected to the flasher to make it audible. Without the relay the flashers worked perfectly but were silent. Hope this can be of help to some others who have trouble with indicator stalk switch.<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+  Created by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Sunday 14 of September, 2008 01:59:39 UTC by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>. 
+
+
+  </p> 
+
+
+
+
+
+							</div>						</div>
+					</div>
+
+					<hr class="hidden" />
+					</div>
+					<div class="clearfix" id="col3">
+					<h2 class="hidden">Sidebar</h2>
+					<div class="content">
+					
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxr1" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+	<div class="box box-ApplicationMenu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
+
+<div id="Application Menu" style="display:block;">
+
+
+
+<div class="option selected"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Home</span></a></div>
+
+
+
+
+
+<div class="separator">
+			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
+									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
+						</a>
+	 
+<a href="tiki-index.php" class="separator">
+<span class="menuText">Wiki</span>
+</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Wiki Home</span></a></div>
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu"><span class="menuText">List Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu"><span class="menuText">Sandbox</span></a></div>
+
+
+
+	</div>
+
+
+<script type='text/javascript'>
+      			status = '';
+				setfolderstate('menu42__200', 'd', '', status);
+	              </script>
+
+</div>
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+			<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				setsectionstate('mod-ApplicationMenur2','o', 'module.png');
+//--><!]]>
+			</script>
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+
+	<div class="box box-admin_menu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Admin Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-admin_menur5" style="display: block" class="clearfix box-data">
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+							</div>
+				</div>
+				<br style="clear:both" />
+			<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+			</div>
+	
+		</div>	</div> 
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325406123E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+
+	</body>
+</html>

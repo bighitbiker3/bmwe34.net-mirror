@@ -1,0 +1,205 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Differential seals 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Differential+seals">Differential seals</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="DIFFERENCIAL_SIDE_SEALS">DIFFERENCIAL SIDE SEALS</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Transmission/Data/seal1.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$30 2hours</td></tr></table><br />
+<br />
+<h3 class="showhide_heading" id="Syndromes">Syndromes</h3>
+If you start to see some oil drops on your driveway that means that your BMW E34 - E32 - E28 is leaking. You have to determine if the leak is coming from the engine, the transmission, the output flange or the differential seals.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li>8 mm hex socket and ratchet
+</li><li>10 mm allen key for the differential drain and fill screws
+</li><li>jackstands and oil drain pan
+</li><li>2 new snap rings and 3 flange oil seals
+</li><li>Oil seal puller, 2 bottles of Redline gear fluid and syringe.
+</li></ul>
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/seal3.jpg" border="0"  width="height=" /></div><br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/seal2.jpg" border="0"  width="height=" /></div><br />
+<br />
+1. Loosen the rear wheels bolts then place the rear of the car on jack stands. Clean the differential if there is a lot of dirt and oil around.<br />
+2. Grab your favorite oil pan and place it under the differential. Locate the drain plug and drain the differential oil.<br />
+3. Take a socket Allen key and remove all the bolts holding the half shaft. To do so, I place the car in 1st gear, loosen a bolt then remove the car from gear, turned the wheel, place the car in 1st gear again, loosen another bolt and so on...<br />
+4. once all the bolts are removed, place the half shaft out of the way and secure it with a piece of wire.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/seal4.jpg" border="0"  width="height=" /></div><br />
+<br />
+4. Pry the drive flange out with a big screw drive or a little pry bar. You have to use a piece of wood for leverage else you might damage the differential.<br />
+5. In the picture you can see the seal. To pry it out, you need a seal puller (cheap tool), don't even try with a screwdriver, there is a big chance that you won't be able to remove it...<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/seal6.jpg" border="0"  width="height=" /></div><br />
+<br />
+5. Once the seal is out, in the picture you can see the snap ring. This is a good thing to change while you are changing the seal. Use a small flat screwdriver and remove it.<br />
+6. Install the new snap ring in place.<br />
+<br />
+Snap rings failure will make the flange pop out on its own and you will loose a lot of differential fluid.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/seal5.jpg" border="0"  width="height=" /></div><br />
+<br />
+7. Lubricate the new seal with differential fluid and carefully install it in the differential. You can use a big socket and a small rubber hammer to make sure that the seal is in place. Be careful as you can VERY EASILY damage the seal... It is a good thing to buy an extra seal just in case.<br />
+8. Install the drive flange back in place until the snap ring engages.<br />
+9. The rest of the installation is reverse of removal. Don't forget to fill up the differential with fresh redline gear oil.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Transmission/Data/seal_puller.jpg" border="0"  width="height=" /></div><br />
+<br />
+Recheck everything, lower the car and enjoy.<br />
+<br />
+<strong>Thanks to Bill R.</strong><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Differential+seals">http://www.bmwe34.net/Wiki/tiki-index.php?page=Differential+seals</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325422369E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

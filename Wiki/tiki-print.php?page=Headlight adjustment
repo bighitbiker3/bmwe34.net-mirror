@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Headlight adjustment 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,52 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Headlight+adjustment">Headlight adjustment</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="HEADLIGHT_ADJUSTMENT">HEADLIGHT ADJUSTMENT</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><img alt="" src=".../E34main/Maintenance/Electrical/Data/LKM2.gif" border="0"  /></div><br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >NONE/FREE</td></tr></table><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+If you don't want everyone to flash their lights at you, after a <a title="9005 conversion" href="tiki-index.php?page=9005+conversion" class="wiki ">9005 conversion</a> for example, you need to aim the headlights of your Bmw E34. The adjustment is for north American lights.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+• You can see the inside of the car you are following.<br />
+• You cannot see further than... the end of your hood.<br />
 <br />
-Thanks to Brandon J.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<br />
+    * Phillips and flat screwdriver.<br />
+    * Dark area with a vertical wall and 25 feet (7.5m) of flat space in front of it.<br />
+    * Tape measure<br />
+<br />
+1. Check that you have the right tire pressure and a full tank of gas. You are suppose to put the normal load in the car (driver+ regular passengers) but this is not a problem without.<br />
+2. Place your E34 lights 25 feet (7.5m) perpendicular to the wall.<br />
+<br />
+<h3 class="showhide_heading" id="Marking_the_wall:">Marking the wall:</h3>
+3. You can mark the wall with chalk if you want. I just measured back and forth.<br />
+<strong>Center</strong> is the horizontal line at the same height as the headlights.<br />
+<strong>7&quot; below center</strong> is the line 7&quot; (17.8cm) below the center line (Duh!).<br />
+<strong>LB.L / LB.R</strong> are the vertical lines through the center of the low beams.<br />
+<strong>HB.L / HB.R</strong> are the vertical lines through the center of the high beams.<br />
+<br />
+<h3 class="showhide_heading" id="Adjustment_screws_location:">Adjustment screws location:</h3>
+- The screw to move the light up and down is located at the front of the grill.<br />
+- The screw to move the light left and right is located in the engine compartment next to the fender, it is a long piece of white plastic.<br />
+<br />
+<span class="img"><img alt="" src="../E34main/Maintenance/Electrical/Data/headlight_adjust2_picture.gif" border="0"  /></span><br />
+<h3 class="showhide_heading" id="Low_Beams:">Low Beams:</h3>
+3. Turn on the low beams.<br />
+4. Turn the adjusting screws to move the cut-off spot to the intersection of 7&quot; <strong>below center</strong> and <strong>LB.L or LB.R.</strong><br />
+<br />
+<h3 class="showhide_heading" id="High_Beams:">High Beams:</h3>
+5. Turn on the high beams.<br />
+6. Turn the adjusting screws to move the center of the high intensity light zone on the intersection of lines <strong>Center</strong> and <strong>HB.L / HB.R.</strong><br />
 
 
 
@@ -150,7 +174,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Headlight+adjustment">http://www.bmwe34.net/Wiki/tiki-index.php?page=Headlight+adjustment</a>
 
   </p> 
 
@@ -170,7 +194,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325421732E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

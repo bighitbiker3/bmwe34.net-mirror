@@ -1,0 +1,477 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+	Park distance control install : BMW E34 Website 
+		</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page">
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="#tiki-center">Jump to Content</a></li>
+		</ul>
+
+
+
+
+
+	<div id="fixedwidth"> 
+		<div id="main">
+			<div class="clearfix" id="header">
+		
+				<div class="clearfix" id="siteheader">
+		
+
+
+
+
+<div id="header-top">
+
+<div id="login_search"><div class="wrapper"><div id="login_language"> | language</div></div></div>
+
+	
+		
+			<div class="clearfix" id="sioptions">
+																		<div id="sitelogo" class="floatright">
+					<a href="./" title="BMW E34 Website"><img src="styles/planetfall/header_bmw.jpg" alt="BMW E34 Website" /></a>				</div>
+					</div>
+	
+
+	
+
+	
+
+
+<!--[if IE]><br style="clear:both; height: 0" /><![endif]-->
+</div>
+
+<div class="clearfix" id="tiki-top">
+
+			
+			<ul id="cssmenu0" class="cssmenu_horiz menu43"><li class="option171 menuSection menuSection0 menuLevel0 selected"><a href="tiki-index.php"><span class="menuText">Home</span></a><ul><li class="option175 menuOption menuLevel1"><a href="tiki-index.php?page=How+to+contribute"><span class="menuText">How can I help</span></a></li><li class="option259 menuOption menuLevel1"><a href="http://www.bimmernut.com/forum/"><span class="menuText">E34 Forum</span></a></li></ul></li><li class="option172 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Maintenance"><span class="menuText">Maintenance</span></a><ul><li class="option176 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=AC+system"><span class="menuText">A/C system</span></a><ul><li class="option274 menuOption menuLevel2"><a href="AC+upgrade"><span class="menuText">AC upgrade</span></a></li><li class="option179 menuOption menuLevel2"><a href="Evaporator+exp+valve"><span class="menuText">Evaporator/exp valve</span></a></li><li class="option180 menuOption menuLevel2"><a href="Receiver+drier"><span class="menuText">Receiver drier</span></a></li><li class="option178 menuOption menuLevel2"><a href="AC+compressor"><span class="menuText">A/C compressor</span></a></li></ul></li><li class="option177 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Body"><span class="menuText">Body</span></a><ul><li class="option181 menuOption menuLevel2"><a href=""><span class="menuText">Door trims</span></a></li><li class="option182 menuOption menuLevel2"><a href=""><span class="menuText">Door removal</span></a></li><li class="option183 menuOption menuLevel2"><a href=""><span class="menuText">Grill removal</span></a></li><li class="option184 menuOption menuLevel2"><a href=""><span class="menuText">Sunroof</span></a></li><li class="option185 menuOption menuLevel2"><a href=""><span class="menuText">Window tracks</span></a></li></ul></li><li class="option186 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Brakes"><span class="menuText">Brakes</span></a></li><li class="option187 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=E34+Touring"><span class="menuText">E34 Touring</span></a></li><li class="option189 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Electrical"><span class="menuText">Electrical</span></a></li><li class="option188 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Engine"><span class="menuText">Engine</span></a></li><li class="option190 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=General+maintenance"><span class="menuText">General maintenance</span></a></li><li class="option191 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Interior"><span class="menuText">Interior</span></a></li><li class="option192 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Steering"><span class="menuText">Steering</span></a></li><li class="option193 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Suspension"><span class="menuText">Suspension</span></a></li><li class="option194 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Transmission"><span class="menuText">Transmission</span></a></li></ul></li><li class="option174 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Racing"><span class="menuText">Racing</span></a></li><li class="option195 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Troubleshooting"><span class="menuText">Troubleshooting</span></a><ul><li class="option196 menuOption menuLevel1"><a href=""><span class="menuText">535i hot start</span></a></li><li class="option197 menuOption menuLevel1"><a href=""><span class="menuText">Catalytic conv.</span></a></li><li class="option198 menuOption menuLevel1"><a href=""><span class="menuText">Engine codes</span></a></li><li class="option199 menuOption menuLevel1"><a href=""><span class="menuText">Engine diagnostic</span></a></li><li class="option200 menuOption menuLevel1"><a href=""><span class="menuText">Front noises</span></a></li><li class="option201 menuOption menuLevel1"><a href=""><span class="menuText">Headgasket</span></a></li><li class="option202 menuOption menuLevel1"><a href=""><span class="menuText">Hunting idle</span></a></li><li class="option203 menuOption menuLevel1"><a href=""><span class="menuText">Locked doors</span></a></li><li class="option204 menuOption menuLevel1"><a href=""><span class="menuText">Oil pressure</span></a></li><li class="option205 menuOption menuLevel1"><a href=""><span class="menuText">Overheating</span></a></li><li class="option206 menuOption menuLevel1"><a href=""><span class="menuText">Quick fixes</span></a></li><li class="option207 menuOption menuLevel1"><a href=""><span class="menuText">Steering play</span></a></li><li class="option208 menuOption menuLevel1"><a href=""><span class="menuText">Trans program</span></a></li><li class="option209 menuOption menuLevel1"><a href=""><span class="menuText">What will break</span></a></li></ul></li><li class="option173 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Upgrades"><span class="menuText">Upgrades</span></a></li></ul>
+
+	
+
+
+</div>
+
+				</div>
+			</div>
+			<div class="clearfix" id="middle">
+				<div class="clearfix nofullscreen" id="c1c2">
+					<div class="clearfix" id="wrapper">
+						<div id="col1" class=" marginright">
+
+	
+
+							<div id="tiki-center"  class="clearfix content">
+							 
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+		<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+			<div class="icons" style="float: left;">
+									<a title="Print" href="tiki-print.php?page=Park%20distance%20control%20install"><img src="pics/icons/printer.png" alt="Print" width="16" height="16" border="0" title="Print" class="icon" /></a>
+	
+							</div><!-- END of icons -->
+
+	
+	
+			</div>
+		<br class="clear" style="clear: both" />
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Park+distance+control+install">Park distance control install</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="PDC_INSTALL_ON_AN_E34_TOURING">PDC INSTALL ON AN E34 TOURING</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="img/wiki_up/5638_1.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34 Sedan &amp; Touring</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Modest (cheaper than crashing)</td></tr></table><br />
+<br />
+<h2 class="showhide_heading" id="INTRODUCTION">INTRODUCTION</h2>
+BMW offered Park Distance Control (PDC) as both a factory option and as a retrofit kit for the E34 in Europe.  To my knowledge, this was not a North American factory option.  The factory retrofit kit fits ALL years and versions of the E34.  The system equips the car with a four-sensor system in the rear bumper.<br />
+<br />
+I first had this as a factory option on an E46, I then engineered a retrofit on my (former) E30 325i touring – so you can say I’m quite sold on the practical benefits of PDC.<br />
+<br />
+<h3 class="showhide_heading" id="REQUIRED_PARTS">REQUIRED PARTS</h3>
+You will need:<br />
+<br />
+01 29 0 030 545 	BMW EBA CD<br />
+01 29 9 788 018	        E34 PDC installation instructions (Jan 1994)<br />
+01 29 9 415 412  	E34 PDC installation instructions (April 1998)<br />
+<br />
+<span class="img"><img alt="" src="img/wiki_up/5638_1.jpg" border="0"  /></span><br />
+<br />
+The BMW instructions are good, but the language may not be as pragmatic – so ‘Greg’s guide’ may be easier to follow.  I've done this on a real car<br />
+<br />
+BMW sells a complete E34 PDC retrofit kit, part number 66 20 9 415 410.  This will give you everything.  If you find a set-up on Ebay.de or similar, you may (naturally) need to add parts.<br />
+<br />
+I was lucky, and found a complete used set-up, including all the rear bumper trim (left, center &amp; right) for a VERY reasonable price.<br />
+<br />
+<h2 class="showhide_heading" id="TOOLS">TOOLS</h2>
+Required parts / tools:<br />
+<br />
+<ul><li> BMW PDC set-up (see above) &amp; factory instructions.
+</li><li> Electric drill
+</li><li> Drill bits (various for metal) and Hole saw for holes of 28 &amp; 50 mm.  Buy a hole saw that is made for METAL, you WILL need it.
+</li><li> Various straight &amp; Philips blade screwdrivers
+</li><li> 10, 13 and 17 mm sockets &amp; ratchet
+</li><li> Rubber / plastic head hammer
+</li><li> Zinc primer paint
+</li></ul>
+<br />
+<h2 class="showhide_heading" id="INSTALLATION">INSTALLATION</h2>
+<br />
+Note - I did this on my 1995 525i touring, there could be minor differences with YOUR E34.  My (used) set-up included the bumper trim from a Euro car, so I was able to shorten the installation time and remove the US side marker lights during the installation.<br />
+<br />
+To prepare the car, you should remove anything in the trunk area, spare tire &amp; tool kit covers, the tool kit, left &amp; right side storage compartment covers, black sill cover (under the hatch bottom) - for stage 1.<br />
+<br />
+STAGE 1:  Bumper modification, sensor installation and sensor to PDC control unit wiring harness installation<br />
+A.Using a flat blade screwdriver, remove the rear bumper black trim. It will pry out without too much effort.  Careful removal will leave the mounting tabs undamaged.<br />
+<span class="img"><img alt="" src="img/wiki_up/1 Remove rear bumer trim.JPG" border="0"  /></span><br />
+B.Using a flat blade screwdriver, remove the side marker lights in the left and right rear side bumper trim pieces.  The trim itself is removed by first prying the mounting clips away from the bumper at the curved section and secondly sliding the trim towards the rear of the car about 1 cm.  Remove the trim pieces and unplug the side marker lights.<br />
+<br />
+C.With a large tipped flat screwdriver, remove the locking plugs that are now exposed from removal of the left and right rear side trip.  They rotate 90 degrees and then can be removed.  Do not lose the O-ring.<br />
+<span class="img"><img alt="" src="img/wiki_up/2 Remove bumper ear plugs.JPG" border="0"  /></span><br />
+D.With a 17 mm socket &amp; ratchet, remove the four bumper mounting nuts and then remove the bumper, making sure that the left &amp; rear ‘ears’ of the bumper clear the mounting slides / cradles.  Store the bumper on a worktable, protected by a blanket or towel.<br />
+<span class="img"><img alt="" src="img/wiki_up/3 Bumper removed.JPG" border="0"  /></span><br />
+E.Locate the vertical separation mark / line on the left and rear bumper corners.  Measure 40 mm left (of the left line) and 520 mm right (of the left line) and draw a vertical line.  Draw the corresponding lines for the right side.  These will be your vertical reference for sensor clearance holes.  To quote an old expression, measure three times and cut once. Using your 50 mm hole saw, you would drill the four sensor holes for the bumper.<br />
+<span class="img"><img alt="" src="img/wiki_up/9 Bumper holes half done.JPG" border="0"  /></span> <span class="img"><img alt="" src="img/wiki_up/8 Drill holes in bumper.JPG" border="0"  /></span><br />
+<br />
+F.Using a 4-5 mm metal drill bit, drill a pilot hole in the location shown (EBA or my photos).  Sedan’s are different!  You are drilling a hole in the car to allow the wiring harness to leave the back of the car, ultimately nearly 25 mm in size.  I used a series of metal drill bits, then moving to a larger bit.  Treat the hole with a zinc based paint to prevent rust.  With the paint dry, you will want to install a grommet to protect the wires, and silcone seal for waterproofing.<br />
+<br />
+G.Based on length, the four sensor wires are sized for extreme left, center left and right, extreme right.  Run the four sensor wires from the inside of the car to the outside, keeping in mind the four wiring positions.  Run these wires through the four large holes in the bumper and reinstall the bumper.  A second person is helpful, but it can be done alone.<br />
+<span class="img"><img alt="" src="img/wiki_up/10 Bumper reinstalled.JPG" border="0"  /></span><br />
+<br />
+H.The BMW EBA tells you to install wire tie / mounts, which come with the BMW kit.  On a North American car, they are  are already in place – to hold the wiring harness for the side marker lights.  Using needle nose pliers, you can open the wire ties to add the PDC harness.  I chose to not install side marker lights on the car (Euro look) but left the harness on the car.<br />
+<br />
+I.Remount bumper nuts and trim.  Essentially reassemble as you removed the bumper.  Be additionally mindful of spreading the bumper ‘ears’ to clear on the left and right rear fenders.  Don’t forget to reinstall the locking plug (see photo), with a twist of the screwdriver.<br />
+<span class="img"><img alt="" src="img/wiki_up/11 Left side trim and sensor reinstalled.JPG" border="0"  /></span><br />
+<br />
+J.Route wiring harness inside the car<br />
+<span class="img"><img alt="" src="img/wiki_up/13 wiring harness routing through rear panel.JPG" border="0"  /></span><br />
+<br />
+K.Mount sensors in bumper strips and install bumper strips.  I bought a used PDC set-up and the sensors were already mounted in the bumper trim strips.  If you have a new kits, or don't have the trim from the donor car, you'll need to drill the mounting holes in the (middle) bumper strip.  The BMW PDC instructions give the exact diameter.  The location is clearly marked on the back of the trim strips.<br />
+<span class="img"><img alt="" src="img/wiki_up/DSCN2638.JPG" border="0"  /></span><br />
+<br />
+Now your car LOOKS like it has PDC, but you've got stage 2 to complete, making it operational!<br />
+<br />
+<br />
+STAGE 2:  Install control unit, front wiring harness and backup alarm.<br />
+<br />
+A. You'll route the wiring harness that you just installed to the left storage compartment.  In the PDC retrofit kit, there are two brackets - one for sedans, the other for tourings.<br />
+<br />
+Using the photos as your guide, you may (or not - which was my case) find the bracket mounting holes on your car.  If not, a drill with a 4 mm metal bit will solve this.  Install the bracket, PDC control unit and plug in the harness.  There are two different female sockets on the PDC control unit, reducing the chance for error.<br />
+<br />
+B. Install forward harness (power, ground, reverse signal, connector for alert device) and alert device.  You should remove the black jack / tool tray, as well as the seat bottom.<br />
+<br />
+- route harness (left trunking area) to seat bottom area &amp; make connections (tba)<br />
+- continue to route harness across seat bottom well area, through right cable trunking area, so that you can mount warning beeper and wiring.<br />
+- reinstall covers<br />
+<br />
+to be completed with pictures ....<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+  Created by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Thursday 21 of May, 2009 19:44:27 UTC by <span class='link'>gregory891</span>. 
+
+
+  </p> 
+
+
+
+
+
+							</div>						</div>
+					</div>
+
+					<hr class="hidden" />
+					</div>
+					<div class="clearfix" id="col3">
+					<h2 class="hidden">Sidebar</h2>
+					<div class="content">
+					
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxr1" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+	<div class="box box-ApplicationMenu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
+
+<div id="Application Menu" style="display:block;">
+
+
+
+<div class="option selected"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Home</span></a></div>
+
+
+
+
+
+<div class="separator">
+			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
+									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
+						</a>
+	 
+<a href="tiki-index.php" class="separator">
+<span class="menuText">Wiki</span>
+</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Wiki Home</span></a></div>
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu"><span class="menuText">List Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu"><span class="menuText">Sandbox</span></a></div>
+
+
+
+	</div>
+
+
+<script type='text/javascript'>
+      			status = '';
+				setfolderstate('menu42__200', 'd', '', status);
+	              </script>
+
+</div>
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+			<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				setsectionstate('mod-ApplicationMenur2','o', 'module.png');
+//--><!]]>
+			</script>
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+
+	<div class="box box-admin_menu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Admin Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-admin_menur5" style="display: block" class="clearfix box-data">
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+							</div>
+				</div>
+				<br style="clear:both" />
+			<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+			</div>
+	
+		</div>	</div> 
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325403325E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+
+	</body>
+</html>

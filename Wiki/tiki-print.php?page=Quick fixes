@@ -1,0 +1,210 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Quick fixes 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Quick+fixes">Quick fixes</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="QUICK_BMW_REPAIRS">QUICK BMW REPAIRS</h2>
+<br />
+<h3 class="showhide_heading" id="Break_Light_Circuit_Light_is_On:">Break Light Circuit Light is On:</h3>
+• Burnt out or poorly seated stop light bulb(s), faulty break light switch or wiring. Sometime changing to BMW bulbs work.<br />
+<br />
+<h3 class="showhide_heading" id="Water_Fluid_Leaks:">Water Fluid Leaks:</h3>
+• Small hairline cracks, leaking water pumps, loose hose clamps, faulty O-rings in the hoses going to the transmission.<br />
+<br />
+<h3 class="showhide_heading" id="What_are_the_cause_of_engine_overheating_">What are the cause of engine overheating?</h3>
+• Thermostat, water pump, faulty radiator or radiator cap, low radiator fluid, blown head gasket, air in the coolant circuit (bleed it).<br />
+<br />
+<h3 class="showhide_heading" id="Engine_Won_t_Start:">Engine Won't Start:</h3>
+• Check: battery, starter, fuse(s), relays, fuel pump, faulty spark plug resistor pack(s)... If you have no fuel and no spark, check the crankshaft position sensor or the fusible links.<br />
+<br />
+<h3 class="showhide_heading" id="Steering_Shaking:">Steering Shaking:</h3>
+• Tire balancing, alignment, faulty tires, wheel bearings, warped brake rotors, worn out steering parts...<br />
+<br />
+<h3 class="showhide_heading" id="My_Heater_fan_doesn_t_work_in_speeds_1_through_3_">My Heater fan doesn't work in speeds 1 through 3?</h3>
+• Check your sword or resistor pack. See the <a title="Fan Blower and Sword" href="tiki-index.php?page=Fan+Blower+and+Sword" class="wiki ">Fan Blower and Sword</a> page.<br />
+<br />
+<h3 class="showhide_heading" id="My_battery_is_dead_I_am_lock_out_how_do_I_unlock_the_doors_">My battery is dead, I am lock out, how do I unlock the doors?</h3>
+• To unlock the passenger door, turn the key past the normal unlock position while raising the door handle. Release handle and lift again to open the door.<br />
+<br />
+<h3 class="showhide_heading" id="Why_my_radio_windows_stereo_wiper_don_t_work_">Why my radio, windows, stereo, wiper don't work?</h3>
+• Replace Fusable link under hood or under backseat.<br />
+<br />
+<h3 class="showhide_heading" id="Why_my_low_beams_go_out_sometimes_">Why my low beams go out sometimes?</h3>
+• Re-solder joints in LKM. See <a title="LKM and Relay" href="tiki-index.php?page=LKM+and+Relay" class="wiki ">LKM and Relay</a> page.<br />
+<br />
+<h3 class="showhide_heading" id="Why_my_speedometer_doesn_t_work_or_is_erratic_">Why my speedometer doesn't work or is erratic?</h3>
+• Clean or change the <a title="Speed sensor" href="tiki-index.php?page=Speed+sensor" class="wiki ">Speed sensor</a> in differential.<br />
+<br />
+<h3 class="showhide_heading" id="Why_my_fuel_level_is_erratic_">Why my fuel level is erratic?</h3>
+• Capacitors or fuel level sensor, change or clean with WD40<br />
+<br />
+<h3 class="showhide_heading" id="How_to_improve_clutch_action_on_your_540i_six_speed_for_5_dollars_">How to improve clutch action on your 540i six speed for 5 dollars?</h3>
+• There is a clutch delay valve inline between the clutch slave cylinder and the hydraulic fuel line that feeds it. Its purpose is to delay clutch function to guard against drivetrain damage that may occur during &quot;hole shot&quot; starts. It also makes the clutch feel weird and un-BMW-like. Remove the valve, take it outside, and throw it as far as you can. Thread the hydraulic line fitting directly into the slave cylinder to improve clutch action. You'll have to bleed the system; the five dollars is for brake fluid. Avoid John Force style hole shots from then on.<br />
+<br />
+<h3 class="showhide_heading" id="Unable_to_open_the_glove_box_Solution_procedure_from_Dhanraj_R._">Unable to open the glove box Solution (procedure from Dhanraj R.)</h3>
+Slide under the glove box and you will find two snap latches connecting the back of the glove box to a metal rod (horizontal). Unsnap these two latches and the entire glove box will now be able to move forward by about 1/2&quot;.<br />
+This will allow you some space to access and manipulate the latch from the top right edge of the box. Use a long, thin flat blade and depress the latch. (I had to look at a new replacement piece to understand what part of the latch to depress).<br />
+With the glove box open, you will need to replace the latch. You will not need to replace the lock.<br />
+<br />
+<h3 class="showhide_heading" id="Coolant_smell_and_steam_on_window_thanks_to_Jeff_">Coolant smell and steam on window (thanks to Jeff)</h3>
+There are really three (related) items that might have failed.<br />
+- a heat core element<br />
+- an inlet pipe<br />
+- an o-ring seal<br />
+All require the same basic path to fix. If you can tolerate it (depends how bad it is), many of us live with a slight leak. My E34 has the same problem and I occasionally have a slight antifreeze smell and/or get window fog. The fix at the shop is not cheap. The unit's buried in the dash and labor is big part of the bill. I've heard numbers of $600 and up...maybe someone share what they have paid. You can DIY if you are handy and don't mind taking the dash apart.<br />
+<br />
+<strong>Thanks to Jonathan Talbot </strong><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Quick+fixes">http://www.bmwe34.net/Wiki/tiki-index.php?page=Quick+fixes</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325422653E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

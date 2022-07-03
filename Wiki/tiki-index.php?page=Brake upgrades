@@ -1,0 +1,486 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+	Brake upgrades : BMW E34 Website 
+		</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page">
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="#tiki-center">Jump to Content</a></li>
+		</ul>
+
+
+
+
+
+	<div id="fixedwidth"> 
+		<div id="main">
+			<div class="clearfix" id="header">
+		
+				<div class="clearfix" id="siteheader">
+		
+
+
+
+
+<div id="header-top">
+
+<div id="login_search"><div class="wrapper"><div id="login_language"> | language</div></div></div>
+
+	
+		
+			<div class="clearfix" id="sioptions">
+																		<div id="sitelogo" class="floatright">
+					<a href="./" title="BMW E34 Website"><img src="styles/planetfall/header_bmw.jpg" alt="BMW E34 Website" /></a>				</div>
+					</div>
+	
+
+	
+
+	
+
+
+<!--[if IE]><br style="clear:both; height: 0" /><![endif]-->
+</div>
+
+<div class="clearfix" id="tiki-top">
+
+			
+			<ul id="cssmenu0" class="cssmenu_horiz menu43"><li class="option171 menuSection menuSection0 menuLevel0 selected"><a href="tiki-index.php"><span class="menuText">Home</span></a><ul><li class="option175 menuOption menuLevel1"><a href="tiki-index.php?page=How+to+contribute"><span class="menuText">How can I help</span></a></li><li class="option259 menuOption menuLevel1"><a href="http://www.bimmernut.com/forum/"><span class="menuText">E34 Forum</span></a></li></ul></li><li class="option172 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Maintenance"><span class="menuText">Maintenance</span></a><ul><li class="option176 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=AC+system"><span class="menuText">A/C system</span></a><ul><li class="option274 menuOption menuLevel2"><a href="AC+upgrade"><span class="menuText">AC upgrade</span></a></li><li class="option179 menuOption menuLevel2"><a href="Evaporator+exp+valve"><span class="menuText">Evaporator/exp valve</span></a></li><li class="option180 menuOption menuLevel2"><a href="Receiver+drier"><span class="menuText">Receiver drier</span></a></li><li class="option178 menuOption menuLevel2"><a href="AC+compressor"><span class="menuText">A/C compressor</span></a></li></ul></li><li class="option177 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Body"><span class="menuText">Body</span></a><ul><li class="option181 menuOption menuLevel2"><a href=""><span class="menuText">Door trims</span></a></li><li class="option182 menuOption menuLevel2"><a href=""><span class="menuText">Door removal</span></a></li><li class="option183 menuOption menuLevel2"><a href=""><span class="menuText">Grill removal</span></a></li><li class="option184 menuOption menuLevel2"><a href=""><span class="menuText">Sunroof</span></a></li><li class="option185 menuOption menuLevel2"><a href=""><span class="menuText">Window tracks</span></a></li></ul></li><li class="option186 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Brakes"><span class="menuText">Brakes</span></a></li><li class="option187 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=E34+Touring"><span class="menuText">E34 Touring</span></a></li><li class="option189 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Electrical"><span class="menuText">Electrical</span></a></li><li class="option188 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Engine"><span class="menuText">Engine</span></a></li><li class="option190 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=General+maintenance"><span class="menuText">General maintenance</span></a></li><li class="option191 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Interior"><span class="menuText">Interior</span></a></li><li class="option192 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Steering"><span class="menuText">Steering</span></a></li><li class="option193 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Suspension"><span class="menuText">Suspension</span></a></li><li class="option194 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Transmission"><span class="menuText">Transmission</span></a></li></ul></li><li class="option174 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Racing"><span class="menuText">Racing</span></a></li><li class="option195 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Troubleshooting"><span class="menuText">Troubleshooting</span></a><ul><li class="option196 menuOption menuLevel1"><a href=""><span class="menuText">535i hot start</span></a></li><li class="option197 menuOption menuLevel1"><a href=""><span class="menuText">Catalytic conv.</span></a></li><li class="option198 menuOption menuLevel1"><a href=""><span class="menuText">Engine codes</span></a></li><li class="option199 menuOption menuLevel1"><a href=""><span class="menuText">Engine diagnostic</span></a></li><li class="option200 menuOption menuLevel1"><a href=""><span class="menuText">Front noises</span></a></li><li class="option201 menuOption menuLevel1"><a href=""><span class="menuText">Headgasket</span></a></li><li class="option202 menuOption menuLevel1"><a href=""><span class="menuText">Hunting idle</span></a></li><li class="option203 menuOption menuLevel1"><a href=""><span class="menuText">Locked doors</span></a></li><li class="option204 menuOption menuLevel1"><a href=""><span class="menuText">Oil pressure</span></a></li><li class="option205 menuOption menuLevel1"><a href=""><span class="menuText">Overheating</span></a></li><li class="option206 menuOption menuLevel1"><a href=""><span class="menuText">Quick fixes</span></a></li><li class="option207 menuOption menuLevel1"><a href=""><span class="menuText">Steering play</span></a></li><li class="option208 menuOption menuLevel1"><a href=""><span class="menuText">Trans program</span></a></li><li class="option209 menuOption menuLevel1"><a href=""><span class="menuText">What will break</span></a></li></ul></li><li class="option173 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Upgrades"><span class="menuText">Upgrades</span></a></li></ul>
+
+	
+
+
+</div>
+
+				</div>
+			</div>
+			<div class="clearfix" id="middle">
+				<div class="clearfix nofullscreen" id="c1c2">
+					<div class="clearfix" id="wrapper">
+						<div id="col1" class=" marginright">
+
+	
+
+							<div id="tiki-center"  class="clearfix content">
+							 
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+		<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+			<div class="icons" style="float: left;">
+									<a title="Print" href="tiki-print.php?page=Brake%20upgrades"><img src="pics/icons/printer.png" alt="Print" width="16" height="16" border="0" title="Print" class="icon" /></a>
+	
+							</div><!-- END of icons -->
+
+	
+	
+			</div>
+		<br class="clear" style="clear: both" />
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Brake+upgrades">Brake upgrades</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_5_6_and_7_BRAKE_UPGRADES">BMW 5, 6 and 7 BRAKE UPGRADES</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/bigbrakes.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">BMW E 34 M5 </td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell"  colspan="5">E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell"  colspan="5">AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell"  colspan="5">$100 to $$$</td></tr></table><br />
+<br />
+When the Bmw E34 was produced, it was the sedan that had the shortest braking distance. If I counted the number of times people have almost rear ended me... looks like they are not used to it.<br />
+But because we love to race our babies too, upgrading the brakes is something to keep in mind. The cheapest way to do it is to use the brake components from an E32 740i or an E34 540i.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure_from_Rob_Levinson_updated_by_Nick_">Procedure from Rob Levinson (updated by Nick)</h3>
+Try to find the calipers and brake carriers in a junk yard and buy new rotors and pads. For any of the bigger factory brake option, you need the correct carriers for the specific calipers/rotors.<br />
+<br />
+<h2 class="showhide_heading" id="Front_Brakes">Front Brakes</h2>
+E34 540i, E32 735i-il, 740i-il, 750il, front brakes will fit the E34.<br />
+E32 front brakes are an upgrade for non M5/M540i, but the real front upgrades are the E31 and E34 M5. 324mm needs 16&quot;wheels and 345mm fits under 17&quot; wheels. Everything in the table will fit:<br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><div style="text-align: center;">Bmw Model </div></td><td class="wikicell" ><div style="text-align: center;">Rotor size</div> </td><td class="wikicell" ><div style="text-align: center;">Rotor part#</div> </td><td class="wikicell" ><div style="text-align: center;">Caliper part#</div> </td><td class="wikicell" ><div style="text-align: center;">L/R Clip part#</div> </td><td class="wikicell" ><div style="text-align: center;">Carrier #</div></td></tr><tr><td class="wikicell" >E32 730i (L6&amp;V8) E34 525i-535i-530i </td><td class="wikicell" >V 302 x 22 </td><td class="wikicell" >34 11 1 160 936 </td><td class="wikicell" >34 11 1 160 367/368 </td><td class="wikicell" >34 11 1 157 687 </td><td class="wikicell" >34 11 1 160 366 </td></tr><tr><td class="wikicell" >E32 735i/il L6 E32 740i/il-750i/il E34 540i </td><td class="wikicell" >V 302 x 28 </td><td class="wikicell" >34 11 6 756 090 </td><td class="wikicell" >34 11 1 160 363/364 </td><td class="wikicell" >34 11 1 157 687 </td><td class="wikicell" >34 11 1 160 365 </td></tr><tr><td class="wikicell" >E34 M5 3.6 </td><td class="wikicell" >V 315 x 28 </td><td class="wikicell" >34 11 2 226 385 </td><td class="wikicell" >34 11 2 226 873/874 </td><td class="wikicell" >34 11 1 157 687 </td><td class="wikicell" >34 11 2 226 875 </td></tr><tr><td class="wikicell" >E31 840/850Csi** </td><td class="wikicell" >V 324 x 30 </td><td class="wikicell" >34 11 1 159 895 </td><td class="wikicell" >34 11 1 160 325/326 </td><td class="wikicell" >34 11 1 159 957 </td><td class="wikicell" >34 11 1 160 327 </td></tr><tr><td class="wikicell" >E31 840/850*** </td><td class="wikicell" >V 324 x 30 </td><td class="wikicell" >34 11 6 756 087 34 11 1 161 086 </td><td class="wikicell" >34 11 1 16 177/178 </td><td class="wikicell" >none </td><td class="wikicell" >4 piston callipers </td></tr><tr><td class="wikicell" >E38 750il </td><td class="wikicell" >V 334 x 32 </td><td class="wikicell" >34 11 6 757 756 </td><td class="wikicell" >does not fit </td><td class="wikicell" >does not fit </td><td class="wikicell" >does not fit </td></tr><tr><td class="wikicell" >E34 M5 3.8 ('95) </td><td class="wikicell" >V 345 x 32 </td><td class="wikicell" >34 11 2 227 735/736 </td><td class="wikicell" >34 11 2 227 115/116 * </td><td class="wikicell" >34 11 2 227 506 </td><td class="wikicell" >Requires 17&quot; wheels</td></tr></table><br />
+'*' 4 piston calipers, integral carrier V: ventilated<br />
+'**' 93-95 for the US 850Csi and up to 08/93 for other US models.<br />
+'***' 840 - 850 from 08/93 on<br />
+<br />
+The larger Euro M5 brakes came standard on the Canadian model M540i. They weren't included on the U.S. 540i Sport model for litigious reasons, i.e. the aluminum floating rotor that requires periodic inspection for cracking. It was deemed US owners would ignore that service and end up maiming themselves and suing BMW. (Thanks David)<br />
+<br />
+<h2 class="showhide_heading" id="Rear_Brakes_updated_thanks_to_Gregory_B._and_Nick_">Rear Brakes (updated thanks to Gregory B. and Nick)</h2>
+735il rear brakes will not fit the E34. E32 rear rotors will not fit the E34. However the 750i/il, 740i/il (and 540i) calipers and carriers can be bolted on the E34 when used with 540i rotors.<br />
+No E31 rear callipers fits the E34 but the 324x12 non vented rotor will fit. Everything in the table will fit:<br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><div style="text-align: center;">Bmw Model</div> </td><td class="wikicell" ><div style="text-align: center;">Rotor size</div> </td><td class="wikicell" ><div style="text-align: center;">Rotor part# </div></td><td class="wikicell" ><div style="text-align: center;">Caliper part#</div> </td><td class="wikicell" ><div style="text-align: center;">L/R Clip part#</div> </td><td class="wikicell" ><div style="text-align: center;">Carrier #</div></td></tr><tr><td class="wikicell" >E34 525-535-530 </td><td class="wikicell" >300 x 10 </td><td class="wikicell" >34 21 1 162 305 </td><td class="wikicell" >34 11 1 160 381/382 </td><td class="wikicell" >34 11 1 157 046 </td><td class="wikicell" >34 11 1 160 383 </td></tr><tr><td class="wikicell" >E34 540i </td><td class="wikicell" >V 300 x 20 </td><td class="wikicell" >34 21 1 159 659 </td><td class="wikicell" >34 21 1 160 399/400 </td><td class="wikicell" >34 21 1 157 046 </td><td class="wikicell" >34 11 1 160 384 </td></tr><tr><td class="wikicell" >E32 730i/il L6 &amp; V8 </td><td class="wikicell" >300 x 10 </td><td class="wikicell" >34 21 1 165 259 does not fit </td><td class="wikicell" >34 21 1 160 381/382 </td><td class="wikicell" >34 21 1 157 046 </td><td class="wikicell" >34 21 1 160 383</td></tr><tr><td class="wikicell" >E32 735i/il &amp; some L6 730i/il </td><td class="wikicell" >300 x 12 </td><td class="wikicell" >34 21 1 165 257 not tested </td><td class="wikicell" >34 21 1 160 353/354 not tested </td><td class="wikicell" >34 21 1 157 046 </td><td class="wikicell" >34 21 1 160 355 not tested </td></tr><tr><td class="wikicell" >E32 740i/il E32 750i/il from 1/90 </td><td class="wikicell" >V 300 x 20 </td><td class="wikicell" >34 21 1 162 967 does not fit </td><td class="wikicell" >34 21 1 160 399/400 </td><td class="wikicell" >34 21 1 157 046 </td><td class="wikicell" >34 11 1 160 384 </td></tr><tr><td class="wikicell" >E32 750i/il to 1/90 </td><td class="wikicell" >V 300 x 20 </td><td class="wikicell" >34 21 1 162 967 does not fit </td><td class="wikicell" >34 21 1 160 385/386 </td><td class="wikicell" >34 21 1 157 046 </td><td class="wikicell" >34 11 1 160 384 </td></tr><tr><td class="wikicell" >E34 M5 3.6 </td><td class="wikicell" >V 300 x 20 </td><td class="wikicell" >34 21 1 159 659 </td><td class="wikicell" >34 21 1 160 399/400 </td><td class="wikicell" >34 21 1 157 046 </td><td class="wikicell" >34 11 1 160 384 </td></tr><tr><td class="wikicell" >E34 M5 3.8 ('95) </td><td class="wikicell" >V 328 x 20 </td><td class="wikicell" >34 21 2 227 844 34 21 1 160 233 </td><td class="wikicell" >34 21 2 227 873/874 </td><td class="wikicell" >34 21 2 227 672 </td><td class="wikicell" >34 21 2 227 875</td></tr></table><br />
+V: ventilated<br />
+<br />
+E39 M5 brakes definitively do NOT fit the E34. Rob tried a set last summer, BMW moved the carrier mounting holes about 2mm further apart. The rotors also do not have the dual 18mm posts required to fit the E34 M5 hubs.<br />
+<br />
+Cross drilled rotors are a waste of money, if you want to use your E34 on the track you can consider the ATE slotted rotors. If you want the ultimate in braking and have 17&quot; wheels, consider upgrading to the Mov'it/Porsche kit. Check ultimate garage.<br />
+<br />
+<h3 class="showhide_heading" id="Brake_balance:_front_rear:">Brake balance: front/rear:</h3>
+The type of brakes you install on your car has a large influence on how the car feels and handles, especially when driven hard. BMWs with semi-trailing-arm rear suspension tend to have some squat under acceleration and a certain amount of dive under hard braking.<br />
+For example, certain choices of front or rear brakes will increase the front brake bias over stock, which will obviously exacerbate the brake dive problem<del>not a good thing! Changing the bias will also affect the car's susceptibility to having the ABS kick in prematurely on the front or rear axle. Finally, it affects pedal travel</del>a lower-torque brake setup will require more pedal travel for the same amount of braking force compared to another setup. Even if you change the front and rear brakes simultaneously and maintain something close to the stock bias, if the new brakes are lower torque than the stock brakes you'll end up with more pedal travel. With some cars this can even mean having to change the master cylinder to a higher-volume unit.<br />
+<br />
+To give an example, the E34 540i brakes develop 686 lb-ft of torque on the fronts at 500 psi line pressure; the rears produce 313 LB-ft, so the f:r bias is 69:31 (as a percentage). Adding the M5 front brake (rears are the same on US E34 M5's), which generates 720 LB-ft, changes the bias to 70:30. The '95 Euro M5 brakes generate 646 LB-ft front and 336 LB-ft rear, giving a bias of 66:34. Everyone raves about this setup, which is interesting as the front brakes actually generate LESS torque than the earlier E34 M5 (or the 540i, for that matter)! Chances are that this perception of awesome brakes has more to do with the better balance front-to-rear than the massive cooling capability, which only comes into play when you're driving the piss out of the car and the brakes are generating many kilowatts of heat. Unless you go to the track, you'll never encounter that aspect of their performance.<br />
+<br />
+Here's where it gets interesting: the 850i single-piston front brake (like I have) generates 737 LB-ft, the highest of any BMW brake I know of. I assume you put the 540i rears (313 LB-ft) on your car, so the bias is 70:30, same as the US E34 M5. However, if you instead use the later 840i/850i (not CSi) brakes, which generate only 593 LB-ft of torque, the bias would be 65:35--very close to the Euro '95 M5 brakes. I believe, though haven't proven it yet, that this might be the ideal setup for the majority of E34 owners who don't want to spend the huge bucks for the '95 M5 brakes. It's still not cheap, but it's half the price of the alternative.<br />
+<br />
+<h3 class="showhide_heading" id="Other_4_piston_calipers_non_OEM_brakes:">Other 4 piston calipers non OEM brakes:</h3>
+Bmwsnail emailed me saying: I am running the fronts off a Porsche 928S4, they were also fitted to the fronts of the 944 Turbo S. They needed a bracket fabricated to get them to work. Have had some warping issues with the 850i rotors in the past but the latest set appear to be holding up ok.<br />
+<br />
+The price of the 928S4 callipers is pretty high as this is a popular upgrade for Porsches. I am working on a similar upgrade for my 635csi race car, using Wilwood calipers, if I am happy with the result I will sell the brackets and you will be able to buy your choice of wilwood calipers.<br />
+<br />
+<h3 class="showhide_heading" id="Street_Pads">Street Pads</h3>
+• Raybestos pgplus:<br />
+Improvement over stock, stop well , quiet, no dust... Much better than the metal master pads.<br />
+<br />
+• PBR - Repco - Axis Deluxe:<br />
+Good pads for non aggressive street driving. Low dust. Might squeal a little. Not suited for extreme or track use.<br />
+<br />
+• EBC GreenStuff:<br />
+Kevlar compound pads for non aggressive street driving. Low dust.<br />
+<br />
+<h3 class="showhide_heading" id="Street_Pads_may_be_used_on_track">Street Pads, may be used on track</h3>
+• Stock Pads:<br />
+Fine on street, decent on track. Dusty pads. Can overheat by a strong intermediate or advance driver.<br />
+<br />
+• Raybestos QS series which is the ceramic:<br />
+Improvement over stock, stop well , quiet, no dust.... but the QS ceramic raybestos seems to be a big step better than the pgplus.<br />
+<br />
+• PBR - Repco - Axis Metal Masters or EBC RedStuff:<br />
+Average pads for aggressive street driving, after little warm up. Low dust. Tend to squeal. Better choice than the Deluxes on track.<br />
+<br />
+• PBR - Repco - Axis Ceramic<br />
+New compound, cheap very very dusty and amazing braking power, doesn't seem to fade on the race track.<br />
+<br />
+• Pagip:<br />
+German sport pads for street use. Exact fit. Dusty pads. Work better than stock on track.<br />
+<br />
+• Performance Friction Z-rated:<br />
+Good street/track pad. Better bite and less dust than stock. Needs little warm up.<br />
+<br />
+• Performance R4S:<br />
+Carbon Kevlar street/track pad. Impressive bite and heat resistance. No warm up needed.<br />
+<br />
+• Carbotech Panther:<br />
+Street/track pad. Good bite, resistance to fade, quiet.<br />
+<br />
+<h3 class="showhide_heading" id="Track_Pads_not_suited_for_street_use_">Track Pads (not suited for street use)</h3>
+•Porterfield R4 or EBC YellowStuff:<br />
+Carbon Kevlar pad. Great bite, fade resistant. Squeal a bit under light braking.<br />
+<br />
+•Performance Friction 90:<br />
+Racing brake pad used in GT2, GT3 racing. Great braking power and fade resistance. Last's long.<br />
+<br />
+•Hawk HT10:<br />
+Strong braking, heat resistance, noisy and dusty. Warm up needed for max efficiency.<br />
+<br />
+Be sure to change the brake fluid annually using BMW Brake fluid or ATE SL Dot 4. Racing fluid like ATE Super Blue or AP racing 5.1 and 600 (available at Raven) are designed to be used in extreme track conditions, but tends to be more hygroscopic than the street brake fluid.<br />
+<br />
+(Thanks to Rob, Jay Sala, Phil Coppin, Dave W., Rodney M., Nick)<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+  Created by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Thursday 21 of May, 2009 19:48:46 UTC by <span class='link'>gregory891</span>. 
+
+
+  </p> 
+
+
+
+
+
+							</div>						</div>
+					</div>
+
+					<hr class="hidden" />
+					</div>
+					<div class="clearfix" id="col3">
+					<h2 class="hidden">Sidebar</h2>
+					<div class="content">
+					
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxr1" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+	<div class="box box-ApplicationMenu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
+
+<div id="Application Menu" style="display:block;">
+
+
+
+<div class="option selected"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Home</span></a></div>
+
+
+
+
+
+<div class="separator">
+			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
+									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
+						</a>
+	 
+<a href="tiki-index.php" class="separator">
+<span class="menuText">Wiki</span>
+</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Wiki Home</span></a></div>
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu"><span class="menuText">List Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu"><span class="menuText">Sandbox</span></a></div>
+
+
+
+	</div>
+
+
+<script type='text/javascript'>
+      			status = '';
+				setfolderstate('menu42__200', 'd', '', status);
+	              </script>
+
+</div>
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+			<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				setsectionstate('mod-ApplicationMenur2','o', 'module.png');
+//--><!]]>
+			</script>
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+
+	<div class="box box-admin_menu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Admin Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-admin_menur5" style="display: block" class="clearfix box-data">
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+							</div>
+				</div>
+				<br style="clear:both" />
+			<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+			</div>
+	
+		</div>	</div> 
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325406341E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+
+	</body>
+</html>

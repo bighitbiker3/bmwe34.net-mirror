@@ -1,0 +1,186 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Roof Rack 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Roof+Rack">Roof Rack</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="TOURING_ROOF_RACKS">TOURING ROOF RACKS</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/E34Touring/Data/Rack2.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Procedure and photos courtesy of Stephen Dull</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34 Touring</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$??</td></tr></table><br />
+<br />
+There are not many reasonable options when fitting racks to the factory touring roof tracks. The BMW OEM option is very expensive. The Yakima rail rider has been successfully used, and there is also a Thule option. Both of these use &quot;long&quot; bars that stick out past the ends of the mounting towers which does not look as clean at the custom sized factory option. A more economical, but very high quality alternative that does result in a custom fit (no protruding bars) is the Oris rack made for Mercedes 124 coupes. The Mercedes towers fit well on the BMW tracks, and only one of the cross bars needs to be shortened slightly to make a prefect fit. Numerous options (ski, bike, etc) are also available with these racks, and seem to be well engineered and high quality.<br />
+<br />
+<h3 class="showhide_heading" id="ad41d8cd98f00b204e9800998ecf8427e"></h3>
+Procedure<br />
+1. Procure the Oris Mercedes C124 racks (take note that both are different length, and have different height towers). I found mine at a local &quot;performance&quot; supplier.<br />
+2. The shorter bar (taller tower) fits perfectly on the rear of the touring, no length modification needed.<br />
+3. The longer bar in front needs to be shortened by about 3/4 in - measure tract to track center to be exact.<br />
+4. Drill the rivets on one side of the front rack. The tower is glued on but will pull off fairly easily.<br />
+5. Note on an un-drilled side how the end cap/lock must clear the outer rivet, and uses the inner as a securing device. The lock also engages the punched &quot;bump&quot; that was cut off the other side - you will need to recreate these functions when reattaching the other tower.<br />
+6. The easiest way to do this is use a very thin headed 1/4 bolt (head up - cut to length) on the outside (dol cap can slide by) , and an inside bolt (head down - cut to correct length) that sticks up inside where the original rivet did. A SLIGHT filing of the threads (after installation) of the inside bolt will allow the cap to &quot;grip&quot; correctly. The outside head will also allow the lock to engage (preventing cap from being pulled out) - but a little further out than the stock setup. You could reproduce stock situation by drilling and tapping the tower/bar with a screw in the right place.<br />
+7. Reassemble the bar - use loctite on the threads, ensure correct operation of cap.<br />
+<br />
+You now need to make/find &quot;square&quot; nut that will engage the M6 (6 mm) tower screws, and fit the track properly. There are a couple of possibilities. I used the BMW &quot;fender&quot; nuts (actually used for bumper trim) that have thin washers built in. Trim the opposite sides of the washer to fit track, then glue to nut with dab of 5 min epoxy (so nut doesn't turn). A neater alternative is the nut for a &quot;Chinook&quot; style windsurfing fin (little used these days). These stainless T nuts are just the right size - all you have to do is drill and tap for M6 (would have used them but didn't have 4).<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/Rack1.jpg" border="0"  width="height=" /></div><br />
+<br />
+The next part is some &quot;spacers&quot; for the underside of the towers so that the downward facing ridge on the towers doesn't interfere with the BMW tracks. (You can see this in the picture) A 1/4 piece of fairly hard rubber works great - just cut rectangles to fit on either side of hold-down screw. I used double thickness of 3M headlight guard material - it has adhesive on one side and was at hand. I first cut the width, but a little long. Then stick to towers (use contact cement if necessary), and use profile of tower to trim ends.<br />
+<br />
+Now you're ready to install. Put nuts in track, engage screws, and move to desired spacing, tighten. You end up with a very clean factory look.<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Roof+Rack">http://www.bmwe34.net/Wiki/tiki-index.php?page=Roof+Rack</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325418118E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

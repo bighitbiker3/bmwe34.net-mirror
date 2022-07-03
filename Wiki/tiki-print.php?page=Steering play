@@ -1,0 +1,216 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Steering play 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Steering+play">Steering play</a></strong></h1>
+
+ 
+
+
+<h3 class="showhide_heading" id="STEERING_PLAY">STEERING PLAY</h3>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Trouble/Data/Steering%20nut.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+The steering of the Bmw E34/E32/E28 is a little bit complex. After 100k miles it will certainly develop some play. This is a list of what can cause this play:<br />
+Check list from the more probable to the less.<br />
+<br />
+<h3 class="showhide_heading" id="Loose_steering_column_nut.">Loose steering column nut.</h3>
+Remove the cover below the dashboard and steering wheel, you will be able to access the steering column. Locate the nut and tighten it. It is possible to overtighten that nut, which make the steering stiff and make funny noises.<br />
+<br />
+<h3 class="showhide_heading" id="Worn_steering_links_or_elements:">Worn <a title="steering links" href="tiki-index.php?page=steering+links" class="wiki ">steering links</a> or elements:</h3>
+Place you car on jack stands and check the play of each steering arm and links. If a tie rod has some play or the boot is cracked, change it. The idler arms has a bushing also, don't forget to check it.<br />
+<br />
+<h3 class="showhide_heading" id="Steering_box:"><a title="Steering box" href="tiki-index.php?page=Steering+box" class="wiki ">Steering box</a>:</h3>
+The steering box is adjustable, until you cannot adjust it anymore (the steering doesn't come back to the center by itself). The only solution is to change the steering box... or live with it.<br />
+<br />
+This is what you should check: Procedure from George Mann<br />
+<ul><li>Check or replace the outer tie rods.
+</li><li>Make sure pitman arm pinch bolt was tight on the bottom of the steering box.
+</li><li>Tighten adjustment screw on top of steering box (biggest improvement so far) See procedure below.
+</li><li>Make sure front toe (alignment) is correctly set at .08 &quot; toe-in. (some improvement to linear tracking) On-center feel was still lacking.
+</li><li>Check idler arm and bushing
+</li><li>Check drag link for wear
+</li><li>Check overall suspension bolt torques based upon Bentley's recommendation.
+</li><li>Finally check universal joint just above steering box.
+</li></ul>
+<br />
+At this point I was fairly convinced that a worn steering box was the main contributor to loose- ness. Before embarking on this major replacement I scoured all the archives for more answers..there were two clues:<br />
+Rebuild kit for worm and roller recirculating ball steering box contains no hardware, i.e. no replacement gears, bushings etc. Only 0-rings and seals. Translation: these boxes are robust mechanically..takes BIG miles to wear them out. Adjustment will tune out virtually all the slop/unwanted lash. (I now agree)<br />
+<br />
+<strong>Note: for E-32 owners</strong> refer to Bentley's poor illustration of the steering componentry on 320-1. Large nut is pictured between steering column shaft and protective boot...Look close.<br />
+<br />
+<h3 class="showhide_heading" id="Diagnosis:">Diagnosis:</h3>
+Open the hood and grab the intermediate shaft just above the steering box universal joint/next to the firewall. I could shake or rattle mine. Intermediate shaft should be firm with some freedom but should not be loose. I immediately thought the column shaft and/or universal under the dash must be worn or loose. I had to go in and find out. Remove the lower dash valence panel and foam knee blocker underneath. Once removed, you then next remove the upper peddle box fascia to gain access to the base of the steering column. Once I got at the base of the column...there it was...a large 32mm nut that attaches the splined intermediate shaft to the universal joint on the column. This large nut had loosened over time and had introduced considerable play into the steering. If you don't have an open end wrench that big..this is what you do:<br />
+Put a pipe wrench on this nut and rotate the “steering wheel” clockwise (helps to start the car for power assist) while holding onto the wrench to tighten the nut. <a class="wiki"  href="Note that the thread is a standard Right Hand thread..so turning the steering wheel clockwise while restraining the nut, tightens the joint." rel="">Note that the thread is a standard Right Hand thread..so turning the steering wheel clockwise while restraining the nut, tightens the joint.</a> The nut tightens an articulating collet joint that connects the intermediate shaft to the column. (No room to swing the wrench under the dash).<br />
+You would not believe the difference (at last) this adjustment made to the overall steering control of my 90 735il! Transformed the entire driving experience. Further note on tightening the big nut: If you have a telescoping column, (mine is non-tilt/non telescoping) do not tighten this nut too tight or you will lose your telescoping capability. I think you will find if you snug this nut you will considerably improve steering control without sacrifice to column stroking capability.<br />
+Finally while you are in there, if you have a non tilt column like me, be sure to space the column down by 1/4&quot; by virtue of washers and two longer column attachment bolts for a much improved steering wheel position. (Don't needlessly suffer with the truck like steering wheel position.)<br />
+(The I.P. rectangular column pass through hole was designed to accommodate column height adjustment.) After a long bout of frustration, had to share this major find with my friends on the board.<br />
+<br />
+<h3 class="showhide_heading" id="Adjusting_the_steering_box:">Adjusting the steering box:</h3>
+<br />
+1. Jack up the front of the car and with the wheels hanging and the motor off..steering column unlocked...turn the wheel to get a sense of mechanical friction.<br />
+<br />
+2. Take a flat file..and with any sharp edge on the file..score a mark on the top/end of the steering box adjustment allen screw so you can keep track of clocking....very easy to get lost without a mark after you loosen the 17mm collar locking nut.<br />
+<br />
+3. I would start in about 10 degree increments..tightening the top screw..then repeat step 1. You will be able to tell if you overtightened the adjustment screw by how much tension you feel in the steering with the motor off..just turn the wheel back and forth.<br />
+- Best tip I can provide is to adjust the screw with the steering wheel well “off center.” Why?..because the steering box sector gear inside is eccentric which deliberately introduces a higher contact ratio on center for better engagement/less wear/better on-center feel.<br />
+<br />
+4. You should only feel “just a bit more friction” as you traverse through center with your steering box.<br />
+<br />
+Provided your overall steering components are in good condition, if you follow the above procedures, you will restore the steering feel to your BMW as intended by the factory.<br />
+<br />
+George Mann<br />
+90 735il/146k<br />
+<br />
+Big Thanks to Russell J. and George Mann<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Steering+play">http://www.bmwe34.net/Wiki/tiki-index.php?page=Steering+play</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32542318E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

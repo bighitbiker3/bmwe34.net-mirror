@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Headgasket problem 
 				: BMW E34 Website  
 			</title>
 
@@ -114,30 +114,35 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Headgasket+problem">Headgasket problem</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h3 class="showhide_heading" id="BMW_HEADGASKET_PROBLEM">BMW HEADGASKET PROBLEM</h3>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+A major problem with the Bmw E34/E32 especially the 3.5l and 2.5l is a headgakset failure caused by using unproper coolant (I always use BMW coolant) or overheating.<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+Engine suddenly overheats, radiator hose or heater hose explodes, a bubbling sound from the radiator overflow tank (may be a bad radiator cap), large bubbles in or foaming of coolant in radiator while engine is running, loss of coolant with no apparent leak, or persistent white smoke coming from exhaust are the first warning that the headgakset is going bad.<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Visible_warnings:">Visible warnings:</h3>
+• Thick white smoke coming out of the tail pipe (water inside the cylinders)<br />
+• Coolant in oil (white residue on the oil cap or dip stick) or oil in coolant (stick your finder in the coolant reservoir and you will see)<br />
+• Mysterious loss of coolants without traces.<br />
+• Huge build up a pressure in the coolant circuit.<br />
+• Temperature gauge acting weird (the temperature gauge will get into the middle, and stay there for few minutes. Next, it will rapidly shoot for the “red” zone. It will do this in seconds. The moment the red zone is touched, the gauge falls just as fast to the middle, where it will stay for duration of the trip. Next day, same situation...)<br />
+When you first start your car leaking head gasket will introduce gas into the head cooling space. It will replace fluid from the area. The thermostat is closed so the gas has no place to go. The gas acts like an insulator so it will delay heat transfer to the thermostat. But other parts of the engine covered with the fluid blanket will heat the water up to the boiling point. Finally engine is hot enough to cause thermostat to open and let the gas go into the radiator. After the gas goes the overheated water and that's what causes your needle to rise on the gauge. Further operation is normal because thermostat is open and the gas goes to expansion tank as soon as it gets into the system. You need to repair the leak as soon as possible if that's the cause or you will end up with warped head due to spot overheating.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="What_test_to_perform_to_make_sure:">What test to perform to make sure:</h3>
+• The first is a carbon dioxide test performed on the cooling system will tell you if C02 is going inside your coolant.<br />
+• A leakdown test will allow you to check each cylinder to look for pressure loss inside the cylinder. Failing the test could also be seepage past a bad valve guide, piston ring...<br />
+Head Gasket Testing Kit<br />
 <br />
-Thanks to Brandon J.<br />
+<br />
+The best method is to have a service shop, or a friend who owns a block test kit test your system for a compression leak to your cooling system. I heard that some test kits can be purchased from auto stores. This is a test unit and test fluid that changes color with the presence of exhaust gas in the engine coolant. Another test that should be completed is a coolant system pressure test Test your system for leaks with nine to twelve Psi pressure. It should not show any appreciable pressure loss within 5 minutes.<br />
+<br />
+Sometimes it's worth it just to have a pro shop diagnose the problem, even if you are planning to do the repair yourself.<br />
+<br />
 
 
 
@@ -150,7 +155,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Headgasket+problem">http://www.bmwe34.net/Wiki/tiki-index.php?page=Headgasket+problem</a>
 
   </p> 
 
@@ -170,7 +175,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.32542368E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

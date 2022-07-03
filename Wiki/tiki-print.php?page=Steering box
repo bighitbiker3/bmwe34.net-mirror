@@ -1,0 +1,239 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Steering box 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Steering+box">Steering box</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="Steering_Box">Steering Box</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Steering/Data/steering_box.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$200-500</td></tr></table><br />
+<br />
+The steering box is common to all Bmw E34s / E32. No maintenance is required other than adjustment and replacement when there is too much wear and adjustment is not possible.<br />
+<br />
+The 535-525i share the same box, same for the 540-530i. The M5 has its own.<br />
+<br />
+Steering play can be caused by the steering box, steering links or one of the universal joints of the steering column.<br />
+<br />
+If you are replacing the steering box and are getting one from a scrap yard make sure it has its pitman arm as I discovered ( car on axle stands steering box out) that though the boxes are the same there are different size output shafts...D'OH!<br />
+Big thanks Gar.<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Adjustment">Adjustment</h3>
+<ul><li> 17 inch wrench
+</li><li> Flat screw driver or hex wrench
+</li></ul>
+<br />
+Turn your steering wheel all the way to the right or the left, unscrew the nut # 13 and turn the screw 1/4 of a turn. Turn your steering wheel to normal position and check to see if the play is still there. Readjust if necessary.<br />
+<br />
+1. Jack up the front of the car and with the wheels hanging and the motor off..steering column unlocked...turn the wheel to get a sense of mechanical friction.<br />
+2. Take a flat file..and with any sharp edge on the file..score a mark on the top/end of the steering box adjustment allen screw so you can keep track of clocking....very easy to get lost without a mark after you loosen the 17mm collar locking nut.<br />
+3. I would start in about 10 degree increments..tightening the top screw..then repeat step 1. You will be able to tell if you overtightened the adjustment screw by how much tension you feel in the steering with the motor off..just turn the wheel back and forth.<br />
+- Best tip I can provide is to adjust the screw with the steering wheel well “off center.” Why?..because the steering box sector gear inside is eccentric which deliberately introduces a higher contact ratio on center for better engagement/less wear/better on-center feel.<br />
+4. You should only feel “just a bit more friction” as you traverse through center with your steering box...if you feel the steering get hard..box is set too tight.<br />
+<br />
+<br />
+If the play can not be removed by adjusting the screw or if your steering box is leaking, you will need to change it. Try to find one in a junk yard from a car with low mileage.<br />
+<br />
+<strong>IF YOU HAVE A V8 (530i - 540i)</strong> <em>Procedure from Michael Evans</em><br />
+Well, look where the steering box is located, as you can see, there is no room up top to adjust it.<br />
+Be sure to <strong>disconnect the battery</strong> prior to touch anything.<br />
+<br />
+1. Pull up rear seat bottom and disconnect battery anode.<br />
+2. Jack up front of car and put on jackstands.<br />
+3. Remove both front splash pan and rear splash pan<br />
+4. Remove 4 nuts on top of plastic engine shroud and remove shroud.<br />
+5. Remove 4, 10mm bolts that hold metal heat shield under steering gearbox and slide out by tire(one bolt is thru an access hole, use extension)<br />
+6. Remove the two nuts (17mm and 13mm) under gusset that hold the front engine (rubber donut) mounts to frame.<br />
+7. Place piece of wood(10&quot;x2&quot;x8&quot;) under oil pan and place (3 ton) floor jack under wood. Gently jack-up engine until the lower engine bolts just clear their holes by 1/2&quot;.<br />
+8. Using 13mm socket(on 1/4&quot; drive) remove nut on rear of steering box that holds heat shield and a a/c spacer. Remove same bolt on top of box. Now slide out the heat shield to the rear and remove.<br />
+9. Douse the adjusting nut on top of steering box with WD40<br />
+10. Using 17mm socket, 3/8 short extension, 3/8 long extension and two 3/8 univ joints, snake down from top of engine comp't and with tbar break the adjusting nut loose.<br />
+11. Turn steering wheel 1 turn CW. Make sure nut is loose and using 4.5mm allen key turn CW til nut is tight then back off a few hairs and snug-up nut. Turn wheel throughout range. You want no slop and no tightness. If too tight back-off. When feels good.<br />
+12. Tighten nut. I used a 1/4&quot;rachet with 3/8 adapter to 17mm socket.<br />
+13. Retest steering should be silky smooth - no slop.<br />
+14. If OK Replace top heat shield and bottom heat shield.<br />
+15. slowly lower middle jack making sure mounts(bolts) go into holes. Then replace mounting nuts<br />
+16. Replace both splash pans and re-connect battery,install seat bottom<br />
+<br />
+<br />
+<h3 class="showhide_heading" id="Replacement">Replacement</h3>
+<ul><li> 13, 17 and 19mm wrenches
+</li><li> Set of socket + extensions
+</li><li> New crush washers for the hoses.
+</li><li> Syringe + 1 quart of new <a title="power steering fluid" href="tiki-index.php?page=power+steering+fluid" class="wiki ">power steering fluid</a> (ATF or CHF)
+</li><li> Ramps
+</li></ul>
+<br />
+1. Drive the car up on ramps.<br />
+2. Remove the fluid out of the power steering reservoir with a syringe (don't re-use the old fluid). Place a pan under the steering pump to collect the fluid that is still in the hoses.<br />
+3. Loosen the 19mm and 22mm hoses banjo bolts with a ratchet+extension. Let the fluid drip in the pan then put the hoses aside. You may want to place some clean rags inside the holes or the steering box or you will experience a power steering fluid shower when removing the box.<br />
+4.Under the car, loosen the 17mm nut on the pitman arm or remove the center tie-rod nut and using a tie-rod puller (don't try with a pickle fork or you will damage the tie-rod boot).<br />
+5. Remove the tie-rod from the pitman arm.<br />
+6. Loosen the #5 horizontal 19mm nut and bolt. The trick is to slide a 19mm wrench from under the hood behind the steering box where the nut is. Then, under the car hold the wrench with your right hand and loosen the bolt with a ratchet in your left hand.<br />
+7. Loosen the #4 vertical 17mm nut and bolt.<br />
+8. The box is unbolted. Under the hood, push the universal joint on the steering column off of the steering box (don't worry, the steering column will go forward, it is a safely device).<br />
+9. Pull up the box while pushing down on the pitman arm to remove it.<br />
+10. Go back under the car and push the centerlink as far back as possible. Get the steering box out between the engine suspension crossmember and body. (If you cannot pull it out, you can loosen the bolt and nut and remove the idle arm, the center tie-rod will go far forward and the box will be very easy to remove).<br />
+<br />
+Installation is reverse of removal. If you disassembled the pitman arm from the steering box don't forget to align the marks when re-installing the pitman arm.<br />
+Fill up the reservoir and bleed the system by starting the engine then slowly turn the steering wheel from lock to lock two times.<br />
+Take your E34 for a drive and enjoy a tight steering. Readjust the steering box if necessary.<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Steering+box">http://www.bmwe34.net/Wiki/tiki-index.php?page=Steering+box</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325413952E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

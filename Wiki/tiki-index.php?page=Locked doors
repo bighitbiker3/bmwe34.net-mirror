@@ -1,0 +1,439 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+	Locked doors : BMW E34 Website 
+		</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page">
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="#tiki-center">Jump to Content</a></li>
+		</ul>
+
+
+
+
+
+	<div id="fixedwidth"> 
+		<div id="main">
+			<div class="clearfix" id="header">
+		
+				<div class="clearfix" id="siteheader">
+		
+
+
+
+
+<div id="header-top">
+
+<div id="login_search"><div class="wrapper"><div id="login_language"> | language</div></div></div>
+
+	
+		
+			<div class="clearfix" id="sioptions">
+																		<div id="sitelogo" class="floatright">
+					<a href="./" title="BMW E34 Website"><img src="styles/planetfall/header_bmw.jpg" alt="BMW E34 Website" /></a>				</div>
+					</div>
+	
+
+	
+
+	
+
+
+<!--[if IE]><br style="clear:both; height: 0" /><![endif]-->
+</div>
+
+<div class="clearfix" id="tiki-top">
+
+			
+			<ul id="cssmenu0" class="cssmenu_horiz menu43"><li class="option171 menuSection menuSection0 menuLevel0 selected"><a href="tiki-index.php"><span class="menuText">Home</span></a><ul><li class="option175 menuOption menuLevel1"><a href="tiki-index.php?page=How+to+contribute"><span class="menuText">How can I help</span></a></li><li class="option259 menuOption menuLevel1"><a href="http://www.bimmernut.com/forum/"><span class="menuText">E34 Forum</span></a></li></ul></li><li class="option172 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Maintenance"><span class="menuText">Maintenance</span></a><ul><li class="option176 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=AC+system"><span class="menuText">A/C system</span></a><ul><li class="option274 menuOption menuLevel2"><a href="AC+upgrade"><span class="menuText">AC upgrade</span></a></li><li class="option179 menuOption menuLevel2"><a href="Evaporator+exp+valve"><span class="menuText">Evaporator/exp valve</span></a></li><li class="option180 menuOption menuLevel2"><a href="Receiver+drier"><span class="menuText">Receiver drier</span></a></li><li class="option178 menuOption menuLevel2"><a href="AC+compressor"><span class="menuText">A/C compressor</span></a></li></ul></li><li class="option177 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Body"><span class="menuText">Body</span></a><ul><li class="option181 menuOption menuLevel2"><a href=""><span class="menuText">Door trims</span></a></li><li class="option182 menuOption menuLevel2"><a href=""><span class="menuText">Door removal</span></a></li><li class="option183 menuOption menuLevel2"><a href=""><span class="menuText">Grill removal</span></a></li><li class="option184 menuOption menuLevel2"><a href=""><span class="menuText">Sunroof</span></a></li><li class="option185 menuOption menuLevel2"><a href=""><span class="menuText">Window tracks</span></a></li></ul></li><li class="option186 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Brakes"><span class="menuText">Brakes</span></a></li><li class="option187 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=E34+Touring"><span class="menuText">E34 Touring</span></a></li><li class="option189 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Electrical"><span class="menuText">Electrical</span></a></li><li class="option188 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Engine"><span class="menuText">Engine</span></a></li><li class="option190 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=General+maintenance"><span class="menuText">General maintenance</span></a></li><li class="option191 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Interior"><span class="menuText">Interior</span></a></li><li class="option192 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Steering"><span class="menuText">Steering</span></a></li><li class="option193 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Suspension"><span class="menuText">Suspension</span></a></li><li class="option194 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Transmission"><span class="menuText">Transmission</span></a></li></ul></li><li class="option174 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Racing"><span class="menuText">Racing</span></a></li><li class="option195 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Troubleshooting"><span class="menuText">Troubleshooting</span></a><ul><li class="option196 menuOption menuLevel1"><a href=""><span class="menuText">535i hot start</span></a></li><li class="option197 menuOption menuLevel1"><a href=""><span class="menuText">Catalytic conv.</span></a></li><li class="option198 menuOption menuLevel1"><a href=""><span class="menuText">Engine codes</span></a></li><li class="option199 menuOption menuLevel1"><a href=""><span class="menuText">Engine diagnostic</span></a></li><li class="option200 menuOption menuLevel1"><a href=""><span class="menuText">Front noises</span></a></li><li class="option201 menuOption menuLevel1"><a href=""><span class="menuText">Headgasket</span></a></li><li class="option202 menuOption menuLevel1"><a href=""><span class="menuText">Hunting idle</span></a></li><li class="option203 menuOption menuLevel1"><a href=""><span class="menuText">Locked doors</span></a></li><li class="option204 menuOption menuLevel1"><a href=""><span class="menuText">Oil pressure</span></a></li><li class="option205 menuOption menuLevel1"><a href=""><span class="menuText">Overheating</span></a></li><li class="option206 menuOption menuLevel1"><a href=""><span class="menuText">Quick fixes</span></a></li><li class="option207 menuOption menuLevel1"><a href=""><span class="menuText">Steering play</span></a></li><li class="option208 menuOption menuLevel1"><a href=""><span class="menuText">Trans program</span></a></li><li class="option209 menuOption menuLevel1"><a href=""><span class="menuText">What will break</span></a></li></ul></li><li class="option173 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Upgrades"><span class="menuText">Upgrades</span></a></li></ul>
+
+	
+
+
+</div>
+
+				</div>
+			</div>
+			<div class="clearfix" id="middle">
+				<div class="clearfix nofullscreen" id="c1c2">
+					<div class="clearfix" id="wrapper">
+						<div id="col1" class=" marginright">
+
+	
+
+							<div id="tiki-center"  class="clearfix content">
+							 
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+		<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+			<div class="icons" style="float: left;">
+									<a title="Print" href="tiki-print.php?page=Locked%20doors"><img src="pics/icons/printer.png" alt="Print" width="16" height="16" border="0" title="Print" class="icon" /></a>
+	
+							</div><!-- END of icons -->
+
+	
+	
+			</div>
+		<br class="clear" style="clear: both" />
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Locked+doors">Locked doors</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="DEAD_BATTERY_DOOR_LOCKED">DEAD BATTERY DOOR LOCKED</h2>
+<br />
+A great thing with the Bmw E34/E32 is that it is almost impossible to open the doors without the key... But when your battery dies this feature might get you stuck outside of your car.<br />
+<div class="img" align="desc="This is for the driver door. The passenger door is the mirror image of the picture""><img alt="" src="../E34main/Trouble/Data/Lock.gif" border="0"  width="height=" /></div><br />
+<h3 class="showhide_heading" id="Unlocking_procedure:_Procedure_courtesy_of_quot_the_Master_quot_Bill_R._">Unlocking procedure: ( Procedure courtesy of &quot;the Master&quot; Bill R. )</h3>
+1. Insert the master key into the front right door.<br />
+2. Pull up the door handle.<br />
+3. Turn the key counterclockwise to emergency unlock position 1.<br />
+4. Open the door.<br />
+5. Close doors and turn the right front door lock to the synchronize position 5.<br />
+<br />
+This is for the driver door. The passenger door is the mirror image of the picture<br />
+<br />
+If you cannot do it, try Stewart Ebrat's trick taking the truck light bulb out and connecting the positive jumper cable to it. Now the car has power to open it.<br />
+<br />
+<h3 class="showhide_heading" id="Another_trick_from_Mike_S:">Another trick from Mike S:</h3>
+My wife has a 1991 525i. She had a dead battery, and the doors were locked. I did not know about the factory E34 unlock procedure. What I did was open the trunk lid, and take off the trunk light cover and light on the right side. With a voltmeter, I was able to sense enough voltage to tell what polarity each leg of the light was. I then carefully jumper clipped a 12VDC NiCad<a href="tiki-editpage.php?page=NiCad" title="Create page: NiCad" class="wiki wikinew">?</a> pack to the light socket, and was able to open the locks with the key (in the drivers door). The front right door in that car is a little screwy, so the normal procedure wouldn't have worked anyway.<br />
+I thought I would share this as I told it to a BMW mechanic friend of mine, and he said that in thirty years he had never heard that one.<br />
+<br />
+<h3 class="showhide_heading" id="Another_trick_from_Eric:">Another trick from Eric:</h3>
+My battery was to low to open the doors but it had just a little bit left for the alarm. the solution for me was:<br />
+First the thing you need:<br />
+- a second car or battery<br />
+- starting cable (booster cable)<br />
+- an extra hand<br />
+<br />
+Place the minus on the engine (crawl under the car). On the driver side is the alternator, take the rubber seeling of and place the plus on it. (same can be done with the starter)<br />
+Let the second person open the door.<br />
+<br />
+<h3 class="showhide_heading" id="Another_trick_from_Dan_S:">Another trick from Dan S:</h3>
+I recently had the battery on my 1989 535i (a five-speed manual) go flat while the doors were locked. All the resident $90 per hour geniuses said the driver's door would open manually. Wrong. A locksmith friend, whom I've seen pop a &quot;high-security&quot; Corvette lock in 25 seconds, worked on the BMW for half an hour and couldn't get it to open with a &quot;slim jim.&quot;<br />
+Unfortunately, I didn't see your site's contributor solution until some friends and I came up with our own, but I thought I'd pass it along. Credit goes to my gearhead buds down at Star Cycle (Ducks, old British crocks of any stripe, and enough Japanese chunks to clog up e-Bay for a year), Jimmy N. and Brian &quot;Cliffy&quot; A. One of those wits came up with the idea that I should jack up the car, and charge the battery using the positive cable on starter motor. It will handle a hell of a lot more current, safely, than the delicate trunk light circuit and I don't even want to think about going near a $550 BMW alternator and getting that crossed up.<br />
+<br />
+<h3 class="showhide_heading" id="How_To_Open_A_Deadbolted_Door:_Procedure_courtesy_of_Russell_Jones_">How To Open A Deadbolted Door: ( Procedure courtesy of Russell Jones )</h3>
+Just had a successful weekend regarding the locking on my 89 525 - where the rear door had deadlocked itself and wouldn't undo, so I was stuck with a door I couldn't open. As there were not too many ideas on this issue I thought I'd post the solution, in case anyone else has the same problem sometime.<br />
+<br />
+1. Take out the base of the back seat<br />
+2. Peel off the door seal from the inside and remove plastic trim fixed to the floor (held in by large trim clips)<br />
+3. Undo the 3 screws in the trim (1 in handle, 1 behind door operating handle and 1 behind ashtray) &amp; unscrew lock pin.<br />
+4. Pull the trim off at the top by the chrome trim, then using a long thin rod, pry out as many clips as you can down each side of the door.<br />
+5. Using a large screwdriver, push the cable end out of the door operating handle.<br />
+6. Open the window, and leaning in, grab the handle in one hand and the armrest bit in the other,, and pull the trim up and out. This will be a bit stiff but it will go eventually.<br />
+6. With the trim off, disconnect the window switch and take trim out of the car (wahey!)<br />
+7. You can now take out the offending lock solenoid using a 6mm ring spanner, and unlock the door.<br />
+My lock seemed to have corroded pins on the connection, so I cleaned these up and although I thought the solenoid was knackered, thankfully it seems to be working ok now.<br />
+<br />
+If you leave the solenoid disconnected (as I was going to do until I got a new one) the deadlocking and the alarm will not work. What I was going to do if it was dead, was connect the solenoid back up, but not connect it to the locking mechanism - and just mount it as far away as the drilled fixing holes will allow.<br />
+<br />
+Here's a simple fix from Neil on Vancouver Island:<br />
+My 90' 535i battery drained as I had been away for a while. There was no way the door would open with the key as specified, I guess this method needs a little power from the battery ?. I saw the previous posts about applying power through the licence plate bulb holder and also one about going in through the trunk so I opened the trunk with the key to have a look around. I noticed the trunk courtesy light and simply flicked it out of it's position with my fingernail, exposing the light fitting with two wires. I removed the lamp and measured the voltage across the terminals with a multimeter to check polarity and found the black/red stripe to be + ve. I simply attached my small trickle battery charger connections across the terminals with the lamp still removed and powered up the two lamp terminals (+ve on red black and -ve on the other. I also closed down the trunk lid so the circuit was not looking for any power, waited a few minutes and opened the door easily as the electrical system had picked up enough power. Within five minutes of opening the trunk I had solved the problem. Seemed like an easy solution to me.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+  Created by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Monday 07 of December, 2009 17:26:34 UTC by <span class='link'>3and5</span>. 
+
+
+  </p> 
+
+
+
+
+
+							</div>						</div>
+					</div>
+
+					<hr class="hidden" />
+					</div>
+					<div class="clearfix" id="col3">
+					<h2 class="hidden">Sidebar</h2>
+					<div class="content">
+					
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxr1" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+	<div class="box box-ApplicationMenu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
+
+<div id="Application Menu" style="display:block;">
+
+
+
+<div class="option selected"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Home</span></a></div>
+
+
+
+
+
+<div class="separator">
+			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
+									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
+						</a>
+	 
+<a href="tiki-index.php" class="separator">
+<span class="menuText">Wiki</span>
+</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Wiki Home</span></a></div>
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu"><span class="menuText">List Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu"><span class="menuText">Sandbox</span></a></div>
+
+
+
+	</div>
+
+
+<script type='text/javascript'>
+      			status = '';
+				setfolderstate('menu42__200', 'd', '', status);
+	              </script>
+
+</div>
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+			<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				setsectionstate('mod-ApplicationMenur2','o', 'module.png');
+//--><!]]>
+			</script>
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+
+	<div class="box box-admin_menu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Admin Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-admin_menur5" style="display: block" class="clearfix box-data">
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+							</div>
+				</div>
+				<br style="clear:both" />
+			<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+			</div>
+	
+		</div>	</div> 
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32540858E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+
+	</body>
+</html>

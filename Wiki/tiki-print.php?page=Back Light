@@ -1,0 +1,206 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Back Light 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Back+Light">Back Light</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="TOURING_BRAKE_LIGHT">TOURING BRAKE LIGHT</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight1.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Procedure and photos courtesy of Micah O'C</td></tr></table></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34 Touring</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$10</td></tr></table><br />
+<br />
+Bulbs don't last forever, at one point you will have to change one or several bulbs on your hatchback. The highmount (3rd) brakelight on the BMW E34 Touring wagon is a strip of 24 1.4 watt bulbs mounted in a plastic lens.<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li>Phillips and various flat screwdrivers.
+</li><li>Soldering iron.
+</li><li>Replacement bulb - PN 63 21 8 362 363 - 3.90 each at the dealer.
+</li></ul>
+<br />
+1. Before you do anything, identify the bad bulbs. You will (or at least should) have means to verify things later, but preparation is key.<br />
+2. Open the tailgate window and unscrew the 2 screws that hold the brakelight in the black spoiler at the top of the window. They are flat bladed screws.<br />
+3. Gently, and with a thin, taped-up flat screwdriver, pry the brakelight down and out of the spoiler. Work from one end, then the other, don't chip the window or the black spoiler.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight2.jpg" border="0"  width="height=" /></div><br />
+<br />
+4. Remove 5 small screws holding the back of the fixture to the lens, remove them carefully, don't break any plastic.<br />
+5. Pop the back of the fixture off the lens without damaging the foam seal, unplug the 2 wires from the back of the light strip, and retire to the workbench, inside, where it is warm, and there is beer.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight3.jpg" border="0"  width="height=" /></div><br />
+<br />
+6. Very gently, starting with a small screwdriver and graduating to larger ones as the gap increases, pry the lightbulb strip out of the lens housing. The strip is held in the lens by pressure on the bulbs, so you do NOT want to work anything too hard. Go slowly and gradually work the entire length of the strip out a bit at a time.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight4.jpg" border="0"  width="height=" /></div><br />
+<br />
+7.You should have some 12 volt DC power at your workstation so that you can test the fixture. Apply power to the fixture to verify which bulbs are bad.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight5.jpg" border="0"  width="height=" /></div><br />
+<br />
+8. Using the soldering iron, heat the old solder and remove the bad bulbs.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight6.jpg" border="0"  width="height=" /></div><br />
+<br />
+9. Solder in the new bulbs. Put power to the strip to test it, and repeat until you have light in all bulbs.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight7.jpg" border="0"  width="height=" /></div><br />
+<br />
+10. Apply a small amount of vaseline to all of the bulbs to ease reinsertion. Remember that the bulbs are what holds the bulb strip into the lens, and you do not want to put too much pressure on the bulbs or the wiring/solder during reinsertion.<br />
+11. Snap the bulb strip back into the lens housing, and test the fixture again. Repeat the steps above to replace any dead or broken bulbs.<br />
+12. Installation is reverse of removal.<br />
+<br />
+<h3 class="showhide_heading" id="Notes_from_Micah_personal_experience:">Notes from Micah personal experience:</h3>
+1) Working with plastic in the cold sucks. Try and keep the plastic parts warm, especially when you are screwing things back together or the brittle, cold stuff will break, and you will have to buy a whole new lens. This didn't happen to me, but I feared of it the entire time.<br />
+2) It is very important to have some 12V power at your workspace. Between removing the brakelight and taking everything apart, I had 2 more lights that would not light up at all, and 4 that became intermittent (they wouldn't light up, tap-tap, there they are!). I had bought 10 bulbs to replace what looked like 5 bad ones, and I am left with 2 that sort of come and go. This summer I will be buying another 15, and I will replace all of the ones I did NOT replace this first time around. You may want to spend the money and replace all of them at one shot. The time saved in testing will make up for the time spent in replacing bulbs.<br />
+<br />
+<h3 class="showhide_heading" id="Notes_from_George:">Notes from George:</h3>
+There were four bulbs not lit so I ordered replacements from a BMW dealer for $5.96 each. However, after removing the bad bulbs, I discovered that all my &quot;bad&quot; bulbs were actually good and the problem was in the soldered joints. I reinstalled the old bulbs and all is bright! If I had to do this again, I would check the bad bulbs first with a 12 volt source before ordering new ones.<br />
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/E34Touring/Data/backlight8.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">Micah O'C '92 525iT</td></tr></table></div><br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Back+Light">http://www.bmwe34.net/Wiki/tiki-index.php?page=Back+Light</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325418225E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

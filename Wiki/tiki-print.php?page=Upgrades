@@ -1,0 +1,207 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Upgrades 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Upgrades">Upgrades</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="UPGRADE"> UPGRADE</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Upgrade/Data/E34_Upgrade.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+We all want to be different. From the way we drive to the comfort we like, there is plenty of parts out there to upgrade your Bmw E34 the way you like it.<br />
+<br />
+Your only limits are: Good taste and... hummm Money off course.<br />
+<br />
+<ul><li><a title="540i ducts" href="tiki-index.php?page=540i+ducts" class="wiki ">540i ducts</a>
+</li><li><a title="9005 Conversion" href="tiki-index.php?page=9005+Conversion" class="wiki ">9005 Conversion</a>
+</li><li><a title="AC upgrade" href="tiki-index.php?page=AC+upgrade" class="wiki ">AC upgrade</a>
+</li><li><a title="Air filter" href="tiki-index.php?page=Air+filter" class="wiki ">Air filter</a>
+</li><li><a title="Body upgrades" href="tiki-index.php?page=Body+upgrades" class="wiki ">Body upgrades</a>
+</li><li><a title="Brake upgrades" href="tiki-index.php?page=Brake+upgrades" class="wiki ">Brake upgrades</a>
+</li><li><a title="Brakes 850i" href="tiki-index.php?page=Brakes+850i" class="wiki ">Brakes 850i</a>
+</li><li><a title="DTM tips" href="tiki-index.php?page=DTM+tips" class="wiki ">DTM tips</a>
+</li><li><a title="Electrical fan" href="tiki-index.php?page=Electrical+fan" class="wiki ">Electrical fan</a>
+</li><li><a title="Euro lights" href="tiki-index.php?page=Euro+lights" class="wiki ">Euro lights</a>
+</li><li><a class="wiki"  href="http://http://www.bmwe34.net/Wiki/tiki-index.php?page=Exhasut" rel="">Exhaust</a>
+</li><li><a title="Gauges" href="tiki-index.php?page=Gauges" class="wiki ">Gauges</a>
+</li><li><a title="Headers" href="tiki-index.php?page=Headers" class="wiki ">Headers</a>
+</li><li><a title="Headrest" href="tiki-index.php?page=Headrest" class="wiki ">Headrest</a>
+</li><li><a title="Heated Seat install" href="tiki-index.php?page=Heated+Seat+install" class="wiki ">Heated Seat install</a>
+</li><li>HID lights<a href="tiki-editpage.php?page=HID+lights" title="Create page: HID+lights" class="wiki wikinew">?</a>
+</li><li><a title="Keyless entry" href="tiki-index.php?page=Keyless+entry" class="wiki ">Keyless entry</a>
+</li><li><a title="OBC" href="tiki-index.php?page=OBC" class="wiki ">OBC</a>
+</li><li><a title="Paint calipers" href="tiki-index.php?page=Paint+calipers" class="wiki ">Paint calipers</a>
+</li><li><a title="Performance chip" href="tiki-index.php?page=Performance+chip" class="wiki ">Performance chip</a>
+</li><li>Pressure bleeder<a href="tiki-editpage.php?page=Pressure+bleeder" title="Create page: Pressure+bleeder" class="wiki wikinew">?</a>
+</li><li><a title="Park distance control install" href="tiki-index.php?page=Park+distance+control+install" class="wiki ">Park distance control install</a>
+</li><li>Protective covers<a href="tiki-editpage.php?page=Protective+covers" title="Create page: Protective+covers" class="wiki wikinew">?</a>
+</li><li><a title="Rear Foglights" href="tiki-index.php?page=Rear+Foglights" class="wiki ">Rear Foglights</a>
+</li><li>Recipe for power<a href="tiki-editpage.php?page=Recipe+for+power" title="Create page: Recipe+for+power" class="wiki wikinew">?</a>
+</li><li>Speakers<a href="tiki-editpage.php?page=Speakers" title="Create page: Speakers" class="wiki wikinew">?</a>
+</li><li><a title="Steering wheel" href="tiki-index.php?page=Steering+wheel" class="wiki ">Steering wheel</a>
+</li><li>Stereo<a href="tiki-editpage.php?page=Stereo" title="Create page: Stereo" class="wiki wikinew">?</a>
+</li><li>Radio<a href="tiki-editpage.php?page=Radio" title="Create page: Radio" class="wiki wikinew">?</a>
+</li><li>Subwoofer<a href="tiki-editpage.php?page=Subwoofer" title="Create page: Subwoofer" class="wiki wikinew">?</a>
+</li><li>Stereo wiring<a href="tiki-editpage.php?page=Stereo+wiring" title="Create page: Stereo+wiring" class="wiki wikinew">?</a>
+</li><li>Subframe inserts<a href="tiki-editpage.php?page=Subframe+inserts" title="Create page: Subframe+inserts" class="wiki wikinew">?</a>
+</li><li>Suspension upgrade<a href="tiki-editpage.php?page=Suspension+upgrade" title="Create page: Suspension+upgrade" class="wiki wikinew">?</a>
+</li><li>Sway bars<a href="tiki-editpage.php?page=Sway+bars" title="Create page: Sway+bars" class="wiki wikinew">?</a>
+</li><li>Tail lights<a href="tiki-editpage.php?page=Tail+lights" title="Create page: Tail+lights" class="wiki wikinew">?</a>
+</li><li>Ventilation<a href="tiki-editpage.php?page=Ventilation" title="Create page: Ventilation" class="wiki wikinew">?</a>
+</li><li><a title="Wheels" href="tiki-index.php?page=Wheels" class="wiki ">Wheels</a>
+</li><li><a title="Wider Grill" href="tiki-index.php?page=Wider+Grill" class="wiki ">Wider Grill</a>
+</li></ul>
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Upgrades">http://www.bmwe34.net/Wiki/tiki-index.php?page=Upgrades</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325403785E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

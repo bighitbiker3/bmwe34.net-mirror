@@ -1,0 +1,449 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+	Headers : BMW E34 Website 
+		</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page">
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="#tiki-center">Jump to Content</a></li>
+		</ul>
+
+
+
+
+
+	<div id="fixedwidth"> 
+		<div id="main">
+			<div class="clearfix" id="header">
+		
+				<div class="clearfix" id="siteheader">
+		
+
+
+
+
+<div id="header-top">
+
+<div id="login_search"><div class="wrapper"><div id="login_language"> | language</div></div></div>
+
+	
+		
+			<div class="clearfix" id="sioptions">
+																		<div id="sitelogo" class="floatright">
+					<a href="./" title="BMW E34 Website"><img src="styles/planetfall/header_bmw.jpg" alt="BMW E34 Website" /></a>				</div>
+					</div>
+	
+
+	
+
+	
+
+
+<!--[if IE]><br style="clear:both; height: 0" /><![endif]-->
+</div>
+
+<div class="clearfix" id="tiki-top">
+
+			
+			<ul id="cssmenu0" class="cssmenu_horiz menu43"><li class="option171 menuSection menuSection0 menuLevel0 selected"><a href="tiki-index.php"><span class="menuText">Home</span></a><ul><li class="option175 menuOption menuLevel1"><a href="tiki-index.php?page=How+to+contribute"><span class="menuText">How can I help</span></a></li><li class="option259 menuOption menuLevel1"><a href="http://www.bimmernut.com/forum/"><span class="menuText">E34 Forum</span></a></li></ul></li><li class="option172 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Maintenance"><span class="menuText">Maintenance</span></a><ul><li class="option176 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=AC+system"><span class="menuText">A/C system</span></a><ul><li class="option274 menuOption menuLevel2"><a href="AC+upgrade"><span class="menuText">AC upgrade</span></a></li><li class="option179 menuOption menuLevel2"><a href="Evaporator+exp+valve"><span class="menuText">Evaporator/exp valve</span></a></li><li class="option180 menuOption menuLevel2"><a href="Receiver+drier"><span class="menuText">Receiver drier</span></a></li><li class="option178 menuOption menuLevel2"><a href="AC+compressor"><span class="menuText">A/C compressor</span></a></li></ul></li><li class="option177 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Body"><span class="menuText">Body</span></a><ul><li class="option181 menuOption menuLevel2"><a href=""><span class="menuText">Door trims</span></a></li><li class="option182 menuOption menuLevel2"><a href=""><span class="menuText">Door removal</span></a></li><li class="option183 menuOption menuLevel2"><a href=""><span class="menuText">Grill removal</span></a></li><li class="option184 menuOption menuLevel2"><a href=""><span class="menuText">Sunroof</span></a></li><li class="option185 menuOption menuLevel2"><a href=""><span class="menuText">Window tracks</span></a></li></ul></li><li class="option186 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Brakes"><span class="menuText">Brakes</span></a></li><li class="option187 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=E34+Touring"><span class="menuText">E34 Touring</span></a></li><li class="option189 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Electrical"><span class="menuText">Electrical</span></a></li><li class="option188 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Engine"><span class="menuText">Engine</span></a></li><li class="option190 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=General+maintenance"><span class="menuText">General maintenance</span></a></li><li class="option191 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Interior"><span class="menuText">Interior</span></a></li><li class="option192 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Steering"><span class="menuText">Steering</span></a></li><li class="option193 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Suspension"><span class="menuText">Suspension</span></a></li><li class="option194 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Transmission"><span class="menuText">Transmission</span></a></li></ul></li><li class="option174 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Racing"><span class="menuText">Racing</span></a></li><li class="option195 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Troubleshooting"><span class="menuText">Troubleshooting</span></a><ul><li class="option196 menuOption menuLevel1"><a href=""><span class="menuText">535i hot start</span></a></li><li class="option197 menuOption menuLevel1"><a href=""><span class="menuText">Catalytic conv.</span></a></li><li class="option198 menuOption menuLevel1"><a href=""><span class="menuText">Engine codes</span></a></li><li class="option199 menuOption menuLevel1"><a href=""><span class="menuText">Engine diagnostic</span></a></li><li class="option200 menuOption menuLevel1"><a href=""><span class="menuText">Front noises</span></a></li><li class="option201 menuOption menuLevel1"><a href=""><span class="menuText">Headgasket</span></a></li><li class="option202 menuOption menuLevel1"><a href=""><span class="menuText">Hunting idle</span></a></li><li class="option203 menuOption menuLevel1"><a href=""><span class="menuText">Locked doors</span></a></li><li class="option204 menuOption menuLevel1"><a href=""><span class="menuText">Oil pressure</span></a></li><li class="option205 menuOption menuLevel1"><a href=""><span class="menuText">Overheating</span></a></li><li class="option206 menuOption menuLevel1"><a href=""><span class="menuText">Quick fixes</span></a></li><li class="option207 menuOption menuLevel1"><a href=""><span class="menuText">Steering play</span></a></li><li class="option208 menuOption menuLevel1"><a href=""><span class="menuText">Trans program</span></a></li><li class="option209 menuOption menuLevel1"><a href=""><span class="menuText">What will break</span></a></li></ul></li><li class="option173 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Upgrades"><span class="menuText">Upgrades</span></a></li></ul>
+
+	
+
+
+</div>
+
+				</div>
+			</div>
+			<div class="clearfix" id="middle">
+				<div class="clearfix nofullscreen" id="c1c2">
+					<div class="clearfix" id="wrapper">
+						<div id="col1" class=" marginright">
+
+	
+
+							<div id="tiki-center"  class="clearfix content">
+							 
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+		<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+			<div class="icons" style="float: left;">
+									<a title="Print" href="tiki-print.php?page=Headers"><img src="pics/icons/printer.png" alt="Print" width="16" height="16" border="0" title="Print" class="icon" /></a>
+	
+							</div><!-- END of icons -->
+
+	
+	
+			</div>
+		<br class="clear" style="clear: both" />
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Headers">Headers</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_HEADERS_INSTALLATION">BMW HEADERS INSTALLATION</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Other/Misc/headers.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >300 - 1000</td></tr></table><br />
+<br />
+You now know everything about exhaust and understand that there is a couple of HP to gain by installing a set of headers (more with a turbo of NOS). Let me guide you in the installation of Racing Dynamics headers in a Bmw E34.<br />
+You now know everything about exhaust and understand that there is a couple of HP to gain by installing a set of headers. And you really feel them (more with a turbo of NOS). Let me guide you in the installation of Racing Dynamics headers in a Bmw E34.<br />
+<br />
+<h3 class="showhide_heading" id="Coating_procedure:">Coating procedure:</h3>
+You can send your headers to a coating shop to have them coated inside and out. The cost will be around $300 - $450.<br />
+Or you can buy black satin that will reduce the heat radiated by the headers. (They have more surface than the original manifolds and generate a lot of heat. And you want to keep the head down in the engine compartment and near the A/C lines).<br />
+I Sand them with 200 grid sand paper then cleaned them and had them coated at my favorite bodyshop. The only problem is that before they are cured on the car, they are a little bit sticky.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD1.jpg" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+• Welding equipment (MIG) or an exhaust shop.<br />
+• Pipe enlarger or (much better as this is thick stainless) get a muffler shop to flange the RD tubes, exactly to fit it's diameter.<br />
+• 13mm socket and close end wrench.<br />
+• 4 x M8x55 (or M8x60) bolts and M8 nuts.<br />
+• 2 New exhaust manifold gaskets and the two catalytic conv. gaskets (2 different sizes).<br />
+• 12 new exhaust bolts (cooper ones) depending on the shape of yours.<br />
+<br />
+1- Lift the front and back of the car and put it on jack stands (a lift will be perfect). You will have more space to work underneath. Spray a lot of WD 40 on the exhaust manifold bolts and catalytic converter junction bolts.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD2.jpg" border="0"  width="height=" /></div><br />
+<br />
+2. Disconnect the O2 sensor and remove the protective rail (2x 10mm bolts) if equipped.<br />
+<br />
+3. Don't remove the exhaust manifold now. Remove the bolts out of the junction between the catalytic converter and the resonator. They might be completely rusted, in this case use a hacksaw and cut the bolts out.<br />
+<br />
+4. Remove the connection between the back of the catalytic converter and the resonator (4x13mm bolts... at least they were when the car was new).<br />
+If the bolts are too rusty, cut them with a saw as you won't reuse them. Clean all the rust from the holes to be able to fit the new screws.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD3.jpg" border="0"  width="height=" /></div><br />
+<br />
+5. Disconnect the connection between the two exhaust tubes and the exhaust manifold. Cut them if the bolts are too rusty as you will not reuse them again.<br />
+<br />
+6. Remove the 12 bolts out of the old exhaust manifold. Don't worry if you remove the studs with the bolts, studs can be purchased in any auto store. If you break one... that's another story. (I broke one but I was removing the cylinder head)<br />
+<br />
+7. Remove the old exhaust manifolds. You can sell them on ebay for around $0.50ea.<br />
+<br />
+8. Time to remove the catalytic converter.<br />
+Place a big cardboard box or something to hold the catalytic converter, you DON'T want to drop it as it is fragile.<br />
+Remove the connection between the front of the catalytic converter and the frame (depending on the model). (The connection is different between automatic and 5 speed).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD4.jpg" border="0"  width="height=" /></div><br />
+<br />
+9. Make sure there is something or someone to hold the catalytic conv. Pull on it to disconnect it from the resonator then take it out. You can now remove the O2 sensor with an O2 sensor socket.<br />
+<br />
+10. Time to cut the catalytic converter tubes to fit the RD header tubes.<br />
+Don't follow this picture, the small tube is placed on top and the longer one on the bottom. You want to (as on the picture) place the RD tube (the black one on the the pic) next to the catalytic converter tube, both lining up at the angle (red line). Cut 1cm (1/3&quot;) before the RD tube flange. (Green line). Repeat the same with the other tube.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD5.jpg" border="0"  width="height=" /></div><br />
+<br />
+11. Now the fun part. Install both headers on the car. Follow the top pictures to see which one is the right and the left one. (It is a little bit tricky to install the left one, but you will figure it out).<br />
+Install new bolts if yours look rusted. Don't forget to install the headers' gasket.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD6.jpg" border="0"  width="height=" /></div><br />
+Isn't my engine clean? I should say: Gordon's clean.<br />
+<br />
+12. Slide the RD tubes into the cat tubes, install the O2 sensor back into the cat. Slide the cat back under the car and with some help, install it back. Install the bolt connecting the cat. to the frame. Install the 4 bolts connecting the RD headers to the RD tubes. Don't tighten the tubes bolts too much. Install the O2 sensor rail back and connect the O2 sensor plug.<br />
+If you coated your headers with black satin, let the car run for 30min at least the hood open. The heat from the headers will cure the coat. Don't worry if smoke is coming out of the engine compartment.<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+  Created by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Sunday 14 of September, 2008 00:52:57 UTC by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>. 
+
+
+  </p> 
+
+
+
+
+
+							</div>						</div>
+					</div>
+
+					<hr class="hidden" />
+					</div>
+					<div class="clearfix" id="col3">
+					<h2 class="hidden">Sidebar</h2>
+					<div class="content">
+					
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxr1" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+	<div class="box box-ApplicationMenu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
+
+<div id="Application Menu" style="display:block;">
+
+
+
+<div class="option selected"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Home</span></a></div>
+
+
+
+
+
+<div class="separator">
+			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
+									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
+						</a>
+	 
+<a href="tiki-index.php" class="separator">
+<span class="menuText">Wiki</span>
+</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Wiki Home</span></a></div>
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu"><span class="menuText">List Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu"><span class="menuText">Sandbox</span></a></div>
+
+
+
+	</div>
+
+
+<script type='text/javascript'>
+      			status = '';
+				setfolderstate('menu42__200', 'd', '', status);
+	              </script>
+
+</div>
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+			<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				setsectionstate('mod-ApplicationMenur2','o', 'module.png');
+//--><!]]>
+			</script>
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+
+	<div class="box box-admin_menu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Admin Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-admin_menur5" style="display: block" class="clearfix box-data">
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+							</div>
+				</div>
+				<br style="clear:both" />
+			<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+			</div>
+	
+		</div>	</div> 
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325404235E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+
+	</body>
+</html>

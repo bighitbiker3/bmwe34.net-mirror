@@ -1,0 +1,208 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		V belts 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=V+belts">V belts</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="V_BELTS">V-BELTS</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/vbeltv.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$10-25</td></tr></table><br />
+<br />
+If a V-belt is full of tiny cracks, frayed, has pieces of rubber missing, is peeling or otherwise damaged, it needs to be replaced &mdash; NOW. Also, if a belt is oil soaked or &quot;glazed&quot; (hard shiny appearance on the sides of the belt) it also needs to be replaced. Either of these two conditions can cause the belt to run hot, which can weaken it and increase the danger of it breaking.<br />
+<br />
+One of the most important factors that affects belt life is making sure it is properly tensioned when it is installed and that the proper tension is maintained throughout its service life.<br />
+<br />
+<h3 class="showhide_heading" id="Symptoms_of_improper_belt_tension_include:">Symptoms of improper belt tension include:</h3>
+<ul><li> Belt squeal.
+</li><li> Excessive sidewall wear on a V-belt.
+</li><li> Severe cracking along the underside of a V-belt.
+</li><li> Noisy alternator, power steering pump or A/C compressor bearings (from excessive belt tension).
+</li></ul>
+<br />
+When installing a new belt, do not attempt to &quot;stretch&quot; it over pulleys. Doing so can break the internal cords causing the belt to fail. Always loosen the pulleys so there is adequate clearance to slip the belt over the pulleys.<br />
+<br />
+<h3 class="showhide_heading" id="M20_525i_amp_535i_Procedure">M20 525i &amp; 535i Procedure</h3>
+<ul><li>BMW M20 &amp; M30 engines have 3 v-belts (you should change all of them at the same time)
+</li></ul>
+<br />
+1. Place the front of the car on ramps.<br />
+2. Loosen the mounting bolts and remove the old belt by slipping it over the pulley (you may have to remove other belts to get to the one you want to change).<br />
+3. Use the old belt to check if the new one is the right one.<br />
+4. Put the new belt in place.<br />
+5. Tighten the mounting bolts and adjust the tension of the belt with the toothed-rack nut.<br />
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/vbelt.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<h3 class="showhide_heading" id="M50_M60_belt">M50 - M60 belt</h3>
+BMW M50 &amp; M60 engines have a single serpentine belt, tension is usually self-adjusted automatically via a spring loaded tensioner. No additional adjustment is necessary.<br />
+<br />
+<h3 class="showhide_heading" id="M50_525i_Procedure">M50 525i Procedure</h3>
+8mm hex socket + ratchet<br />
+<br />
+1. Remove the cover from the front of the belt tensioner.<br />
+2. Use the allen socket and the ratchet (turning clockwise) to relieve the tension on the belt.<br />
+3. Install the new belt and the dust cover.<br />
+<br />
+<strong>A different solution from Jason P.</strong>: I decided to try a different wheel then the one you specified on your website. The wheel directly below the wheel with the one with the dust cover is the tensioner. Of course each wheel may have a dust cover and mine may have fallen off. But there are two belts and both have spring tensioners. First the small belt must be removed then the larger one. When turning the appropriate bolt on the tensioner they were very easy to turn (counterclockwise) so if you are struggling then it is very possible you are trying to turn the wrong one. The smaller belt tensioner requires i think a 13mm wrench and the larger belt tensioner requires i think a 15mm wrench.<br />
+<br />
+<h3 class="showhide_heading" id="i_540i_Procedure">530i - 540i Procedure</h3>
+1. Loosen the belt tensioner mounting bolts.<br />
+2. Use an open end wrench to rotate the tensioner counterclockwise and tighten the mounting bolts to hold the tensioner in that position..<br />
+3. Remove the belt and install the new one.<br />
+4. Installation is the reverse of removal.<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=V+belts">http://www.bmwe34.net/Wiki/tiki-index.php?page=V+belts</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325424542E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

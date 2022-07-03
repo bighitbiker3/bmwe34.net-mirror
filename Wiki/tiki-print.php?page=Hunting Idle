@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Hunting Idle 
 				: BMW E34 Website  
 			</title>
 
@@ -114,30 +114,37 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Hunting+Idle">Hunting Idle</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="BMW_HUNTING_IDLE">BMW HUNTING IDLE</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+A major problem with the Bmw E34 especially the M30 3.5l out of the 535i: erratic idle.<br />
+Don't expect your M30 to idle like a new car, but here is some tips to improve it:<br />
+Check list from the less expensive to the more. Start by pouring some injector cleaner in at least two tanks of fuel.<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<h3 class="showhide_heading" id="Air_intake_leak:">Air intake leak:</h3>
+A leak in the intake or vacuum leaks (check the dipsick o-ring seal and oil filter seal) will make your car idle roughly.<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Valve_setting:">Valve setting:</h3>
+If you didn't adjust your valve lately, check your <a title="Valve adjustment" href="tiki-index.php?page=Valve+adjustment" class="wiki ">Valve adjustment</a>.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="Spark_plugs:">Spark plugs:</h3>
+Old spark plugs will make your car idle and run rough. Change them, good time to try those expensive Bosch platinum +4. Some owner use a slightly greater clearance: set them slightly larger to 0.86-0.91mm (0.034-0.036in) to help improve the idle with the stock plugs.<br />
 <br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="Distributor_cap_and_rotor:">Distributor cap and rotor:</h3>
+After a lot of miles (or km) your rotor and cap will be sad looking or cracked, check for yourself.<br />
+<br />
+<h3 class="showhide_heading" id="Ignition_wires:">Ignition wires:</h3>
+Check the ignition wire resistance with a multi-meter, it should be around 0 Ohm.<br />
+<br />
+<h3 class="showhide_heading" id="Idle_Control_Valve_ICV_:">Idle Control Valve (ICV):</h3>
+This expensive part gets dirty. You should clean it (along with the throttle body) each time you adjust your valves with carburator cleaner. If there is no improvement and your ICV had never been changed (there is sometimes a year stamped onto the casting), change it.<br />
+<br />
+Other considerations are: leaking injector, faulty temperature sensor, faulty oxygen sensor, check all electrical connections.<br />
+<br />
 
 
 
@@ -150,7 +157,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Hunting+Idle">http://www.bmwe34.net/Wiki/tiki-index.php?page=Hunting+Idle</a>
 
   </p> 
 
@@ -170,7 +177,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325423894E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

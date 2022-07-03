@@ -1,0 +1,497 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+	Overheating : BMW E34 Website 
+		</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page">
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="#tiki-center">Jump to Content</a></li>
+		</ul>
+
+
+
+
+
+	<div id="fixedwidth"> 
+		<div id="main">
+			<div class="clearfix" id="header">
+		
+				<div class="clearfix" id="siteheader">
+		
+
+
+
+
+<div id="header-top">
+
+<div id="login_search"><div class="wrapper"><div id="login_language"> | language</div></div></div>
+
+	
+		
+			<div class="clearfix" id="sioptions">
+																		<div id="sitelogo" class="floatright">
+					<a href="./" title="BMW E34 Website"><img src="styles/planetfall/header_bmw.jpg" alt="BMW E34 Website" /></a>				</div>
+					</div>
+	
+
+	
+
+	
+
+
+<!--[if IE]><br style="clear:both; height: 0" /><![endif]-->
+</div>
+
+<div class="clearfix" id="tiki-top">
+
+			
+			<ul id="cssmenu0" class="cssmenu_horiz menu43"><li class="option171 menuSection menuSection0 menuLevel0 selected"><a href="tiki-index.php"><span class="menuText">Home</span></a><ul><li class="option175 menuOption menuLevel1"><a href="tiki-index.php?page=How+to+contribute"><span class="menuText">How can I help</span></a></li><li class="option259 menuOption menuLevel1"><a href="http://www.bimmernut.com/forum/"><span class="menuText">E34 Forum</span></a></li></ul></li><li class="option172 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Maintenance"><span class="menuText">Maintenance</span></a><ul><li class="option176 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=AC+system"><span class="menuText">A/C system</span></a><ul><li class="option274 menuOption menuLevel2"><a href="AC+upgrade"><span class="menuText">AC upgrade</span></a></li><li class="option179 menuOption menuLevel2"><a href="Evaporator+exp+valve"><span class="menuText">Evaporator/exp valve</span></a></li><li class="option180 menuOption menuLevel2"><a href="Receiver+drier"><span class="menuText">Receiver drier</span></a></li><li class="option178 menuOption menuLevel2"><a href="AC+compressor"><span class="menuText">A/C compressor</span></a></li></ul></li><li class="option177 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Body"><span class="menuText">Body</span></a><ul><li class="option181 menuOption menuLevel2"><a href=""><span class="menuText">Door trims</span></a></li><li class="option182 menuOption menuLevel2"><a href=""><span class="menuText">Door removal</span></a></li><li class="option183 menuOption menuLevel2"><a href=""><span class="menuText">Grill removal</span></a></li><li class="option184 menuOption menuLevel2"><a href=""><span class="menuText">Sunroof</span></a></li><li class="option185 menuOption menuLevel2"><a href=""><span class="menuText">Window tracks</span></a></li></ul></li><li class="option186 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Brakes"><span class="menuText">Brakes</span></a></li><li class="option187 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=E34+Touring"><span class="menuText">E34 Touring</span></a></li><li class="option189 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Electrical"><span class="menuText">Electrical</span></a></li><li class="option188 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Engine"><span class="menuText">Engine</span></a></li><li class="option190 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=General+maintenance"><span class="menuText">General maintenance</span></a></li><li class="option191 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Interior"><span class="menuText">Interior</span></a></li><li class="option192 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Steering"><span class="menuText">Steering</span></a></li><li class="option193 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Suspension"><span class="menuText">Suspension</span></a></li><li class="option194 menuSection menuSection1 menuLevel1"><a href="tiki-index.php?page=Transmission"><span class="menuText">Transmission</span></a></li></ul></li><li class="option174 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Racing"><span class="menuText">Racing</span></a></li><li class="option195 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Troubleshooting"><span class="menuText">Troubleshooting</span></a><ul><li class="option196 menuOption menuLevel1"><a href=""><span class="menuText">535i hot start</span></a></li><li class="option197 menuOption menuLevel1"><a href=""><span class="menuText">Catalytic conv.</span></a></li><li class="option198 menuOption menuLevel1"><a href=""><span class="menuText">Engine codes</span></a></li><li class="option199 menuOption menuLevel1"><a href=""><span class="menuText">Engine diagnostic</span></a></li><li class="option200 menuOption menuLevel1"><a href=""><span class="menuText">Front noises</span></a></li><li class="option201 menuOption menuLevel1"><a href=""><span class="menuText">Headgasket</span></a></li><li class="option202 menuOption menuLevel1"><a href=""><span class="menuText">Hunting idle</span></a></li><li class="option203 menuOption menuLevel1"><a href=""><span class="menuText">Locked doors</span></a></li><li class="option204 menuOption menuLevel1"><a href=""><span class="menuText">Oil pressure</span></a></li><li class="option205 menuOption menuLevel1"><a href=""><span class="menuText">Overheating</span></a></li><li class="option206 menuOption menuLevel1"><a href=""><span class="menuText">Quick fixes</span></a></li><li class="option207 menuOption menuLevel1"><a href=""><span class="menuText">Steering play</span></a></li><li class="option208 menuOption menuLevel1"><a href=""><span class="menuText">Trans program</span></a></li><li class="option209 menuOption menuLevel1"><a href=""><span class="menuText">What will break</span></a></li></ul></li><li class="option173 menuSection menuSection0 menuLevel0"><a href="tiki-index.php?page=Upgrades"><span class="menuText">Upgrades</span></a></li></ul>
+
+	
+
+
+</div>
+
+				</div>
+			</div>
+			<div class="clearfix" id="middle">
+				<div class="clearfix nofullscreen" id="c1c2">
+					<div class="clearfix" id="wrapper">
+						<div id="col1" class=" marginright">
+
+	
+
+							<div id="tiki-center"  class="clearfix content">
+							 
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+		<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+			<div class="icons" style="float: left;">
+									<a title="Print" href="tiki-print.php?page=Overheating"><img src="pics/icons/printer.png" alt="Print" width="16" height="16" border="0" title="Print" class="icon" /></a>
+	
+							</div><!-- END of icons -->
+
+	
+	
+			</div>
+		<br class="clear" style="clear: both" />
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Overheating">Overheating</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="OVERHEATING_PROBLEMS">OVERHEATING PROBLEMS</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Trouble/Data/gauge.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=../E34main/Trouble/Data/gauge_overheat.jpg</td></tr></table></div><br />
+<br />
+A major problem with the Bmw E34/E32 especially the BMW M30 3.5l out of the 535i: overheating.<br />
+Don't expect the headgasket to last long in these conditions.<br />
+The temperature needle should be at the 1/2 mark all the time. If the needle is near the 3/4 mark or red area, you have an overheating problem, fix it soon.<br />
+<br />
+On the BMW E34 525i 92 on and the E36 325i/is with M50 engine, the engines were fitted with plastic impellers waterpumps. These waterpumps fails, the impeller desintegrates and you are left with no waterpump at all... the engine overheats. You need to check that you have a waterpump with metal impeller. Change your waterpump ASAP if yours has a plastic impeller.<br />
+<br />
+<h3 class="showhide_heading" id="Understanding_the_cooling_system:">Understanding the cooling system:</h3>
+• The waterpump (centrifugal type) is driven by a belt. It allows the coolant to circulate.<br />
+• The thermostat controls the coolant flow into the radiator. Closed when the engine is cold (nothing goes in the radiator, open when the engine gets warm to flow the coolant inside the radiator and cool it down.<br />
+• The primary coolant fan is mounted to the front of the waterpump with the fan clutch.<br />
+• The fan clutch is a viscous fluid type that control the speed of the fan based on engine compartment.<br />
+• A two speed auxiliary cooling fan is mounted in front of the condenser. It is uses when the A/C operates and when coolant temperature exceeds 196F (91C)<br />
+• The fan shroud is also an important item not to overlook: the presence of a shroud, with about 1/2&quot; to 3/4&quot; clearance between the tips of the fan blades &amp; the shroud opening, and the fan inserted about 1/2 way into the shroud opening is essential for efficient cooling performance.<br />
+<br />
+First: make sure that your radiator is in good condition, check the belts, the hoses and the coolant level. Make sure that there is no coolant leaks. Check the condition of the shroud for cracks &amp; its proper installation.<br />
+<br />
+<strong>Car fluid or coolant circuit element just changed:</strong><br />
+Your overheating is probably due to air trapped into the coolant circuit. Use the bleed screw to bleed the circuit. Then bleed again, again, again and again.<br />
+<br />
+<strong>Nothing had been changed, car is overheating while idling or heavy traffic:</strong><br />
+1. Check that the thermostat works and opens.<br />
+2. Check the fan clutch.<br />
+<br />
+<strong>Car overheating while driving. Not stop and go.</strong><br />
+1. Bleed the cooling circuit.<br />
+2. Check the thermostat.<br />
+3. Check the water pump.<br />
+4. On the 535i, check the bypass hose located and attached just above the upper hose neck on radiator and runs along the inner walls to the Resivior tank. If it is plugged, the car will overheat.<br />
+<br />
+<strong>Overheating with A/C on, or very high temperature only.</strong><br />
+1. Check that the auxiliary fan is working properly(Bentley manual page 170-4).<br />
+2. Check the fan clutch.<br />
+<br />
+<h2 class="showhide_heading" id="How_to_check_the_thermostat:">How to check the thermostat:</h2>
+A slow working thermostat is hard to diagnose. When the engine is warming up and the temperature needle is near center, touch the top radiator hose. If hot, the thermostat is working (could still be a slow one). If there is cold area in the hose or radiator, check the thermostat.<br />
+<br />
+<h2 class="showhide_heading" id="How_to_test_the_fan_clutch:">How to test the fan clutch:</h2>
+Sorry guys, the newspaper test is not reliable. If the thermostat doesn't work or is slow moving, the fan clutch will fail the newspaper test and will spin freely don't even bother explaining how it is done as it is dangerous.<br />
+What you should do:<br />
+1) make sure that the thermostat is working!<br />
+2) when the car is cold, the fan clutch should turn with a small resistance and not spin freely.<br />
+3) Let the car idling and the hood not closed but down. After 5-10 min, the temperature will rise at the 1/2 mark, check that the fan is blowing a LOT of air inside the engine compartment and increase in noise level, no need to put your hands, you will feel it. If when the temperature hits the 3/4 mark, the fan is not blowing a lot of air, that means that: either the thermostat is not working or slow, or the fan clutch is bad.<br />
+<br />
+<strong>Bypass hose modification: (Thanks to Dave Smith) </strong><br />
+Dave enlarged the hole on the end of the pipe from the radiator to the expansion tank.<br />
+<table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Trouble/Data/Overheating.jpg" border="0"  width="500" height="align=" /></td></tr><tr><td class="mini">Picture from Gale</td></tr></table><br />
+<br />
+The pipe that runs from the radiator to the expansion tank is about 1/4 inch diameter (internal) , but just as it enters the expansion tank it reduces in size down to 1/64 inch diameter. this pin hole is what was blocking and causing overheating... I have enlarged the hole by running a 1/4 drill down the pipe and this should prevent any futher blockage.<br />
+<br />
+<strong>Great Overheating write up from Arnold Matusz.</strong><br />
+The interesting thing about how this all began is that I gave my car for a little test drive to a friend who normally drives like crazy.<br />
+When I drove the car everything seemed allright, but when he gave me the key and I got into the car, the engine coolant was so hot that it would probably have bent the water indicator needle in my dashboard. First I thought he really stood on the gaspedal instead of &quot;on the seat&quot; and thought it needed a little cooling down time! But it was really aukward because an engine should cool itself down at 600RPM and 6000RPM aswell!<br />
+<br />
+I waited a bit for it to settle down but it didn't help much as I've turned the engine on ... it immediately boiled the water. So it was clear that the coolant system had a bug (thermostat, not enough coolant, headgasket, waterpump ...)<br />
+As my dad is a car mechanic he immediately spotted that the thermostat was blocked in a closed position. This normally prevents the water to flush through the radiator so that the engine can't cool itself down!<br />
+To change the radiator you only have to remove the thermostat housing (if you can get hold of the little seal in the housing do it, it's worth it) replace the thermostat and put back the housing. Don't forget to clean the surface so the housing can close 100% on the head ... to prevent any water leaks.<br />
+After all these have been done we noticed how difficult it is to bleed the coolant system! It was impossible not difficult! The engine was still overheating, now we thought the reason was that the thermostat is closed, there's not enough water around it (air trapped inside the system) and this is why the engine is overheating. But the thermostat was working just fine.<br />
+Then we suspected taht the headgasket had some crack and that part of the compressed air-fuel mixture from the cylinder is escaping through the crack into the coolant system! It was pretty viable as the engine overheated a few times! So we changed that aswell!<br />
+But when we got back to fill up the coolant system with coolant ... it still didn't want to bleed itself through.<br />
+The interesting part is that the engine could be cooled down if you use the heater in the car. The radiator from the heating system acts almost as the normal radiator, it blows loads of hot air into the cabin thus cooling the engine down!<br />
+The next step was to change the water pump, although it didn't seem a very viable solution, as it gave a no good explanation why there is heating in the system!<br />
+When we took out the water pump the <span style="color:#FF0000; background:">PLASTIC IMPELLER </span>remained inside the head. That's when we got really happy as we found the reason for the whole overheating problem!<br />
+<br />
+<strong>Overheating troubleshooting!</strong><br />
+0 - check coolant level<br />
+1 - check if thermostat works<br />
+2 - headgasket replacement<br />
+3 - water pump replacement<br />
+4 - check the head for cracks<br />
+<br />
+BUT if you've got <strong>BMW M50</strong> (525i after 89) engine the order is a bit changed! (these models tend to have a <span style="color:#FF0000; background:">plastic impeller</span> on the water pump which suddenly walls down from the shat that should drive it ... so you actually end up with water not moving around at all in the egine - thus the extremely rapid overheating)<br />
+0 - check coolant level<br />
+1 - check if thermostat works<br />
+2 - check the waterpump<br />
+3 - check the fan clutch<br />
+4 - check the cooling fans for the radiator<br />
+5 - replace headgasket<br />
+6 - check the head for cracks<br />
+7 - replace engine if all these won't work :P<br />
+<br />
+<strong>CAUTION: </strong>when you mount the new thermostat handle the thermostat housing with allot of precaution because it can easily crack and you end if with a leak (where not only water escapes but the engine can get air inside the coolant system which is a bag factor when it comes to overheating).<br />
+When working on your coolant system and you are buying parts: always ask for a metal impeller water pump, and procure a metal thermostat housing).<br />
+<br />
+<strong>IDEA:</strong> if the water pump is at faul you might cool your engine down by turning on the heater in the car ... This will let you drive it to the services, better than walking / paying for a trailer! It worked for me:)<br />
+<br />
+<strong>Thanks to Don Gale </strong><br />
+<br />
+<h3 class="showhide_heading" id="M50_Overheating">M50 Overheating</h3>
+Under what circumstances is your car getting hot ? Most M50's used a water pump that had a plastic impeller on a steel shaft. This impeller can slip on the shaft, which will cause overheating while driving, but not when idling. In extreme cases the impeller can melt or break completely off of the shaft, causing overheat all the time.<br />
+<br />
+<strong>Replacing the water pump in an E34</strong><br />
+The procedure is the same as the E36, listed below, with a few exceptions.<br />
+There is no plastic cover to remove from above the radiator, but you will need to remove the fan shroud, it is held in place by a push pin on each side of the top. Use a small screwdriver to remove the centre pin and remove the clip. Then you can lift the fan shroud up and out of the car.<br />
+<br />
+<strong>Replacing the water pump on an E36</strong><br />
+To replace the water pump, drain the radiator, the drain plug is located on the bottom left of the radiator. You will need to remove the plastic cover above the radiator. Remove the alternator air intake and the top radiator hose. To remove the fan, you will need a narrow 32 mm wrench, the thread on the fan is left hand, that is, opposite to normal threads. Make sure you turn it clock wise to remove it. Do not use pliers on the pulley to hold it while removing the fan, many of these engines used plastic pulleys and you will damage it. There is a BMW special tool to hold the pulley in place while breaking loose the fan , if you do not have access to this tool, you can use a hammer on the wrench. A sharp hit is usually all that is needed to shock loose the fitting on the fan. If using this method, and you have a black plastic thermostat housing, make sure the top radiator hose is removed first. If you do not do this, there is a strong chance of the wrench hitting the hose clamp and breaking the plastic housing. Remove the lower radiator hose from the thermostat housing, and move it out of the way. You do not need to remove the thermostat housing, but may wish to do so for a better view of the pump. The pump is held on by 4 10 mm nuts, remove these nuts. In order to remove the pump from the block , there are two threaded holes, check your new pump for their location. You will need to screw a bolt into each of these holes, these bolts will bottom out against the block, and extract the water pump.<br />
+<br />
+The bolts need a 5mm thread and to be at least 30 mm long. Tighten each one a little at at time, alternating between the two to pull the pump evenly.<br />
+<br />
+To install the new pump, lubricate the O-ring seal with engine oil or a similar lubricant, and push it straight into the hole. Put the nuts on the studs and tighten each one in stages to pull the new pump into the block. Replace all removed components, install new gaskets on the thermostat housing if you removed it. It would be a good time to change the thermostat also. This is essential if the car has been overheated, a thermostat is a temperature sensitive device, if it is subjected to an overheat situation, it will become unreliable.<br />
+<br />
+Remove the bleeder screw from the expansion tank mounted to the radiator, fill the system until coolant is flowing from the bleed hole. When installing the bleed screw, be very careful not to over tighten it. Once you feel the screw bottom out, turn it less than 1/4 of a turn to secure it. This screw is sealed with a rubber O-ring, it will seal with very little pressure. Too much pressure will snap the head right off of it. Once the system is bled, install the radiator cap and start the engine, let it idle for 5 minutes, keep an eye on the temp gauge , it should not go past the half way mark. Open the bleed screw slightly to let any last air pocket escape , and you are done.<br />
+<br />
+Source: tech tips Koalamotorsport.com<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+  Created by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>.
+  Last Modification: Thursday 31 of July, 2008 23:00:19 UTC by <a class='link' href='tiki-user_information.php?userId=1' >admin</a>. 
+
+
+  </p> 
+
+
+
+
+
+							</div>						</div>
+					</div>
+
+					<hr class="hidden" />
+					</div>
+					<div class="clearfix" id="col3">
+					<h2 class="hidden">Sidebar</h2>
+					<div class="content">
+					
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function capLock(e){
+ kc = e.keyCode?e.keyCode:e.which;
+ sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
+ if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk))
+  document.getElementById('divCapson').style.visibility = 'visible';
+ else
+  document.getElementById('divCapson').style.visibility = 'hidden';
+}
+
+//--><!]]>
+</script>
+
+
+	<div class="box box-login_box">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Login</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxr1" style="display: block" class="clearfix box-data">
+         <form name="loginbox" action="https://www.bmwe34.net/Wiki/tiki-login.php" method="post" > 
+     	         <fieldset>
+          <legend>Login as&hellip;</legend>
+            <div><label for="login-user">Email:</label><br />
+		              <input type="text" name="user" id="login-user" size="15" />
+	  <script type="text/javascript">document.getElementById('login-user').focus();</script>
+		</div>
+		<script type="text/javascript">document.getElementById('login-user').focus();</script>
+                    <div><label for="login-pass">Password:</label><br />
+          <input onkeypress="capLock(event)" type="password" name="pass" id="login-pass" size="15" />
+		  <div id="divCapson" style="visibility:hidden"><img src="pics/icons/error.png" alt="Error" width="16" height="16" style="vertical-align:middle" border="0" title="Error" class="icon" /> CapsLock is on.</div>
+		  </div>
+                                    <div style="text-align: center"><input type="checkbox" name="rme" id="login-remember-module" value="on" /><label for="login-remember-module">Remember me</label> (for 1 year)
+			  </div>
+                                <div style="text-align: center"><input class="button submit" type="submit" name="login" value="Login" /></div>
+       </fieldset>
+          
+                      <div>[&nbsp;<a class="linkmodule" href="tiki-register.php" title="Click here to register">Register</a> | <a class="linkmodule" href="tiki-remind_password.php" title="Click here if you've forgotten your password">I forgot my password</a>&nbsp;]</div>
+                                                            	
+	<input type="hidden" name="stay_in_ssl_mode_present" value="y" />
+              <input type="hidden" name="stay_in_ssl_mode" value="n" />
+            
+			      </form>
+    	<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+	<div class="box box-ApplicationMenu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-ApplicationMenur2" style="display: block" class="clearfix box-data">
+
+<div id="Application Menu" style="display:block;">
+
+
+
+<div class="option selected"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Home</span></a></div>
+
+
+
+
+
+<div class="separator">
+			<a class='separator' href="javascript:icntoggle('menu42__200');" title="Toggle options">
+									<img src="pics/icons/folder.png" alt="Toggle" width="16" height="16" name="icnmenu42__200" border="0" title="Toggle" class="icon" />
+						</a>
+	 
+<a href="tiki-index.php" class="separator">
+<span class="menuText">Wiki</span>
+</a>
+ 
+</div> 
+
+<div class="menuSection" style="display:block;" id='menu42__200'>
+
+
+
+<div class="option"><a href="tiki-index.php" class="linkmenu"><span class="menuText">Wiki Home</span></a></div>
+
+
+
+<div class="option"><a href="tiki-lastchanges.php" class="linkmenu"><span class="menuText">Last Changes</span></a></div>
+
+
+
+<div class="option"><a href="tiki-wiki_rankings.php" class="linkmenu"><span class="menuText">Rankings</span></a></div>
+
+
+
+<div class="option"><a href="tiki-listpages.php" class="linkmenu"><span class="menuText">List Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-orphan_pages.php" class="linkmenu"><span class="menuText">Orphan Pages</span></a></div>
+
+
+
+<div class="option"><a href="tiki-editpage.php?page=sandbox" class="linkmenu"><span class="menuText">Sandbox</span></a></div>
+
+
+
+	</div>
+
+
+<script type='text/javascript'>
+      			status = '';
+				setfolderstate('menu42__200', 'd', '', status);
+	              </script>
+
+</div>
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+			<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				setsectionstate('mod-ApplicationMenur2','o', 'module.png');
+//--><!]]>
+			</script>
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+					
+
+
+
+	<div class="box box-admin_menu">
+			<h3 class="box-title clearfix">
+						<span class="moduletitle">Admin Menu</span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-admin_menur5" style="display: block" class="clearfix box-data">
+<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]-->
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+
+							</div>
+				</div>
+				<br style="clear:both" />
+			<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+			</div>
+	
+		</div>	</div> 
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325408391E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+
+	</body>
+</html>

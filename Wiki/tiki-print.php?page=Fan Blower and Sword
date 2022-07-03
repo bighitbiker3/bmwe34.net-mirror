@@ -1,0 +1,231 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Fan Blower and Sword 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Fan+Blower+and+Sword">Fan Blower and Sword</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="FAN_BLOWER_AND_SWORD">FAN BLOWER AND SWORD</h2>
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/mircofilter%20(3).jpg" border="0"  /></div><br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >EASY</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$40-130</td></tr></table><br />
+<br />
+The speed of the fan blower is controlled through two types of setups on the BMW E34: the final stage unit (older E34s) also called &quot;the sword&quot; because of its look ($140) or the blower series resistance ($30).<br />
+<br />
+<h3 class="showhide_heading" id="Failure_syndromes:">Failure syndromes:</h3>
+• Fan blower not working on position 1,2 or 3,<br />
+• Fan blowing in full blast whatever the position of the knob.<br />
+<br />
+First you have to check if you have the cheaper resistance. If you don't find it, go buy a &quot;sword&quot;. BMA sells it for less than $140.<br />
+<br />
+<h3 class="showhide_heading" id="Blower_series_resistance_model_manufactured_after_week_2_of_1990_">Blower series resistance (model manufactured after week 2 of 1990)</h3>
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/Sword1.jpg" border="0"  width="height=" /></div><br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/Sword3.jpg" border="0"  width="height=" /></div><br />
+<ul><li> Phillips screwdriver
+</li></ul>
+<br />
+1. Inside the car, remove the carpeted panel on the left side of the center console.<br />
+2. The resistor is almost straight up from the gas pedal, it is a 3 x 3&quot; blue square plug that fits into the heater housing.<br />
+3. Pry apart clips and pull the resistance pack out.<br />
+4. Installation is reverse of removal.<br />
+<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Electrical/Data/Sword.jpg" border="0"  width="height=" /></div><br />
+<em>Final stage before week 2 of 1990- &quot;sword&quot; (Picture from Bill R.)</em><br />
+<br />
+<ul><li> Phillips screwdriver
+</li></ul>
+<br />
+<strong>On some early E34s (6/88) LHD:</strong> you might have a resistor pack, but mounted at the right side (passenger side). So a resistor pack can be mounted left or right, depending on the manufacturer of the heating housing. I went to the local dealer to get a new resistor pack. They told me that it could be 3 kinds of resistor packs, all depending on the manufacturer of the heating house, and not interchangeable. To get the right type of resistor pack, you should know the manufacturer, which could be Siemens, Behr or Valeo. After some searching, I discovered the name of the manufacturer on the heating housing (near the air duct for the back passengers), in my case Valeo.<br />
+<em>Information from Henno de Bruin.</em><br />
+<br />
+1. If you didn't see anything on the driver side, you have a final stage also called &quot;sword&quot;.<br />
+2. Remove the glove box.<br />
+3. Remove the carpeted panel on the right side of the center console.<br />
+3. Remove screws holding the plastic cover at the left of the glove box then slide it forward and out.<br />
+4. Remove the ventilation air duct screws (behind the glove box) and pull it out.<br />
+5. Disconnect all the plugs of the final stage unit, remove the holding screws and pull the &quot;sword&quot; out.<br />
+6. Installation is reverse of removal.<br />
+<br />
+<strong>Procedure for SWORD repair</strong><br />
+You can recondition your sword, component cost is $3.52. You can purchase electronic parts from Mouser electronics (www.mouser.com), stock numbers are listed (no affiliation).<br />
+<br />
+(4) BUZ71A MOSFETS, type TO-220 mouser# 511-STP16NF06 (60v 16A N channel).(old part#: 511-BUZ71A) <em>(thanks to Alun and Mukund)</em><br />
+N-channel, 50V, 13A<br />
+(4) 8-32 x 1/4&quot; machine screws<br />
+(4) 8-32 x 3/8&quot; machine screws<br />
+(12) #8 flat washers<br />
+(4) 1/4 x 1/4 bronze threaded standoffs mouser# 534-1692A<br />
+<br />
+1. With the sword out, remove screw from plastic housing on sword handle and remove cover.<br />
+2. Remove locnut attaching electrical component from PCB to &quot;wave&quot; plate.<br />
+3. Using a hacksaw blade without damaging nearby resistor, cut through epoxy that attaches PCB to wave plate at each MOSFET.<br />
+4. Grind epoxy carefully (dremel or bench grinder) on side of PCB opposite wave plate till you hit copper. Three bonding sites should be exposed at each location. Should be able to twist old MOSFETs off wave plate with pliers.<br />
+5. Drill 1/16&quot; diameter hole thru PCB as close to each of 12 MOSFET pins as possible.<br />
+6. Drill 3/16&quot; diameter throught the swaged-over ends of each standoff. You can now separate the PCB from the wave plate. Careful with the 2-lead component that you unbolted previously.<br />
+7. Drill .172 diameter through PCB and wave plate where standoffs went through. Carefully hold each MOSFET in a vise by the edges of the metal tab, and drill it out to .172 also.<br />
+8. Bend MOSFET leads 90°, holding leads with pliers at the attached end. Use old MOSFET to determine bend location. Take antistatic precautions (ground yourself) before handling MOSFETs.<br />
+9. Assemble 8-32 x 1/4 screws thru PCB, and attach standoffs with loctite.<br />
+10. Solder in MOSFET with 25W iron, deflux (mouser# 577-1676-125 12oz aerosol defluxer).<br />
+11. Lightly sand the contact patch for the MOSFET on the wave plate. Conductivity is very important. Some people use a special conductive grease under the MOSFET Assemble wave plate to upstands with 3 washers under the head of each 3/8&quot; long screw, or grind screws to correct length - no washers required. Use loctite. Attach your 2-wire component from #2 at this time.<br />
+12. Spray plate and PCB (whatever is exposed to oxidation) with Fin-L-Kote<a href="tiki-editpage.php?page=Fin-L-Kote" title="Create page: Fin-L-Kote" class="wiki wikinew">?</a> UR (577-2104-125 12oz aerosol) or use spray lacquer like I did.<br />
+<br />
+<strong>Note from Scott:</strong><br />
+This item is now out of stock at Mouser.<br />
+A search for buz-71a yields the replacement: <a class="wiki"  href="http://tinyurl.com/58zgf">http://tinyurl.com/58zgf</a><br />
+<br />
+New part# 511-STP16NF06 (60v 16A N channel)<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Fan+Blower+and+Sword">http://www.bmwe34.net/Wiki/tiki-index.php?page=Fan+Blower+and+Sword</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32542188E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

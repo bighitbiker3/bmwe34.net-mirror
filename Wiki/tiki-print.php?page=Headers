@@ -1,0 +1,221 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Headers 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Headers">Headers</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_HEADERS_INSTALLATION">BMW HEADERS INSTALLATION</h2>
+<br />
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Other/Misc/headers.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >300 - 1000</td></tr></table><br />
+<br />
+You now know everything about exhaust and understand that there is a couple of HP to gain by installing a set of headers (more with a turbo of NOS). Let me guide you in the installation of Racing Dynamics headers in a Bmw E34.<br />
+You now know everything about exhaust and understand that there is a couple of HP to gain by installing a set of headers. And you really feel them (more with a turbo of NOS). Let me guide you in the installation of Racing Dynamics headers in a Bmw E34.<br />
+<br />
+<h3 class="showhide_heading" id="Coating_procedure:">Coating procedure:</h3>
+You can send your headers to a coating shop to have them coated inside and out. The cost will be around $300 - $450.<br />
+Or you can buy black satin that will reduce the heat radiated by the headers. (They have more surface than the original manifolds and generate a lot of heat. And you want to keep the head down in the engine compartment and near the A/C lines).<br />
+I Sand them with 200 grid sand paper then cleaned them and had them coated at my favorite bodyshop. The only problem is that before they are cured on the car, they are a little bit sticky.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD1.jpg" border="0"  width="height=" /></div><br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+• Welding equipment (MIG) or an exhaust shop.<br />
+• Pipe enlarger or (much better as this is thick stainless) get a muffler shop to flange the RD tubes, exactly to fit it's diameter.<br />
+• 13mm socket and close end wrench.<br />
+• 4 x M8x55 (or M8x60) bolts and M8 nuts.<br />
+• 2 New exhaust manifold gaskets and the two catalytic conv. gaskets (2 different sizes).<br />
+• 12 new exhaust bolts (cooper ones) depending on the shape of yours.<br />
+<br />
+1- Lift the front and back of the car and put it on jack stands (a lift will be perfect). You will have more space to work underneath. Spray a lot of WD 40 on the exhaust manifold bolts and catalytic converter junction bolts.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD2.jpg" border="0"  width="height=" /></div><br />
+<br />
+2. Disconnect the O2 sensor and remove the protective rail (2x 10mm bolts) if equipped.<br />
+<br />
+3. Don't remove the exhaust manifold now. Remove the bolts out of the junction between the catalytic converter and the resonator. They might be completely rusted, in this case use a hacksaw and cut the bolts out.<br />
+<br />
+4. Remove the connection between the back of the catalytic converter and the resonator (4x13mm bolts... at least they were when the car was new).<br />
+If the bolts are too rusty, cut them with a saw as you won't reuse them. Clean all the rust from the holes to be able to fit the new screws.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD3.jpg" border="0"  width="height=" /></div><br />
+<br />
+5. Disconnect the connection between the two exhaust tubes and the exhaust manifold. Cut them if the bolts are too rusty as you will not reuse them again.<br />
+<br />
+6. Remove the 12 bolts out of the old exhaust manifold. Don't worry if you remove the studs with the bolts, studs can be purchased in any auto store. If you break one... that's another story. (I broke one but I was removing the cylinder head)<br />
+<br />
+7. Remove the old exhaust manifolds. You can sell them on ebay for around $0.50ea.<br />
+<br />
+8. Time to remove the catalytic converter.<br />
+Place a big cardboard box or something to hold the catalytic converter, you DON'T want to drop it as it is fragile.<br />
+Remove the connection between the front of the catalytic converter and the frame (depending on the model). (The connection is different between automatic and 5 speed).<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD4.jpg" border="0"  width="height=" /></div><br />
+<br />
+9. Make sure there is something or someone to hold the catalytic conv. Pull on it to disconnect it from the resonator then take it out. You can now remove the O2 sensor with an O2 sensor socket.<br />
+<br />
+10. Time to cut the catalytic converter tubes to fit the RD header tubes.<br />
+Don't follow this picture, the small tube is placed on top and the longer one on the bottom. You want to (as on the picture) place the RD tube (the black one on the the pic) next to the catalytic converter tube, both lining up at the angle (red line). Cut 1cm (1/3&quot;) before the RD tube flange. (Green line). Repeat the same with the other tube.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD5.jpg" border="0"  width="height=" /></div><br />
+<br />
+11. Now the fun part. Install both headers on the car. Follow the top pictures to see which one is the right and the left one. (It is a little bit tricky to install the left one, but you will figure it out).<br />
+Install new bolts if yours look rusted. Don't forget to install the headers' gasket.<br />
+<div class="img" align="desc="><img alt="" src="../E34main/Upgrade/Data/RD6.jpg" border="0"  width="height=" /></div><br />
+Isn't my engine clean? I should say: Gordon's clean.<br />
+<br />
+12. Slide the RD tubes into the cat tubes, install the O2 sensor back into the cat. Slide the cat back under the car and with some help, install it back. Install the bolt connecting the cat. to the frame. Install the 4 bolts connecting the RD headers to the RD tubes. Don't tighten the tubes bolts too much. Install the O2 sensor rail back and connect the O2 sensor plug.<br />
+If you coated your headers with black satin, let the car run for 30min at least the hood open. The heat from the headers will cure the coat. Don't worry if smoke is coming out of the engine compartment.<br />
+<br />
+<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Headers">http://www.bmwe34.net/Wiki/tiki-index.php?page=Headers</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.325419411E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

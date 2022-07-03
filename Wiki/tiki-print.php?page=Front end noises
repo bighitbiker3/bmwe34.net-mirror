@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Front end noises 
 				: BMW E34 Website  
 			</title>
 
@@ -114,30 +114,45 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Front+end+noises">Front end noises</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="BMW_E34_E32_E24_E28_FRONT_END_NOISES">BMW E34 - E32 - E24 - E28 FRONT END NOISES</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+A lot of parts in the E34 can produce &quot;clunk&quot;, &quot;clink&quot; and other &quot;clank&quot; noises. The trick is to check the cheapest parts first.<br />
+Check list from the more probable to the less.<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<h3 class="showhide_heading" id="Loose_strut_housing_nut">Loose strut housing nut</h3>
+If you changed your shocks, you may have a loose strut nut. Take a monkey wrench a tighten it. You don't need to remove the shock assembly, just jack up the side.<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Sway_bar_links">Sway bar links</h3>
+Place you car on ramps or stands then shake the link and check for &quot;clink&quot; noise and play. You can also remove it and drive slowly over bump to see if the noise is still here.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="Steering_links">Steering links</h3>
+Shake the link for play. Check the ball joint.<br />
 <br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="How_to_check_ball_joints_for_play_and_noises:">How to check ball joints for play and noises:</h3>
+Did you check for play with the car on the jack stands? If yes, the joints may be still bad. You need to check with a large channel lock type pliers and the car at ride height, on ramps for example. If you can squeeze the joints top-to-bottom when they are in their normal position, they are finished. Time to replace the arm or ball joint.<br />
+<br />
+<h3 class="showhide_heading" id="Thrust_arms_upper_control_arms_">Thrust arms (upper control arms)</h3>
+Cause the infamous shimmy (50-60 Mph) and severely enhanced brake shimmy. If the bushings had not been tighten under load, they will be damaged. Check the bushings for cracks, jack up the front with the wheel on and shake the wheel to locate the noise.<br />
+Use a pray bar under the arm to check ball joint play (they &quot;clunk&quot; when worn).<br />
+<br />
+<h3 class="showhide_heading" id="Control_arms_lower_control_arms_">Control arms (lower control arms)</h3>
+Check the bushings for cracks, jack up the front with the wheel on and shake the wheel to locate the noise. If the bushings had not been tighten under load, they will be damaged. Use a pray bar under the arm to check ball joint play (they &quot;clunk&quot; when worn).<br />
+<br />
+<h3 class="showhide_heading" id="Strut_bearings_shock_mounts">Strut bearings / shock mounts</h3>
+BMW mecanics say that the front ones last for a long time. Lift the front of the car, shake the shock absorber for play.<br />
+<br />
+<h3 class="showhide_heading" id="Steering_box_mounting_bolts">Steering box mounting bolts</h3>
+I had a vicious clunk in my front end during slow turns, mostly backing in and out of parking spaces. I tightened the large gland nut at the top of the strut insert, and replaced the sway bar links, but it made no difference. Finally I took it back to the guys who did the shocks and thrust arm bushings. They tightened the steering box mounting bolts, and the bolts that hold on the front subframe and it totally fixed the problem. (Information from J. Calhoun)<br />
+<br />
+You can easily locate noises by placing a screw driver with the handle against your ear and the tip against the part to be checked.<br />
+<br />
+If any of the ball joint boots are damaged, it is just a mater of time before the ball joint goes bad, change the part.<br />
+<br />
 
 
 
@@ -150,7 +165,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Front+end+noises">http://www.bmwe34.net/Wiki/tiki-index.php?page=Front+end+noises</a>
 
   </p> 
 
@@ -170,7 +185,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325423597E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		02 sensor 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,47 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=02+sensor">02 sensor</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="Oxygen_O2_Sensor">Oxygen O2 Sensor</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="desc="><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/O2%20sensor.jpg" border="0"  width="height=" /></div><br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32, E28, E24</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >$80 to $200</td></tr></table><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+The BMW Oxygen sensor measures the amount of oxygen in the exhaust after combustion and signals the computer to adjust the air/fuel mixture.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<h3 class="showhide_heading" id="Symptoms">Symptoms</h3>
+<ul><li>oor performance, poor fuel economy and high emissions are the failure syndromes.
+</li><li>Check this great <a class="wiki external"  href="http://www.wps.com/LPG/o2sensor.html" rel="external">O2 sensor FAQ.</a>
+</li></ul>
 <br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<ul><li> 02 sensor socket (can be purchased at Autozone)
+</li><li> Lot's of WD-40
+</li><li> Ratchet, extensions and u-joints
+</li><li> Anti seize compound
+</li></ul>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/O2%20sensor_data/O2%20socket.gif" border="0"  width="height=" /></td></tr><tr><td class="mini">Oxygen sensor socket</td></tr></table></div><br />
+Place the front of the car on jacks or use a ramp, then spray the old sensor with a lot of WD40 (with cold exhaust). Let it sit for awhile then you can remove the sensor with the sensor socket some extensions and u-joints. Don't forget to apply a coat of anti-seize compound on the new sensor threads. NOT on the tip!!!<br />
+<br />
+In any model, you don't have to remove any part of the exhaust line.<br />
+<br />
+<h3 class="showhide_heading" id="i">525i</h3>
+<strong>M20</strong> : The O2 sensor is located below the #6 cylinder on the front of the exhaust pipe. The connector is located on the right-hand rear of the engine, near the electronics box.<br />
+<br />
+<strong>M50</strong> : The O2 sensor is located at the front of the catalytic converter. The connector is located on the left-hand side of the engine, below the starter.<br />
+<br />
+<h2 class="showhide_heading" id="i_540i">530i - 540i</h2>
+The M60 engine uses two O2 sensors located at the front of the catalytic converters.<br />
+The connector is located beneath the car under the transmission.<br />
+<br />
+<h2 class="showhide_heading" id="i_2">535i</h2>
+<table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Gen_maintenance/Data/O2senso_pic.jpg" border="0"  height="align=" /></td></tr><tr><td class="mini">link=</td></tr></table><br />
+The 535i uses a single O2 sensor located at the front of the catalytic converter under the car. The connector is located at the rear of the engine compartment, lower left-hand side. (Round plug)<br />
 
 
 
@@ -150,7 +169,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=02+sensor">http://www.bmwe34.net/Wiki/tiki-index.php?page=02+sensor</a>
 
   </p> 
 
@@ -170,7 +189,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.32542419E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

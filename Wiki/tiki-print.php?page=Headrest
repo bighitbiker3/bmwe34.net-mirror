@@ -1,0 +1,200 @@
+
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="TikiWiki CMS/Groupware - http://TikiWiki.org" />
+
+
+		<title>
+		Headrest 
+				: BMW E34 Website  
+			</title>
+
+		<link rel="icon" href="favicon.png" />
+
+		<link rel="StyleSheet" href="lib/phplayers/layerstreemenu.css" type="text/css" />
+<link rel="StyleSheet" href="lib/phplayers/layerstreemenu-hidden.css" type="text/css" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var numl;var toBeHidden;// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+//--><!]]>
+</script>
+
+		<link rel="stylesheet" href="css/cssmenus.css" type="text/css" />
+
+
+
+
+
+
+		
+<!-- cssfile 51 -->
+<link rel="stylesheet" href="styles/coelesce.css" type="text/css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="styles/coelesce/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+
+<!-- jsfile 0 -->
+<script type="text/javascript" src="lib/tiki-js.js"></script>
+
+
+
+	</head>
+	<body onload="" class="tiki tiki_wiki_page print">
+
+<div id="tiki-clean">
+  <div  id="tiki-mid">
+     
+
+	
+	
+ 
+
+<div class="wikitopline" style="clear: both;">
+	<div class="content">
+				<div class="wikiinfo" style="float: left">
+
+
+
+		</div>
+ 
+ 
+	</div> 
+</div> 
+
+<div class="categbar" style="clear: both; text-align: right">
+    </div>
+
+
+<div class="wikitext clearfix">
+
+
+
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Headrest">Headrest</a></strong></h1>
+
+ 
+
+
+<h2 class="showhide_heading" id="BMW_REAR_HEADREST_UPGRADE_SEDAN_ONLY">BMW REAR HEADREST UPGRADE - SEDAN ONLY</h2>
+<br />
+<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >HARD</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >2.5 hours</td></tr></table><br />
+<br />
+<strong><div style="text-align: center;"><span style="color:#FF0000; background:">Procedure courtesy of Hector Tam</span></div></strong><br />
+<br />
+It seems like rear headrest is an option that wasn't installed in all the BMW E34. You want to add them to your car: follow the procedure.<br />
+<br />
+<h3 class="showhide_heading" id="Part_numbers:">Part numbers:</h3>
+<br />
+<strong>52 20 8 168 591:</strong> This is the actual leather head rest. It comes with the metal post (which is a flat chrome metal piece, approx. 2.5” by 3/16” cross-section) and the plastic cover to cover the metal post (I’ll call this cover as part “X”).<br />
+<strong>52 20 8 116 436:</strong> This is the plastic piece that covers the holes you have to make (to pass the metal post from the head rest). The color of this plastic should match with the rest of the car.<br />
+<strong>52 20 8 102 717</strong> and <strong>-718</strong>: This is the metal bracket (they call it 8-guide left and 8-guide right) that gets installed behind the rear back seat. This bracket is installed to the flat metal panel that is part of the car by 3 metal screws. When you look at the car metal panel, you’ll see two holes which are already threaded. The third one is “indented” and you must punch it out and add a threaded clip. If you are not clear on how this clip looks, take a look at the Bentley book for the 5-series, page 510-5. If you look at the picture, to the left of item 8 and just below/left of item 9, there is one of these clips. You have to get one of those for each bracket. When you remove the rear back rest, you’ll see it. Picture is worth a million words in this case.<br />
+<br />
+Anyway, that is all! You need 3 parts. If you must purchase everything from BMW, the clip (I believe) is p/n 07-12-9-925-735, the metal screws are p/n 07-11-9-916-939.<br />
+<br />
+I got them all from the garage because I did not even know how many parts were needed. This is what is cost:<br />
+<br />
+Headrest, 52 20-8-168-591, $204 for both<br />
+Cover, 52 20-8-116-436, $15.90 for both<br />
+8-guide left, 52 20-8-102-717, $31.75, for left side bracket<br />
+8-guide right, 52 20-8-102-718, $31.75, for right side bracket<br />
+Screws, 07-11-9-916-939, $0.48 for all six<br />
+Clamp (this is the threaded clip), 07-12-9-925-735, $0.16 for both<br />
+<br />
+<h3 class="showhide_heading" id="Procedure">Procedure</h3>
+<br />
+1. Remove the seat. The seat has two spring clamps holding it. Pull up from the front of the seat. Pull hard. Slide out the seat and you will see the battery there. You’ll also find the BMW alarm there.<br />
+2. To remove the back seat, you have to remove 4 (10 mm) bolts. Two bolts can be found behind the armrest. These are the metal hex nuts. The other bolts are one at each side of the back seat. You will see these small plastic nuts.<br />
+3. Remove the two large (18 mm) nuts that are holding the seat belts to the floor pan. Pay attention how they are mounted. Note that there is a belleville washer between the seat belts at each bolt.<br />
+4. Remove the back seat. Each side has a spring clamp. Pull out at each side of the rear back seat. Now, pull out the seat belt plastic cover on top of the back rest. The center of the back seat has a small metal clamp. You have to pull UP the back seat in order to unhook this center metal clamp.<br />
+5. Now that the back seat is out, you will see how the brackets are installed. To expose where the bracket is going to be mounted, remove the rubber padding pattern and expose the holes.<br />
+6. You can place the 8-guide left bracket behind the rear back seat and use a marker to mark where the holes should go. Now, place a screw driver from behind and try to puncture through the leather from behind. Just push enough to leave an indentation. With the indentation, you can then mark with a marker from above. Get a knife and start cutting the leather. I used a clip (similar to a pliers but used to cut wires).<br />
+7. Install the metal brackets on the car.<br />
+8. Place the back seat in the car. Note how the bracket and the hole you made fit. You can make the adjustments with the back seat installed.<br />
+9. Place the plastic cover (the second part number in the list). Turn the plastic screws 90 degrees to match with the plastic clip in the head rest.<br />
+10. Insert the head rest sliding post through the leather, and through the bracket. Jam it all the way in. The little plastic clips will connect with the plastic cover and you will not see the metal sliding part any more.<br />
+11. Replace the 10 mm bolts to hold the back rest, the 18 mm to hold the seat belts, the plastic covers on the seat belts, and the bottom seat cushion. You are done!<br />
+<br />
+<br />
+Thanks to Phil Coppin<br />
+
+
+
+<hr class="hrwikibottom" />
+
+</div> 
+<!-- 1234 -->
+
+  <p class="editdate"> 
+
+
+    <br />
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Headrest">http://www.bmwe34.net/Wiki/tiki-index.php?page=Headrest</a>
+
+  </p> 
+
+
+
+  </div>
+</div>
+
+
+
+	
+	
+	
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Array();
+var jsedate = new Date();
+jsedate.setTime(1.32542083E+12);
+setCookieBrowser('javascript_enabled', 'y', null, jsedate);
+//--><!]]>
+</script>
+	</body>
+</html>

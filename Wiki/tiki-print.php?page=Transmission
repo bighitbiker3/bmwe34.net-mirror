@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Transmission 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,38 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Transmission">Transmission</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="TRANSMISSION">TRANSMISSION</h2>
+<div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="../E34main/Maintenance/Transmission/Data/susp_main_picture.jpg" border="0"  width="height=" /></td></tr><tr><td class="mini">link=</td></tr></table></div><br />
+<ul><li><a title="Automatic flush" href="tiki-index.php?page=Automatic+flush" class="wiki ">Automatic flush</a>
+</li><li><a title="Center bearing" href="tiki-index.php?page=Center+bearing" class="wiki ">Center bearing</a>
+</li><li><a title="Clutch hydraulic" href="tiki-index.php?page=Clutch+hydraulic" class="wiki ">Clutch hydraulic</a>
+</li><li><a title="Differential swap" href="tiki-index.php?page=Differential+swap" class="wiki ">Differential swap</a>
+</li><li><a title="Differential seals" href="tiki-index.php?page=Differential+seals" class="wiki ">Differential seals</a>
+</li><li><a title="Manual output seal" href="tiki-index.php?page=Manual+output+seal" class="wiki ">Manual output seal</a>
+</li><li><a class="wiki"  href="..//E34main/Maintenance/Transmission/Data/E34%20Autotrans.pdf" rel="">ZF Transmission level</a>
+</li></ul>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<h3 class="showhide_heading" id="Automatic_transmission:">Automatic transmission:</h3>
+Four types of automatic transmissions had been used in the Bmw E34. They are electro-hydraulically controled with 4 speeds (525i - 535i) or 5 speeds (530i - 540i). Check this info if you have the lifetime fluid transmission or no dipstick.<br />
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<h3 class="showhide_heading" id="Manual_transmission:">Manual transmission:</h3>
+Four types of manual transmissions had been used in the E34. Models are equipped either with 5 speeds (525i - 530i - 535i) or 6 speeds (lucky 540i).<br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+'95 M5 also had a 6-speed with a 3.23 diff ratio, giving a theoretical top speed of 200mph! Thanks to Rob Levinson from UUC Motorwerks who is in the process of converting his '94 M5 to a 6-speed and 3.45 with Quaife differential. The 535i can use this transmission also, it will bolt right up just like the earlier Getrag 280 from the 5-speed M5s.<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+If the clutch is changed or the transmission should be removed, change the following seals:<br />
+- Selector shaft oil seal (5 speed only)<br />
+- Output shaft oil seal<br />
+- Input shaft oil seal<br />
 <br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="Transmission_rubber_mounts:_by_Chris_Lingle_">Transmission rubber mounts: (by Chris Lingle)</h3>
+It was very easy and basically the same first couple of steps as the output flange seal job. You need to drop the whole exhaust system including ofcourse the nuts that hold it to the exhaust manifold. Then support tranny with jack stand and remove tranny mount bracket starting with the two 12mm nuts (nut located on bottom of mount) that hold the mount in place. Then remove the 4 15mm bolts that hold the actual bracket in place which will allow for it to come out. Now loosen the two nuts on top of the mounts and slide the &quot;old&quot; mount out- One thing to take note is the tranny mounts &quot;LOCK&quot; into place on the braket with the help of two little ears the keep the mounts from spinning while tightening.<br />
+<br />
 
 
 
@@ -150,7 +160,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Transmission">http://www.bmwe34.net/Wiki/tiki-index.php?page=Transmission</a>
 
   </p> 
 
@@ -170,7 +180,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325407575E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

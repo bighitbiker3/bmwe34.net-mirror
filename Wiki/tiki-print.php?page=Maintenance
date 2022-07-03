@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Maintenance 
 				: BMW E34 Website  
 			</title>
 
@@ -78,6 +78,8 @@ IE4 = IE4 && IE && !DOM;
 <link rel="stylesheet" href="css/ie8.css" type="text/css" />
 <![endif]-->
 
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="tiki-jsplugin.php"></script>
 <!-- jsfile 0 -->
 <script type="text/javascript" src="lib/tiki-js.js"></script>
 
@@ -114,30 +116,39 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Maintenance">Maintenance</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="MAINTENANCE">MAINTENANCE</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<div class="img" align="center"><img alt="" src="../E34main/Maintenance/O2%20sensor_data/Maintenance.jpg" border="0"  /></div><br />
+<br />
+<ul><li><a title="AC system" href="tiki-index.php?page=AC+system" class="wiki ">AC system</a>
+</li><li><a title="Body" href="tiki-index.php?page=Body" class="wiki ">Body</a>
+</li><li><a title="Brakes" href="tiki-index.php?page=Brakes" class="wiki ">Brakes</a>
+</li><li><a title="E34 Touring" href="tiki-index.php?page=E34+Touring" class="wiki ">E34 Touring</a>
+</li><li><a title="Electrical" href="tiki-index.php?page=Electrical" class="wiki ">Electrical</a>
+</li><li><a title="Engine" href="tiki-index.php?page=Engine" class="wiki ">Engine</a>
+</li><li><a title="General maintenance" href="tiki-index.php?page=General+maintenance" class="wiki ">General maintenance</a>
+</li><li><a title="Interior" href="tiki-index.php?page=Interior" class="wiki ">Interior</a>
+</li><li><a title="Steering" href="tiki-index.php?page=Steering" class="wiki ">Steering</a>
+</li><li><a title="Suspension" href="tiki-index.php?page=Suspension" class="wiki ">Suspension</a>
+</li><li><a title="Transmission" href="tiki-index.php?page=Transmission" class="wiki ">Transmission</a>
+</li></ul>
 <br />
 <h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<em>If you want to keep your E34 for a very long time... there is no secret, either you bring it to the dealer or a reputable independent, or you perform all the work yourself... and most of the time, because you know and care for your car, the work you will do on your BMW will be of better quality. (Except if you are a sloppy mechanic...)</em><br />
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<h3 class="showhide_heading" id="Difficulty_definition">Difficulty definition</h3>
+<strong>EASY</strong>: Easy (oil change)<br />
+<strong>AVERAGE</strong>: Some mechanical knowledge required (brake pads)<br />
+<strong>HARD</strong>: Lot of mechanical knowledge or tools required (clutch replacement)<br />
+<strong>ARG</strong>: Better left to specialists (Engine rebuilt)<br />
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
-<br />
-Thanks to Brandon J.<br />
+<h3 class="showhide_heading" id="What_tools_do_I_need">What tools do I need</h3>
+If you plan on doing some work on your car, you should have the BENTLEY Service manual for your car (except if you have a E24...), a set of screwdrivers, sockets, wrenches, a decent floor jack, jack stands. This is a minimum.<br />
 
 
 
@@ -150,7 +161,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Maintenance">http://www.bmwe34.net/Wiki/tiki-index.php?page=Maintenance</a>
 
   </p> 
 
@@ -170,7 +181,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.32540811E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>

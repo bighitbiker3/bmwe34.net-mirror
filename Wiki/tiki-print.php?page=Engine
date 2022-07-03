@@ -10,7 +10,7 @@
 
 
 		<title>
-		Self leveling 
+		Engine 
 				: BMW E34 Website  
 			</title>
 
@@ -114,30 +114,66 @@ IE4 = IE4 && IE && !DOM;
 
 
 
-	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Self+leveling">Self leveling</a></strong></h1>
+	<h1 class="pagetitle"><strong><a title="refresh" accesskey="2" href="tiki-index.php?page=Engine">Engine</a></strong></h1>
 
  
 
 
-<h2 class="showhide_heading" id="SELF_LEVELING_SUSPENSION_REAR_CALIBRATION">SELF LEVELING SUSPENSION REAR CALIBRATION</h2>
+<h2 class="showhide_heading" id="Engine">Engine</h2>
 <br />
-<table class="wikitable"><tr><td class="wikicell" ><strong>BMW Models</strong></td><td class="wikicell" >E34, E31, E32</td></tr><tr><td class="wikicell" ><strong>Difficulty</strong></td><td class="wikicell" >AVERAGE</td></tr><tr><td class="wikicell" ><strong>Price estimate</strong></td><td class="wikicell" >Free</td></tr></table><br />
+<ul><li><a title="AFM Adjustment" href="tiki-index.php?page=AFM+Adjustment" class="wiki ">AFM Adjustment</a>
+</li><li><a title="Coolant replacement" href="tiki-index.php?page=Coolant+replacement" class="wiki ">Coolant replacement</a>
+</li><li><a title="Fuel pump" href="tiki-index.php?page=Fuel+pump" class="wiki ">Fuel pump</a>
+</li><li><a title="Headgasket" href="tiki-index.php?page=Headgasket" class="wiki ">Headgasket</a>
+</li><li><a title="M20 timing belt" href="tiki-index.php?page=M20+timing+belt" class="wiki ">M20 timing belt</a>
+</li><li><a title="M60 plugs" href="tiki-index.php?page=M60+plugs" class="wiki ">M60 plugs</a>
+</li><li><a title="Engine mounts" href="tiki-index.php?page=Engine+mounts" class="wiki ">Engine mounts</a>
+</li><li><a title="Valve adjustment" href="tiki-index.php?page=Valve+adjustment" class="wiki ">Valve adjustment</a>
+</li></ul>
 <br />
-<h3 class="showhide_heading" id="Symptomes">Symptomes</h3>
-If your rear right height or you want the lower the rear of your BMW or your Touring, time to adjust the SLS.<br />
+<div class="simplebox">BMW 525i </div><br />
+<strong>M20</strong><br />
+<ul><li>2 valves 2.5 liter 6 cylinders.
+</li><li>168hp/163lb.ft
+</li><li>Also found in: E30 325i
+</li></ul>
 <br />
-<h3 class="showhide_heading" id="Height_adjustment.">Height adjustment.</h3>
-Actually there is a whole procedure to correctly adjust the ride height. The correct stock ride height should be calibrated first then it is advised to adjust for lowering from there. The calbration is used to ensure the proper weight for the low point and mid point of the self-leveling shock travel. The touring might need to be driven on top of double stack 2x8s to get enough clearance to reach underneath the rear.<br />
+<strong>M50</strong><br />
+<ul><li>4 valves 2.5 liter 6 cylinders.
+</li><li>189hp/184lb.ft
+</li><li>Also found in: E36 325i
+</li></ul>
 <br />
-<h2 class="showhide_heading" id="The_procedure_includes_but_not_limited_to:">The procedure includes, but not limited to:</h2>
-1. put car in neutral and release the parking brake<br />
-2. load the trunk with specified weight(616lbs?) for a touring<br />
-3. underneath, disconnect the control link to the lever and start the engine<br />
-4. then adjust the lever to the correct height (measured with correct wheel size) and lock down the lever<br />
-5. remove the weight and let the car relevel itself<br />
-6. reload the car, wait a few minutes and check ride height again<br />
+<div class="simplebox">BMW 530i </div><br />
+<strong>M60</strong><br />
+<ul><li>4 valves 3.0 liter V-8.
+</li><li>215hp/214lb.ft
+</li></ul>
 <br />
-Thanks to Brandon J.<br />
+<strong>M30</strong><br />
+<ul><li>2 valves 3.0 liter 6 cylinders. (early Euro models only)
+</li></ul>
+<br />
+<div class="simplebox">BMW 535i </div><br />
+<strong>M30</strong><br />
+<ul><li>2 valves 3.5 liter 6 cylinder.
+</li><li>208hp/225lb.ft
+</li><li>Also found in: E24 635csi - E32 735i - E28 535i
+</li></ul>
+<br />
+<div class="simplebox">BMW 540i </div><br />
+<strong>M60</strong><br />
+<ul><li>4 valves 4.0 liter V-8.
+</li><li>282hp/295lb/ft
+</li><li>Also found in the E32 740i
+</li></ul>
+<br />
+<div class="simplebox">BMW M5</div><br />
+<ul><li>S38
+</li><li>4 valves 3.6 (310hp) or 3.8 (340hp) liter 6 cylinders.
+</li></ul>
+<br />
+<br />
 
 
 
@@ -150,7 +186,7 @@ Thanks to Brandon J.<br />
 
 
     <br />
-    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling">http://www.bmwe34.net/Wiki/tiki-index.php?page=Self+leveling</a>
+    The original document is available at <a href="http://www.bmwe34.net/Wiki/tiki-index.php?page=Engine">http://www.bmwe34.net/Wiki/tiki-index.php?page=Engine</a>
 
   </p> 
 
@@ -170,7 +206,7 @@ Thanks to Brandon J.<br />
 // js 0 
 tiki_cookie_jar=new Array();
 var jsedate = new Date();
-jsedate.setTime(1.325425474E+12);
+jsedate.setTime(1.325410065E+12);
 setCookieBrowser('javascript_enabled', 'y', null, jsedate);
 //--><!]]>
 </script>
